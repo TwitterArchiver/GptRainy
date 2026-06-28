@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2056858302789927240",
+    "created_at": "2026-05-19T22:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T23:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056858302789927240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RfbxaUauj41685…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/RfbxaUauj41685/status/2056597542734119135",
+          "start": 41,
+          "url": "https://t.co/T5BCb2Zalq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056858302789927240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056597542734119135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中推药圈对dxm存在显著的低估\n人家洋人做的图里dxm的幻觉都能排到仙人掌上面😁 https://t.co/T5BCb2Zalq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2056858302789927240",
+        "created_at": "2026-05-19T22:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056858302789927240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RfbxaUauj41685…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/RfbxaUauj41685/status/2056597542734119135",
+              "start": 41,
+              "url": "https://t.co/T5BCb2Zalq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056858302789927240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056597542734119135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中推药圈对dxm存在显著的低估\n人家洋人做的图里dxm的幻觉都能排到仙人掌上面😁 https://t.co/T5BCb2Zalq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013517011729465344",
+        "conversation_id": "2056597542734119135",
+        "created_at": "2026-05-19T04:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056597542734119135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056597542734119135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10790,
+          "like_count": 183,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "o圈歧视链\n感康&lt;苯海索&lt;晚安&lt;美金刚&lt;愈美&lt;复方甘草&lt;pr80&lt;盐野义&lt;白兔&lt;策划药&lt;右美沙芬&lt;剧烈变形&lt;绝命毒师神秘物质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n07年mtf/我有一只小猫叫卡尔/o割/独立AI研究者\n不回关是因为怕回关太多被封号抱歉呜呜\n会慢慢回关的\n药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 88,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 65,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 45,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 0,
+                "url": "https://t.co/nif78SR5wo"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 85,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/nif78SR5wo",
+        "username": "RfbxaUauj41685",
+        "verified": false
+      }
+    ]
+  }
+}

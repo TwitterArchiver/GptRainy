@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2058828919596359812",
+    "created_at": "2026-05-25T08:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058828919596359812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/N3kuv/status/2…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/N3kuv/status/2058528839589097581",
+          "start": 67,
+          "url": "https://t.co/3P2NFnRcnW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058828919596359812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058528839589097581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个的两盒=20t愚昧，并且要用电动磨粉机磨碎后服下\n如果没有条件的0der不建议尝试\n但是有条件的话，其实还是比盐野义便宜1/2的 https://t.co/3P2NFnRcnW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058528836372049921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFdEfPasAEmqkv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2058828919596359812",
+        "created_at": "2026-05-25T08:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058828919596359812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N3kuv/status/2…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/N3kuv/status/2058528839589097581",
+              "start": 67,
+              "url": "https://t.co/3P2NFnRcnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058828919596359812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058528839589097581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个的两盒=20t愚昧，并且要用电动磨粉机磨碎后服下\n如果没有条件的0der不建议尝试\n但是有条件的话，其实还是比盐野义便宜1/2的 https://t.co/3P2NFnRcnW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058528836372049921"
+          ]
+        },
+        "author_id": "1476198137589268480",
+        "conversation_id": "2058528839589097581",
+        "created_at": "2026-05-24T12:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058528839589097581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJSE0h0uWU",
+              "end": 78,
+              "expanded_url": "https://x.com/N3kuv/status/2058528839589097581/photo/1",
+              "media_key": "3_2058528836372049921",
+              "start": 55,
+              "url": "https://t.co/iJSE0h0uWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058528839589097581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2538,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个对右美沙芬耐药已经回到基线的人，但是这个右美沙芬含片我含了24t，感觉现在撑死也就第一高原的药效这样 https://t.co/iJSE0h0uWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！不回关是因为怕回关太多被封号抱歉呜呜会慢慢回关的\n07年Transfem/🐱我的小猫叫卡尔/o割/🤖独立AI研究者/💊药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 92,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 69,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 69,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "盘点苯海索的第一百个罪行",
+        "id": "1476198137589268480",
+        "name": "达利莱生",
+        "pinned_tweet_id": "2047967882492187005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058028187595292672/2CcLAX2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 421,
+          "like_count": 4719,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1418
+        },
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2070645122321297420",
+    "created_at": "2026-06-26T23:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T00:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070645122321297420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837908701140996097",
+          "start": 3,
+          "username": "tomieinlove"
+        },
+        {
+          "end": 25,
+          "id": "4012654392",
+          "start": 17,
+          "username": "lafaiel"
+        },
+        {
+          "end": 38,
+          "id": "1806872409003495424",
+          "start": 26,
+          "username": "basedjensen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070645122321297420",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070563681914753473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tomieinlove: @lafaiel @basedjensen Dario really is the beaver building a dam wherever he may be. If his wife were giving birth he’d wan…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2070645122321297420",
+        "created_at": "2026-06-26T23:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070645122321297420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837908701140996097",
+              "start": 3,
+              "username": "tomieinlove"
+            },
+            {
+              "end": 25,
+              "id": "4012654392",
+              "start": 17,
+              "username": "lafaiel"
+            },
+            {
+              "end": 38,
+              "id": "1806872409003495424",
+              "start": 26,
+              "username": "basedjensen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070645122321297420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070563681914753473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tomieinlove: @lafaiel @basedjensen Dario really is the beaver building a dam wherever he may be. If his wife were giving birth he’d wan…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837908701140996097",
+        "conversation_id": "2070449082599108664",
+        "created_at": "2026-06-26T17:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070563681914753473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4012654392",
+              "start": 0,
+              "username": "lafaiel"
+            },
+            {
+              "end": 21,
+              "id": "1806872409003495424",
+              "start": 9,
+              "username": "basedjensen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070563681914753473",
+        "in_reply_to_user_id": "4012654392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 788,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070449082599108664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lafaiel @basedjensen Dario really is the beaver building a dam wherever he may be. If his wife were giving birth he’d wanna push the baby back inside"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 413,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T17:36:10.000Z",
+        "description": "But better die than live mechanically a life that is a repetition of repetitions.",
+        "id": "1837908701140996097",
+        "location": "San Francisco, CA",
+        "name": "tomie",
+        "pinned_tweet_id": "1842394921464119691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039592535983890432/K1BG8OLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9627,
+          "following_count": 1415,
+          "like_count": 83145,
+          "listed_count": 55,
+          "media_count": 1553,
+          "tweet_count": 10713
+        },
+        "url": "",
+        "username": "tomieinlove",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-25T11:19:08.000Z",
+        "description": "",
+        "id": "4012654392",
+        "name": "INIYSA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701405342322888704/Bw63vBiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3464,
+          "following_count": 226,
+          "like_count": 12915,
+          "listed_count": 25,
+          "media_count": 2100,
+          "tweet_count": 9981
+        },
+        "url": "",
+        "username": "lafaiel",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T02:09:35.000Z",
+        "description": "ctoing at a soonicorn, ex cluster janitor at a frontier lab. current chief clanker at clanker cloud",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clankercloud.ai",
+                "end": 23,
+                "expanded_url": "http://clankercloud.ai",
+                "start": 0,
+                "url": "https://t.co/qQZ8QuIkJc"
+              }
+            ]
+          }
+        },
+        "id": "1806872409003495424",
+        "location": "tropics ",
+        "name": "Hensen Juang",
+        "pinned_tweet_id": "1932601253747700023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929852431963496448/ApQPI0IR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15828,
+          "following_count": 2272,
+          "like_count": 166468,
+          "listed_count": 161,
+          "media_count": 4274,
+          "tweet_count": 32230
+        },
+        "url": "https://t.co/qQZ8QuIkJc",
+        "username": "basedjensen",
+        "verified": true
+      }
+    ]
+  }
+}

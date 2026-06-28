@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2068297365728211350",
+    "created_at": "2026-06-20T11:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068297365728211350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1019128153241866242",
+          "start": 3,
+          "username": "Ferosan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068297365728211350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060280057915130352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ferosan_: 中国のLGBTQ+含む「逸脱」とみられる若者を、肉体的・精神的暴力で「矯正」しようとする「矯正学校」の存在、特徴と運行する基盤について、近く報告します。報告内容はTwitterにも載せますのでご期待ください。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068297365728211350",
+        "created_at": "2026-06-20T11:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068297365728211350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1019128153241866242",
+              "start": 3,
+              "username": "Ferosan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068297365728211350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060280057915130352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ferosan_: 中国のLGBTQ+含む「逸脱」とみられる若者を、肉体的・精神的暴力で「矯正」しようとする「矯正学校」の存在、特徴と運行する基盤について、近く報告します。報告内容はTwitterにも載せますのでご期待ください。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1019128153241866242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060280057915130352",
+        "created_at": "2026-05-29T08:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060280057915130352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ripo0079/statu…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/ripo0079/status/2060263174788800523",
+              "start": 105,
+              "url": "https://t.co/nRTvNfzJmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060280057915130352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14968,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060263174788800523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国のLGBTQ+含む「逸脱」とみられる若者を、肉体的・精神的暴力で「矯正」しようとする「矯正学校」の存在、特徴と運行する基盤について、近く報告します。報告内容はTwitterにも載せますのでご期待ください。 https://t.co/nRTvNfzJmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 365,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-17T07:54:20.000Z",
+        "description": "Felinya / 遊ぶ、考える、書く / あなたのとなりにいる異邦人 / 残酷な町ほど綺麗な虹が立つ / 🐚",
+        "id": "1019128153241866242",
+        "location": "🟪⬜🟩 もしくは「ご自由に」",
+        "name": "ふぇりーにゃ",
+        "pinned_tweet_id": "2060280057915130352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892100557541867523/Ng-6Q9RE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 3958,
+          "like_count": 150230,
+          "listed_count": 8,
+          "media_count": 1394,
+          "tweet_count": 29230
+        },
+        "url": "",
+        "username": "Ferosan_",
+        "verified": false
+      }
+    ]
+  }
+}

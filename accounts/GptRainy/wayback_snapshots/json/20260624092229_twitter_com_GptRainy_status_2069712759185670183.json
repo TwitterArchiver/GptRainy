@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "2069712759185670183",
+    "created_at": "2026-06-24T09:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069712759185670183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NobodyXU2000/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/NobodyXU2000/status/2069708294416126041",
+          "start": 20,
+          "url": "https://t.co/vNy3saas1p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069712759185670183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069708294416126041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "21世纪一个夫妻还不能别姓的国家，，， https://t.co/vNy3saas1p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2069712759185670183",
+        "created_at": "2026-06-24T09:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069712759185670183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NobodyXU2000/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/NobodyXU2000/status/2069708294416126041",
+              "start": 20,
+              "url": "https://t.co/vNy3saas1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069712759185670183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069708294416126041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "21世纪一个夫妻还不能别姓的国家，，， https://t.co/vNy3saas1p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279688463797719040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2069704383173189945",
+        "created_at": "2026-06-24T09:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069708294416126041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069708294416126041",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069704383173189945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 毕竟日本非常保守，日本选举制度设计的时候其实就是往state-party去的，竞选下议院还得交3 million日币deposit，要获得10%选票才能退回，上议院6m，整个社会就是劳保社会\n\n就连日本左翼社会主义女权上野千鹤子都是反移民，她对于LGBTQ的态度是政治上可以拉拢，但是她的书从来不提LGBTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 375,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-05T08:08:09.000Z",
+        "description": "",
+        "id": "1279688463797719040",
+        "location": "Sydney, New South Wales",
+        "name": "NobodyXU",
+        "pinned_tweet_id": "1601444682713776129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069709362130755584/Kjn6K-q-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 145,
+          "like_count": 21399,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3035
+        },
+        "url": "",
+        "username": "NobodyXU2000",
+        "verified": false
+      }
+    ]
+  }
+}

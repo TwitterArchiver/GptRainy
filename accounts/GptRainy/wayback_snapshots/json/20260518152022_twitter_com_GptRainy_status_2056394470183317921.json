@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2056389166221685205",
+    "created_at": "2026-05-18T15:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056394470183317921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2035118386938880000",
+          "start": 0,
+          "username": "Matsushimaakop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056394470183317921",
+    "in_reply_to_user_id": "2035118386938880000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056389166221685205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Matsushimaakop 抽的什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056389150207770624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInDCXIaAAAxVNW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056389150597881856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInDCYlaoAAyykr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2056389166221685205",
+        "created_at": "2026-05-18T15:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056394470183317921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2035118386938880000",
+              "start": 0,
+              "username": "Matsushimaakop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056394470183317921",
+        "in_reply_to_user_id": "2035118386938880000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056389166221685205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Matsushimaakop 抽的什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056389150207770624",
+            "3_2056389150597881856"
+          ]
+        },
+        "author_id": "2035118386938880000",
+        "conversation_id": "2056389166221685205",
+        "created_at": "2026-05-18T14:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056389166221685205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3BFIawAwi",
+              "end": 34,
+              "expanded_url": "https://x.com/Matsushimaakop/status/2056389166221685205/photo/1",
+              "media_key": "3_2056389150207770624",
+              "start": 11,
+              "url": "https://t.co/c3BFIawAwi"
+            },
+            {
+              "display_url": "pic.x.com/c3BFIawAwi",
+              "end": 34,
+              "expanded_url": "https://x.com/Matsushimaakop/status/2056389166221685205/photo/1",
+              "media_key": "3_2056389150597881856",
+              "start": 11,
+              "url": "https://t.co/c3BFIawAwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056389166221685205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻子喷烟的男鬼一枚呀 https://t.co/c3BFIawAwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "……晚安，永远的互联网天使\n不回关是因为怕回关太多被封号抱歉呜呜\n会慢慢回关的",
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 39,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T22:17:56.000Z",
+        "description": "12/🚬袋/我将为神/mtm😻",
+        "id": "2035118386938880000",
+        "location": "Dolly388769",
+        "name": "12悠哉大王",
+        "pinned_tweet_id": "2056290238553825672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056290003169505280/2wWDbbbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 23,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 44
+        },
+        "username": "Matsushimaakop",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2069313931861282888",
+    "created_at": "2026-06-23T08:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069332605640856015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1999621714125463552",
+          "start": 0,
+          "username": "uz1qf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069332605640856015",
+    "in_reply_to_user_id": "1999621714125463552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069313931861282888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uz1qf そんなことあったんだね、本当に辛いよね…ぎゅってしてあげる🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2069313931861282888",
+        "created_at": "2026-06-23T08:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069332605640856015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1999621714125463552",
+              "start": 0,
+              "username": "uz1qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069332605640856015",
+        "in_reply_to_user_id": "1999621714125463552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069313931861282888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uz1qf そんなことあったんだね、本当に辛いよね…ぎゅってしてあげる🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999621714125463552",
+        "conversation_id": "2069313931861282888",
+        "created_at": "2026-06-23T06:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069313931861282888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069313931861282888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左足の甲いつの間にか抉れた傷が出来てて無理やりカサブタを剥がしたから痛い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069251245333008660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 370,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-12T23:26:02.000Z",
+        "description": "酒カスで警察のお世話になった30の男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/13a4ak7b9hc4sj…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/13a4ak7b9hc4sj8?t=YMdYWn&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Go5KsSMO0e"
+              }
+            ]
+          }
+        },
+        "id": "1999621714125463552",
+        "name": "ななし",
+        "pinned_tweet_id": "2023299055661838842",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 223,
+          "like_count": 40936,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 2235
+        },
+        "url": "https://t.co/Go5KsSMO0e",
+        "username": "uz1qf",
+        "verified": false
+      }
+    ]
+  }
+}

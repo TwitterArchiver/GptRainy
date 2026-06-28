@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069375050625802240"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069375054090269030",
+    "created_at": "2026-06-23T11:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069375054090269030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w4owfbBtvR",
+          "end": 33,
+          "expanded_url": "https://x.com/GptRainy/status/2069375054090269030/photo/1",
+          "media_key": "3_2069375050625802240",
+          "start": 10,
+          "url": "https://t.co/w4owfbBtvR"
+        },
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/GptRainy/status/2069351383783104954",
+          "start": 34,
+          "url": "https://t.co/wu0vFTs4ba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069375054090269030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069351383783104954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤😭被爸爸妈妈夸了 https://t.co/w4owfbBtvR https://t.co/wu0vFTs4ba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2046,
+        "media_key": "3_2069375050625802240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLflpP-bYAAWkQx.jpg",
+        "width": 908
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069351381912399872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfQHjJaMAA_vLN.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069375050625802240"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069375054090269030",
+        "created_at": "2026-06-23T11:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069375054090269030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4owfbBtvR",
+              "end": 33,
+              "expanded_url": "https://x.com/GptRainy/status/2069375054090269030/photo/1",
+              "media_key": "3_2069375050625802240",
+              "start": 10,
+              "url": "https://t.co/w4owfbBtvR"
+            },
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/GptRainy/status/2069351383783104954",
+              "start": 34,
+              "url": "https://t.co/wu0vFTs4ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069375054090269030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069351383783104954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤😭被爸爸妈妈夸了 https://t.co/w4owfbBtvR https://t.co/wu0vFTs4ba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069351381912399872"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2069351383783104954",
+        "created_at": "2026-06-23T09:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069351383783104954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHx1yQFclU",
+              "end": 32,
+              "expanded_url": "https://x.com/GptRainy/status/2069351383783104954/photo/1",
+              "media_key": "3_2069351381912399872",
+              "start": 9,
+              "url": "https://t.co/BHx1yQFclU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069351383783104954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日常o大了臭美中 https://t.co/BHx1yQFclU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069251245333008660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 370,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

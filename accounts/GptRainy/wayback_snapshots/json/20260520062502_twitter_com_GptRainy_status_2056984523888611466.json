@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2056933681575403772",
+    "created_at": "2026-05-20T06:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056984523888611466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056010581342392320",
+          "start": 0,
+          "username": "Mercyvnv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056984523888611466",
+    "in_reply_to_user_id": "2056010581342392320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056955248347144288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvnv 以我300mg iso的体验来讲内幻半斤八两"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2056933681575403772",
+        "created_at": "2026-05-20T06:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056984523888611466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056010581342392320",
+              "start": 0,
+              "username": "Mercyvnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056984523888611466",
+        "in_reply_to_user_id": "2056010581342392320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056955248347144288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvnv 以我300mg iso的体验来讲内幻半斤八两"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056010581342392320",
+        "conversation_id": "2056933681575403772",
+        "created_at": "2026-05-20T04:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056955248347144288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056955248347144288",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056933681575403772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 解离剂篡改认知的例子来了 怎么可能仙人掌的幻比dxm强 要是从别的角度比如幻觉沉浸程度什么的还差不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！不回关是因为怕回关太多被封号抱歉呜呜会慢慢回关的\n07年Transfem/🐱我的小猫叫卡尔/o割/🤖独立AI研究者/💊药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 92,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 69,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 62,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T13:55:45.000Z",
+        "description": "Mercy4.0。。互关寻回ing",
+        "id": "2056010581342392320",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056010892282851328/okw5X9dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 119,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 117
+        },
+        "username": "Mercyvnv",
+        "verified": false
+      }
+    ]
+  }
+}

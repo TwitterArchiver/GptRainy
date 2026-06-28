@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2058828919596359812",
+    "created_at": "2026-05-25T11:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058867597958070506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785767615484547072",
+          "start": 0,
+          "username": "momoxieZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058867597958070506",
+    "in_reply_to_user_id": "1785767615484547072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058841670591172634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoxieZS 不会，而且很麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2058828919596359812",
+        "created_at": "2026-05-25T11:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058867597958070506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785767615484547072",
+              "start": 0,
+              "username": "momoxieZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058867597958070506",
+        "in_reply_to_user_id": "1785767615484547072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058841670591172634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoxieZS 不会，而且很麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785767615484547072",
+        "conversation_id": "2058828919596359812",
+        "created_at": "2026-05-25T09:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058841670591172634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058841670591172634",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058828919596359812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 装胶囊里会更好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！不回关是因为怕回关太多被封号抱歉呜呜会慢慢回关的\n07年Transfem/🐱我的小猫叫卡尔/o割/🤖独立AI研究者/💊药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 92,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 69,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 69,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-01T20:28:27.000Z",
+        "description": "所有推文都是定时发布\n会给感兴趣的人挂铃铛\nLOVER @me1su0/血图 @me1su0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "me1su0"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "username": "me1su0"
+              }
+            ]
+          }
+        },
+        "id": "1785767615484547072",
+        "location": "#shtwt",
+        "name": "栖栖Zip",
+        "pinned_tweet_id": "2051576339803840784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048396357845872640/3TIlxCI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 167,
+          "like_count": 5173,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 196
+        },
+        "username": "momoxieZS",
+        "verified": true
+      }
+    ]
+  }
+}

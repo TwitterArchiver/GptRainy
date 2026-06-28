@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2064001276657168562",
+    "created_at": "2026-06-08T15:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064001276657168562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601988439947104256",
+          "start": 3,
+          "username": "Huey8104"
+        },
+        {
+          "end": 22,
+          "id": "1984316739363209216",
+          "start": 14,
+          "username": "Ouiwops"
+        },
+        {
+          "end": 39,
+          "id": "2035882965671215104",
+          "start": 23,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064001276657168562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063966765068193850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huey8104: @Ouiwops @amber_medusozoa 我们时代最诡谲怪异的事情就是“上调性同意年龄”居然是以进步和女性主义议题的面孔出现的，Z世代自由派所信奉的这些现代女权主义理论很多时候都无意识的做了社会建构主义和性道德的应声虫……不说别人，波伏娃甚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2064001276657168562",
+        "created_at": "2026-06-08T15:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064001276657168562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601988439947104256",
+              "start": 3,
+              "username": "Huey8104"
+            },
+            {
+              "end": 22,
+              "id": "1984316739363209216",
+              "start": 14,
+              "username": "Ouiwops"
+            },
+            {
+              "end": 39,
+              "id": "2035882965671215104",
+              "start": 23,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064001276657168562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063966765068193850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huey8104: @Ouiwops @amber_medusozoa 我们时代最诡谲怪异的事情就是“上调性同意年龄”居然是以进步和女性主义议题的面孔出现的，Z世代自由派所信奉的这些现代女权主义理论很多时候都无意识的做了社会建构主义和性道德的应声虫……不说别人，波伏娃甚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601988439947104256",
+        "conversation_id": "2063935884979036260",
+        "created_at": "2026-06-08T12:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063966765068193850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984316739363209216",
+              "start": 0,
+              "username": "Ouiwops"
+            },
+            {
+              "end": 25,
+              "id": "2035882965671215104",
+              "start": 9,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063966765068193850",
+        "in_reply_to_user_id": "1984316739363209216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063935884979036260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ouiwops @amber_medusozoa 我们时代最诡谲怪异的事情就是“上调性同意年龄”居然是以进步和女性主义议题的面孔出现的，Z世代自由派所信奉的这些现代女权主义理论很多时候都无意识的做了社会建构主义和性道德的应声虫……不说别人，波伏娃甚至都是主张下调性同意年龄的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 333,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T17:13:20.000Z",
+        "description": "🌹Sic Semper Tyrannis🌹",
+        "id": "1601988439947104256",
+        "location": "Somewhere",
+        "name": "Perroquet",
+        "pinned_tweet_id": "1720688746839073260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052380490938933248/GD5B0jRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 742,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 288
+        },
+        "username": "Huey8104",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:49:28.000Z",
+        "description": "试看明日之中国，必然是“公社”的天下",
+        "id": "1984316739363209216",
+        "location": "乌托邦",
+        "name": "阳🇵🇸🇺🇦🇨🇳⚙️☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062943823341518848/Hdo3TI5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 524,
+          "like_count": 2400,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 770
+        },
+        "username": "Ouiwops",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5607,
+          "following_count": 972,
+          "like_count": 4486,
+          "listed_count": 10,
+          "media_count": 137,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

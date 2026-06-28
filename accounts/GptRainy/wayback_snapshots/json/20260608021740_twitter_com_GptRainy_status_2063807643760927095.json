@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063807643760927095",
+    "created_at": "2026-06-08T02:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063807643760927095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2009492855262466051",
+          "start": 3,
+          "username": "BeckfordBl61271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063807643760927095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063690270496182346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeckfordBl61271: 这么快就100fo了\n照例抽个奖\n\n一等奖一人：本店内产品任选其二免费赠送包邮（霜尘，🌵，喣）\n\n二等奖二人：霜尘1t或霜尘买1送1（仅限购买3t）\n\n三等奖三人：霜尘1t不包邮，可累计（满3颗发货包邮）\n\n另外推出好友引力计划：介绍一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 446,
+        "media_key": "3_2063689711080882176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOy27uawAATK4r.jpg",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063807643760927095",
+        "created_at": "2026-06-08T02:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063807643760927095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2009492855262466051",
+              "start": 3,
+              "username": "BeckfordBl61271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063807643760927095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063690270496182346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeckfordBl61271: 这么快就100fo了\n照例抽个奖\n\n一等奖一人：本店内产品任选其二免费赠送包邮（霜尘，🌵，喣）\n\n二等奖二人：霜尘1t或霜尘买1送1（仅限购买3t）\n\n三等奖三人：霜尘1t不包邮，可累计（满3颗发货包邮）\n\n另外推出好友引力计划：介绍一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063689711080882176"
+          ]
+        },
+        "author_id": "2009492855262466051",
+        "conversation_id": "2063690270496182346",
+        "created_at": "2026-06-07T18:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063690270496182346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oft4pXiImX",
+              "end": 177,
+              "expanded_url": "https://x.com/BeckfordBl61271/status/2063690270496182346/photo/1",
+              "media_key": "3_2063689711080882176",
+              "start": 154,
+              "url": "https://t.co/Oft4pXiImX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063690270496182346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这么快就100fo了\n照例抽个奖\n\n一等奖一人：本店内产品任选其二免费赠送包邮（霜尘，🌵，喣）\n\n二等奖二人：霜尘1t或霜尘买1送1（仅限购买3t）\n\n三等奖三人：霜尘1t不包邮，可累计（满3颗发货包邮）\n\n另外推出好友引力计划：介绍一名新客户下单送1t霜尘，（满3颗发货）\n还是评论区抽奖！！！一定要评论 https://t.co/Oft4pXiImX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 311,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T05:10:19.000Z",
+        "description": "狸花：耐药王加耐杀王\n联系我加我tg@LIhua1314\n有神秘tg小商店\nhttps://t.co/roRO2PEvJ4\n性别就是猫，原来的两个号彻底死了这是三号机，不敢发有关于💊的东西了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 61,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 38,
+                "url": "https://t.co/roRO2PEvJ4"
+              }
+            ]
+          }
+        },
+        "id": "2009492855262466051",
+        "name": "猫三号机(我错了别再封了)",
+        "pinned_tweet_id": "2063690270496182346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059089775110635520/xC601_r-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 74,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "username": "BeckfordBl61271",
+        "verified": false
+      }
+    ]
+  }
+}

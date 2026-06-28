@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2070336297022185687",
+    "created_at": "2026-06-26T02:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070336297022185687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ruanyf/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ruanyf/status/2070309433813676248",
+          "start": 24,
+          "url": "https://t.co/zMH1jgkwTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070336297022185687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070309433813676248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说白了就是又想要社区的免费广告又不想承担责任🤣 https://t.co/zMH1jgkwTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_2070309413282623488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLs3cUHbsAA9akq.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2070336297022185687",
+        "created_at": "2026-06-26T02:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070336297022185687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruanyf/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ruanyf/status/2070309433813676248",
+              "start": 24,
+              "url": "https://t.co/zMH1jgkwTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070336297022185687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070309433813676248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说白了就是又想要社区的免费广告又不想承担责任🤣 https://t.co/zMH1jgkwTM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070309413282623488"
+          ]
+        },
+        "author_id": "1580781",
+        "conversation_id": "2070309433813676248",
+        "created_at": "2026-06-26T00:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070309433813676248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4mFmkfKIg",
+              "end": 169,
+              "expanded_url": "https://x.com/ruanyf/status/2070309433813676248/photo/1",
+              "media_key": "3_2070309413282623488",
+              "start": 146,
+              "url": "https://t.co/B4mFmkfKIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070309433813676248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ruanyifeng.com/blog/2026/06/w…",
+                "end": 328,
+                "expanded_url": "https://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
+                "start": 305,
+                "url": "https://t.co/kD8Kri3V9K"
+              }
+            ]
+          },
+          "text": "SQLite 数据库的作者 Richard Hipp 解释，为什么他的项目一律不接受外部的 PR。\n\nPR 不是免费的。你实际上是对我提要求：你开发了这个很棒的功能，然后希望我帮你维护它、帮你编写文档、帮你测试，并在接下来的二十五年里一直为你维护它。\n\nLinus 曾说过一句名言：Free 既可以指免费啤酒，也可以指言论自由。但还有另一种 Free：免费的小狗。“瞧，我这儿有只免费的小狗送给你。” 你明白我的意思了吧？\n\n提交一个 pull request 就相当于有人送你一只小狗。一天下来，你的小屋里就多了一只小狗。你不能把它扔掉——你有道义上的责任照顾它，直到它自然死亡。\n\n我可不要任何免费的小狗。https://t.co/kD8Kri3V9K"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 18284,
+          "like_count": 261,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "SQLite 数据库的作者 Richard Hipp 解释，为什么他的项目一律不接受外部的 PR。\n\nPR 不是免费的。你实际上是对我提要求：你开发了这个很棒的功能，然后希望我帮你维护它、帮你编写文档、帮你测试，并在接下来的二十五年里一直为你维护它。\n\nLinus 曾说过一句名言：Free https://t.co/B4mFmkfKIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 404,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2007-03-20T02:53:02.000Z",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruanyifeng.com",
+                "end": 22,
+                "expanded_url": "http://www.ruanyifeng.com",
+                "start": 0,
+                "url": "http://t.co/fw8pEsBuak"
+              }
+            ]
+          }
+        },
+        "id": "1580781",
+        "location": "Shanghai, China",
+        "name": "ruanyf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202506,
+          "following_count": 371,
+          "like_count": 13727,
+          "listed_count": 1640,
+          "media_count": 2993,
+          "tweet_count": 4980
+        },
+        "url": "http://t.co/fw8pEsBuak",
+        "username": "ruanyf",
+        "verified": false
+      }
+    ]
+  }
+}

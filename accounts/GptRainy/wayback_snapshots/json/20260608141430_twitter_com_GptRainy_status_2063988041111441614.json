@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063988041111441614",
+    "created_at": "2026-06-08T14:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063988041111441614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1695553771961729024",
+          "start": 3,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063988041111441614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063940574239977493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiraishiwatari: 唉中国人还是对“医疗资源”想象力太匮乏。\n生孩子显而易见不是病，怎么没人质疑孕妇为什么坐救护车去医院。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063988041111441614",
+        "created_at": "2026-06-08T14:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063988041111441614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1695553771961729024",
+              "start": 3,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063988041111441614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063940574239977493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiraishiwatari: 唉中国人还是对“医疗资源”想象力太匮乏。\n生孩子显而易见不是病，怎么没人质疑孕妇为什么坐救护车去医院。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695553771961729024",
+        "conversation_id": "2063940574239977493",
+        "created_at": "2026-06-08T11:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063940574239977493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2063929049089777675",
+              "start": 52,
+              "url": "https://t.co/TJk8xFJfqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063940574239977493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 451,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063929049089777675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉中国人还是对“医疗资源”想象力太匮乏。\n生孩子显而易见不是病，怎么没人质疑孕妇为什么坐救护车去医院。 https://t.co/TJk8xFJfqa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 330,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "Perpetua et firma libertas",
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 48,
+          "like_count": 4537,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1165
+        },
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

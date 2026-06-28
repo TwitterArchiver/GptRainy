@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063817067997073575",
+    "created_at": "2026-06-08T06:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063870684351324521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1025331400109477889",
+          "start": 0,
+          "username": "MikaStars39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063870684351324521",
+    "in_reply_to_user_id": "1025331400109477889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063817067997073575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikaStars39 MiniMax有scale的计划吗）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063817067997073575",
+        "created_at": "2026-06-08T06:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063870684351324521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1025331400109477889",
+              "start": 0,
+              "username": "MikaStars39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063870684351324521",
+        "in_reply_to_user_id": "1025331400109477889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063817067997073575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikaStars39 MiniMax有scale的计划吗）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1025331400109477889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2063817067997073575",
+        "created_at": "2026-06-08T02:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063817067997073575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m0d8ye/status/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/m0d8ye/status/2063741379046760771",
+              "start": 44,
+              "url": "https://t.co/vspMfzkEge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063817067997073575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11073,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063741379046760771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "K26体感绝对是underrated 而想到Kimi一年前就scale出这个东西更吓人 https://t.co/vspMfzkEge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 313,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-03T10:43:50.000Z",
+        "description": "bs @ZJU_China. incoming CS PhD @NUSingapore. working on oss:@MiniMax_AI. Opinions are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "ZJU_China"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "MiniMax_AI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikastars39.site",
+                "end": 23,
+                "expanded_url": "http://mikastars39.site",
+                "start": 0,
+                "url": "https://t.co/OYklaFd9sw"
+              }
+            ]
+          }
+        },
+        "id": "1025331400109477889",
+        "location": "Numazu-shi, Shizuoka",
+        "name": "MikaStars★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006632538731851777/gjR5U7En_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 1545,
+          "like_count": 1414,
+          "listed_count": 20,
+          "media_count": 80,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/OYklaFd9sw",
+        "username": "MikaStars39",
+        "verified": true
+      }
+    ]
+  }
+}

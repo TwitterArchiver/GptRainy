@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2056316363384197594",
+    "created_at": "2026-05-18T10:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056316363384197594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xingstaro/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/xingstaro/status/2056235871817589089",
+          "start": 42,
+          "url": "https://t.co/XwWF1u1jsE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056316363384197594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056235871817589089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是我体质问题吗我从来都没幻，反倒是佐匹能给我pea一样的欣快，虽然持续时间只有1h https://t.co/XwWF1u1jsE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2056316363384197594",
+        "created_at": "2026-05-18T10:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056316363384197594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingstaro/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/xingstaro/status/2056235871817589089",
+              "start": 42,
+              "url": "https://t.co/XwWF1u1jsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056316363384197594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我体质问题吗我从来都没幻，反倒是佐匹能给我pea一样的欣快，虽然持续时间只有1h https://t.co/XwWF1u1jsE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T04:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056235871817589089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056235871817589089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2485,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是中推药圈欣赏思诺思的首批人，那是右美风靡一时盛行无比、pr80还在地上玩泥巴的时代，内网有网友请我做毕业论文问卷，让我回答对od的看法和经历\n我说我吃思诺思，对方：？这是啥\n\n当时居然没有多少人意识到思诺思具备娱乐潜力，恶评更是数不胜数，直到右美倒台，思诺思才出现在大众视野"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "……晚安，永远的互联网天使\n不回关是因为怕回关太多被封号抱歉呜呜\n会慢慢回关的",
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 34,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 288,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 395
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

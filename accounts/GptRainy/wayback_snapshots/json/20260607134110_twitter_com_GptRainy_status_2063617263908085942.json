@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063492159282827340",
+    "created_at": "2026-06-07T13:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063617263908085942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007577262636646400",
+          "start": 0,
+          "username": "NongChaoE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063617263908085942",
+    "in_reply_to_user_id": "2007577262636646400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063492159282827340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NongChaoE 什么时候放内测呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063492141591191552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL_K4BaYAAOCbL.jpg",
+        "width": 990
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063492141612138496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL_K4GaAAAgwLB.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063492159282827340",
+        "created_at": "2026-06-07T13:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063617263908085942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007577262636646400",
+              "start": 0,
+              "username": "NongChaoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063617263908085942",
+        "in_reply_to_user_id": "2007577262636646400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063492159282827340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NongChaoE 什么时候放内测呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063492141591191552",
+            "3_2063492141612138496"
+          ]
+        },
+        "author_id": "2007577262636646400",
+        "conversation_id": "2063492159282827340",
+        "created_at": "2026-06-07T05:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063492159282827340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4XOrMU4yId",
+              "end": 42,
+              "expanded_url": "https://x.com/NongChaoE/status/2063492159282827340/photo/1",
+              "media_key": "3_2063492141591191552",
+              "start": 19,
+              "url": "https://t.co/4XOrMU4yId"
+            },
+            {
+              "display_url": "pic.x.com/4XOrMU4yId",
+              "end": 42,
+              "expanded_url": "https://x.com/NongChaoE/status/2063492159282827340/photo/1",
+              "media_key": "3_2063492141612138496",
+              "start": 19,
+              "url": "https://t.co/4XOrMU4yId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063492159282827340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午出门吃饭，随手用捕字相机采了下字 https://t.co/4XOrMU4yId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 308,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T22:18:22.000Z",
+        "description": "应无所住，而生其心。\nVibe coding、独立工具、跨境电商和品牌实验。",
+        "id": "2007577262636646400",
+        "location": "California, USA",
+        "name": "弄潮鹅Hangoose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007584297482440704/rNtU6C1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 44,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "username": "NongChaoE",
+        "verified": true
+      }
+    ]
+  }
+}

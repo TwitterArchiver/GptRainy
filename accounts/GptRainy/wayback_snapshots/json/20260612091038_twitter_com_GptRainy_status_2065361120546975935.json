@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2065361120546975935",
+    "created_at": "2026-06-12T09:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065361120546975935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "450765930",
+          "start": 3,
+          "username": "Nen__17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065361120546975935",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 961
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065060259694022962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nen__17: El Movimiento Socialista Republicano de Irlanda (RSM) se compromete a defender a la comunidad migrante de las turbas racistas…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 267,
+        "media_key": "3_2065060257215266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiRXN8XwAAiuBo.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2065361120546975935",
+        "created_at": "2026-06-12T09:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065361120546975935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "450765930",
+              "start": 3,
+              "username": "Nen__17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065361120546975935",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 961
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065060259694022962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nen__17: El Movimiento Socialista Republicano de Irlanda (RSM) se compromete a defender a la comunidad migrante de las turbas racistas…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065060257215266816"
+          ]
+        },
+        "author_id": "450765930",
+        "conversation_id": "2065060259694022962",
+        "created_at": "2026-06-11T13:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065060259694022962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Socialist Republican groups have pledged to defend migrant communities following chaotic violence in the north of Ireland last night.",
+              "display_url": "aontachtmedia.ie/socialist-repu…",
+              "end": 275,
+              "expanded_url": "https://aontachtmedia.ie/socialist-republicans-vow-to-defend-migrants-from-loyalist-intimidation/?sssss",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2064761095466688512/_w8g7PpU?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064761095466688512/_w8g7PpU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 252,
+              "status": 200,
+              "title": "Socialist Republicans Vow To Defend Migrants From Loyalist Intimidation",
+              "unwound_url": "https://aontachtmedia.ie/socialist-republicans-vow-to-defend-migrants-from-loyalist-intimidation/?sssss",
+              "url": "https://t.co/2YRSaLyMgQ"
+            },
+            {
+              "display_url": "pic.x.com/zkNqCPbmF6",
+              "end": 299,
+              "expanded_url": "https://x.com/Nen__17/status/2065060259694022962/photo/1",
+              "media_key": "3_2065060257215266816",
+              "start": 276,
+              "url": "https://t.co/zkNqCPbmF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065060259694022962",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 105985,
+          "like_count": 3444,
+          "quote_count": 74,
+          "reply_count": 277,
+          "retweet_count": 961
+        },
+        "reply_settings": "everyone",
+        "text": "El Movimiento Socialista Republicano de Irlanda (RSM) se compromete a defender a la comunidad migrante de las turbas racistas\n\n\"El racismo y los racistas no serán tolerados en nuestras comunidades.\n\nHabrá respuesta a cualquier incidente de este tipo.”\nhttps://t.co/2YRSaLyMgQ https://t.co/zkNqCPbmF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 336,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-30T16:46:50.000Z",
+        "description": "Autoorganización de clase. Gipsy.\nPizarnik gang. MMA.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaze000.wixsite.com/emotionalsparr…",
+                "end": 23,
+                "expanded_url": "https://zaze000.wixsite.com/emotionalsparring/blog",
+                "start": 0,
+                "url": "https://t.co/mOae3Cgrpw"
+              }
+            ]
+          }
+        },
+        "id": "450765930",
+        "location": "Laniakea",
+        "name": "Irreveren't",
+        "pinned_tweet_id": "800836437981753345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669111502899499008/YdvKHqHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9694,
+          "following_count": 1038,
+          "like_count": 10981,
+          "listed_count": 7,
+          "media_count": 5199,
+          "tweet_count": 97090
+        },
+        "url": "https://t.co/mOae3Cgrpw",
+        "username": "Nen__17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2070167815894761621",
+    "created_at": "2026-06-25T15:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070167815894761621"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070167815894761621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于上野千鹤子，她任理事长的 WAN，2020 年刊出石上卯乃《トランスジェンダーを排除しているわけではない》。文中把厕所、浴室、更衣室、强奸危机中心并列为需要跨性别者“理解女性安心安全”的空间：\n\n「トイレや風呂、更衣室、レイプクライシスセンターなどのシェルター」\n\n后来2023WAN刊载了道歉声明，但改变不了日本（也许可以扩大到东亚）的主流女权主义在抽象口号上反歧视，在具体空间问题上滑向性别本质主义。唉，东亚"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于上野千鹤子，她任理事长的 WAN，2020 年刊出石上卯乃《トランスジェンダーを排除しているわけではない》。文中把厕所、浴室、更衣室、强奸危机中心并列为需要跨性别者“理解女性安心安全”的空间：\n\n「トイレや風呂、更衣室、レイプクライシスセンターなどのシェルター」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2070167815894761621",
+        "created_at": "2026-06-25T15:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070167815894761621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070167815894761621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于上野千鹤子，她任理事长的 WAN，2020 年刊出石上卯乃《トランスジェンダーを排除しているわけではない》。文中把厕所、浴室、更衣室、强奸危机中心并列为需要跨性别者“理解女性安心安全”的空间：\n\n「トイレや風呂、更衣室、レイプクライシスセンターなどのシェルター」\n\n后来2023WAN刊载了道歉声明，但改变不了日本（也许可以扩大到东亚）的主流女权主义在抽象口号上反歧视，在具体空间问题上滑向性别本质主义。唉，东亚"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于上野千鹤子，她任理事长的 WAN，2020 年刊出石上卯乃《トランスジェンダーを排除しているわけではない》。文中把厕所、浴室、更衣室、强奸危机中心并列为需要跨性别者“理解女性安心安全”的空间：\n\n「トイレや風呂、更衣室、レイプクライシスセンターなどのシェルター」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 388,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

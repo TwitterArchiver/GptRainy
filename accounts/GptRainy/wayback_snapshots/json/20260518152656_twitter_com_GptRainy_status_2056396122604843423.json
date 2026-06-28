@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056396074424868864"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056396122604843423",
+    "created_at": "2026-05-18T15:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056396122604843423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ujupsSCXUa",
+          "end": 27,
+          "expanded_url": "https://x.com/GptRainy/status/2056396122604843423/photo/1",
+          "media_key": "3_2056396074424868864",
+          "start": 4,
+          "url": "https://t.co/ujupsSCXUa"
+        },
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/GptRainy/status/2056296383590904114",
+          "start": 28,
+          "url": "https://t.co/xXxE9W2u1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056396122604843423",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056296383590904114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绷不住 https://t.co/ujupsSCXUa https://t.co/xXxE9W2u1K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 198,
+        "media_key": "3_2056396074424868864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInJVZ2aIAAe-Ni.png",
+        "width": 543
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2056296011337961472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIluU9zaEAAzaP1.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056396074424868864"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056396122604843423",
+        "created_at": "2026-05-18T15:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056396122604843423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujupsSCXUa",
+              "end": 27,
+              "expanded_url": "https://x.com/GptRainy/status/2056396122604843423/photo/1",
+              "media_key": "3_2056396074424868864",
+              "start": 4,
+              "url": "https://t.co/ujupsSCXUa"
+            },
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/GptRainy/status/2056296383590904114",
+              "start": 28,
+              "url": "https://t.co/xXxE9W2u1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056396122604843423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056296383590904114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷不住 https://t.co/ujupsSCXUa https://t.co/xXxE9W2u1K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056296011337961472"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2056296383590904114",
+        "created_at": "2026-05-18T08:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056296383590904114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2018652390891880448",
+              "start": 13,
+              "username": "futi999139732"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2q3yVSOSG",
+              "end": 71,
+              "expanded_url": "https://x.com/GptRainy/status/2056296383590904114/photo/1",
+              "media_key": "3_2056296011337961472",
+              "start": 48,
+              "url": "https://t.co/r2q3yVSOSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056296383590904114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 871,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢扶梯老师的神秘物质！ @futi999139732\n说实话感觉和🌵差不多……？是我量不够吗 https://t.co/r2q3yVSOSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "……晚安，永远的互联网天使\n不回关是因为怕回关太多被封号抱歉呜呜\n会慢慢回关的",
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 39,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 26
+        },
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

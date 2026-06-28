@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063264988270346518",
+    "created_at": "2026-06-06T14:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063264988270346518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2021228630110765059",
+          "start": 3,
+          "username": "lautique17746"
+        },
+        {
+          "end": 35,
+          "id": "1695553771961729024",
+          "start": 19,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063264988270346518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063090306749534259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lautique17746: @Shiraishiwatari 搞得好像性少数只有变成这样才配得到他们廉价的“认可”一样，也不知道评价她的这帮人自己平时是什么德性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063264988270346518",
+        "created_at": "2026-06-06T14:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063264988270346518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2021228630110765059",
+              "start": 3,
+              "username": "lautique17746"
+            },
+            {
+              "end": 35,
+              "id": "1695553771961729024",
+              "start": 19,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063264988270346518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063090306749534259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lautique17746: @Shiraishiwatari 搞得好像性少数只有变成这样才配得到他们廉价的“认可”一样，也不知道评价她的这帮人自己平时是什么德性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021228630110765059",
+        "conversation_id": "2062999500856160391",
+        "created_at": "2026-06-06T02:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063090306749534259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695553771961729024",
+              "start": 0,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063090306749534259",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1050,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062999500856160391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiraishiwatari 搞得好像性少数只有变成这样才配得到他们廉价的“认可”一样，也不知道评价她的这帮人自己平时是什么德性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 239,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-10T14:24:03.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vdse.bdstatic.com//192d9a98d782d…",
+                "end": 23,
+                "expanded_url": "https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4",
+                "start": 0,
+                "url": "https://t.co/Kvq5ntMhz2"
+              }
+            ]
+          }
+        },
+        "id": "2021228630110765059",
+        "location": "温都尔汗",
+        "name": "Rönkä",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059874599496749056/QSbscyXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/Kvq5ntMhz2",
+        "username": "lautique17746",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "Perpetua et firma libertas",
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 47,
+          "like_count": 4299,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1085
+        },
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

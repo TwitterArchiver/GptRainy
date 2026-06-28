@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060561072357339136"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2060561091181396026",
+    "created_at": "2026-05-30T03:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060561091181396026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4gkBCCK9fX",
+          "end": 43,
+          "expanded_url": "https://x.com/GptRainy/status/2060561091181396026/photo/1",
+          "media_key": "3_2060561072357339136",
+          "start": 20,
+          "url": "https://t.co/4gkBCCK9fX"
+        },
+        {
+          "display_url": "x.com/Mercyvnv/statu…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Mercyvnv/status/2060256809299112407",
+          "start": 44,
+          "url": "https://t.co/iyRT27fnIj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060561091181396026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060256809299112407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "豆包帮我把我普瑞和bzd的耐药性都清零 https://t.co/4gkBCCK9fX https://t.co/iyRT27fnIj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1803,
+        "media_key": "3_2060561072357339136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiVYMPbcAA5AH-.jpg",
+        "width": 876
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060256803548708864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeApamaQAAjzQq.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060561072357339136"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2060561091181396026",
+        "created_at": "2026-05-30T03:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060561091181396026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gkBCCK9fX",
+              "end": 43,
+              "expanded_url": "https://x.com/GptRainy/status/2060561091181396026/photo/1",
+              "media_key": "3_2060561072357339136",
+              "start": 20,
+              "url": "https://t.co/4gkBCCK9fX"
+            },
+            {
+              "display_url": "x.com/Mercyvnv/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Mercyvnv/status/2060256809299112407",
+              "start": 44,
+              "url": "https://t.co/iyRT27fnIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060561091181396026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060256809299112407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "豆包帮我把我普瑞和bzd的耐药性都清零 https://t.co/4gkBCCK9fX https://t.co/iyRT27fnIj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060256803548708864"
+          ]
+        },
+        "author_id": "2056010581342392320",
+        "conversation_id": "2060256809299112407",
+        "created_at": "2026-05-29T07:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060256809299112407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kg55V8lhQ8",
+              "end": 43,
+              "expanded_url": "https://x.com/Mercyvnv/status/2060256809299112407/photo/1",
+              "media_key": "3_2060256803548708864",
+              "start": 20,
+              "url": "https://t.co/Kg55V8lhQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060256809299112407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包帮我把我普瑞和bzd的耐药性都清零 https://t.co/Kg55V8lhQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD /我很无聊快来找我聊天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2059310965297226033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 86,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T13:55:45.000Z",
+        "description": "已老实，互fo私信\n\nenby，💊🔪🩸",
+        "id": "2056010581342392320",
+        "name": "Mercy",
+        "pinned_tweet_id": "2060542679306698925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056010892282851328/okw5X9dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 316
+        },
+        "username": "Mercyvnv",
+        "verified": false
+      }
+    ]
+  }
+}

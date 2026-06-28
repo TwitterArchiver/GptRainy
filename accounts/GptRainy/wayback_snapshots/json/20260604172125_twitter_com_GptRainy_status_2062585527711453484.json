@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2061089162812625365",
+    "created_at": "2026-06-04T17:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062585527711453484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039295991296192512",
+          "start": 0,
+          "username": "MutsumiKawa1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062585527711453484",
+    "in_reply_to_user_id": "2039295991296192512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061089162812625365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiKawa1i 宝宝我是小雨我转生了🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2061089162812625365",
+        "created_at": "2026-06-04T17:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062585527711453484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039295991296192512",
+              "start": 0,
+              "username": "MutsumiKawa1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062585527711453484",
+        "in_reply_to_user_id": "2039295991296192512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061089162812625365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiKawa1i 宝宝我是小雨我转生了🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039295991296192512",
+        "conversation_id": "2061089162812625365",
+        "created_at": "2026-05-31T14:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061089162812625365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061089162812625365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我竟然把我的电子手表的后盖自己用针给撬开了，什么水平？然后成功更换了电池\n看来N型人的动手能力也不比S型人差啊...૮⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 197,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T10:57:57.000Z",
+        "description": "小睦的3代目转生号，前世：@MutsumiXiaomu     是位边od边支黑的小可爱喵~    这一生也要坚持不懈地爱你们哦ヾ(^▽^*)))     亲爱的od导师：@tanka_TWT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "MutsumiXiaomu"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tanka_TWT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/vcFGP6Sdi8"
+              }
+            ]
+          }
+        },
+        "id": "2039295991296192512",
+        "location": "为这个世界而祷哀吧",
+        "name": "MutsumiKawa1i 🇯🇵",
+        "pinned_tweet_id": "2049382401219154122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039303241511604225/Nn4jEtqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 421,
+          "like_count": 1561,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/vcFGP6Sdi8",
+        "username": "MutsumiKawa1i",
+        "verified": false
+      }
+    ]
+  }
+}

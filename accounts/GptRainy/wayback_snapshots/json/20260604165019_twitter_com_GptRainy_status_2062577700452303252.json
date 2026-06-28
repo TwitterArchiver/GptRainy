@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2062166535884734601",
+    "created_at": "2026-06-04T16:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062577700452303252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2030532400112144384",
+          "start": 0,
+          "username": "Uanbahl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062577700452303252",
+    "in_reply_to_user_id": "2030532400112144384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062490074969964632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uanbahl 冷知识推特有返回键"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2062166535884734601",
+        "created_at": "2026-06-04T16:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062577700452303252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2030532400112144384",
+              "start": 0,
+              "username": "Uanbahl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062577700452303252",
+        "in_reply_to_user_id": "2030532400112144384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062490074969964632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uanbahl 冷知识推特有返回键"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030532400112144384",
+        "conversation_id": "2062166535884734601",
+        "created_at": "2026-06-04T11:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062490074969964632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062490074969964632",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062166535884734601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 好恶心 为什么给我看这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 159,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T06:34:12.000Z",
+        "description": "我的碎碎念喵，信箱 https://t.co/VVvMmJsjY3 本人不聊骚，可以把我当树洞倾诉 可以晚上找我（因为晚上很无聊）合理的问题都会回！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uanbahl",
+                "end": 33,
+                "expanded_url": "https://ngl.link/uanbahl",
+                "start": 10,
+                "url": "https://t.co/VVvMmJsjY3"
+              }
+            ]
+          }
+        },
+        "id": "2030532400112144384",
+        "name": "space",
+        "pinned_tweet_id": "2051375400308363703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060770360887595008/5up_Uqv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 36,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 257
+        },
+        "username": "Uanbahl",
+        "verified": false
+      }
+    ]
+  }
+}

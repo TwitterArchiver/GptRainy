@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062388944214654976"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2062166535884734601",
+    "created_at": "2026-06-04T04:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062388947452629230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041476263945400320",
+          "start": 0,
+          "username": "qiqivdye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GPLyR1k2f1",
+          "end": 43,
+          "expanded_url": "https://x.com/GptRainy/status/2062388947452629230/photo/1",
+          "media_key": "3_2062388944214654976",
+          "start": 20,
+          "url": "https://t.co/GPLyR1k2f1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062388947452629230",
+    "in_reply_to_user_id": "2041476263945400320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062375512102801755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqivdye 🤣点开关注满意离开 https://t.co/GPLyR1k2f1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062388944214654976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8T0VibgAALK-6.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062388944214654976"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2062166535884734601",
+        "created_at": "2026-06-04T04:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062388947452629230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041476263945400320",
+              "start": 0,
+              "username": "qiqivdye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPLyR1k2f1",
+              "end": 43,
+              "expanded_url": "https://x.com/GptRainy/status/2062388947452629230/photo/1",
+              "media_key": "3_2062388944214654976",
+              "start": 20,
+              "url": "https://t.co/GPLyR1k2f1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062388947452629230",
+        "in_reply_to_user_id": "2041476263945400320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062375512102801755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqivdye 🤣点开关注满意离开 https://t.co/GPLyR1k2f1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041476263945400320",
+        "conversation_id": "2062166535884734601",
+        "created_at": "2026-06-04T03:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062375512102801755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062375512102801755",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1367,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062166535884734601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 咋不给你爸操臭傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 148,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T11:21:47.000Z",
+        "description": "",
+        "id": "2041476263945400320",
+        "name": "qiqi",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 42,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "qiqivdye",
+        "verified": false
+      }
+    ]
+  }
+}

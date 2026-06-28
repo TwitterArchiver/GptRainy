@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2068932428044062966",
+    "created_at": "2026-06-27T06:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070752087177372056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "CuiMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070752087177372056",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068932428044062966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiMao 🥺老师我也是aidev可以互关一下吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 452603,
+        "height": 1648,
+        "media_key": "13_2068928562758139904",
+        "preview_image_url": "https://pbs.twimg.com/media/HLZSKJgagAEvOLW.jpg",
+        "public_metrics": {
+          "view_count": 93220
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068928562758139904/vid/avc1/2560x1440/woeCzp-2Ez3XEuIp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068928562758139904/vid/avc1/1280x720/2U9tQQJtXsSjljQZ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068928562758139904/vid/avc1/480x270/vBsv5I6JeXpcPU2V.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068928562758139904/vid/avc1/640x360/dXsg5w1diBwZj_kb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068928562758139904/pl/wKqy8rGRiD2pKkKH.m3u8"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2068932428044062966",
+        "created_at": "2026-06-27T06:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070752087177372056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070752087177372056",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068932428044062966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiMao 🥺老师我也是aidev可以互关一下吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068928562758139904"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068932428044062966",
+        "created_at": "2026-06-22T05:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068932428044062966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0bDbbteUr",
+              "end": 167,
+              "expanded_url": "https://x.com/CuiMao/status/2068932428044062966/video/1",
+              "media_key": "13_2068928562758139904",
+              "start": 144,
+              "url": "https://t.co/x0bDbbteUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068932428044062966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 252371,
+          "like_count": 971,
+          "quote_count": 87,
+          "reply_count": 245,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "Fable 5发布后的24小时内，Anthropic CEO Dario突然失联，美国国防部长Pete亲自审讯。与此同时，在美国度假观看世界杯的 CuiMao收到一条来自Dario的神秘取件短信。一个验证码，一朵太阳花，一段即将自毁的录音，将揭开 Fable 5 被封杀背后真正的原因。 https://t.co/x0bDbbteUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 418,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer   |   NVIDIA YES",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+sol4udt0WPw5M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+sol4udt0WPw5MWE1",
+                "start": 0,
+                "url": "https://t.co/Ha8LFayYSN"
+              }
+            ]
+          }
+        },
+        "id": "1558317849508122629",
+        "location": "Los Angeles, CA",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2068932428044062966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061048714337345536/9ZcoPvbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64967,
+          "following_count": 1425,
+          "like_count": 12266,
+          "listed_count": 365,
+          "media_count": 1768,
+          "tweet_count": 16952
+        },
+        "url": "https://t.co/Ha8LFayYSN",
+        "username": "CuiMao",
+        "verified": true
+      }
+    ]
+  }
+}

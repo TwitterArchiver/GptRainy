@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070130706173534208",
+        "3_2070130712498544640"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2070130766819004701",
+    "created_at": "2026-06-25T13:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070130766819004701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMoMjnlOIK",
+          "end": 37,
+          "expanded_url": "https://x.com/GptRainy/status/2070130766819004701/photo/1",
+          "media_key": "3_2070130706173534208",
+          "start": 14,
+          "url": "https://t.co/dMoMjnlOIK"
+        },
+        {
+          "display_url": "pic.x.com/dMoMjnlOIK",
+          "end": 37,
+          "expanded_url": "https://x.com/GptRainy/status/2070130766819004701/photo/1",
+          "media_key": "3_2070130712498544640",
+          "start": 14,
+          "url": "https://t.co/dMoMjnlOIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070130766819004701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开goal猛蹬codex！ https://t.co/dMoMjnlOIK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_2070130706173534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqU6MQaIAAiF-p.jpg",
+        "width": 1780
+      },
+      {
+        "height": 152,
+        "media_key": "3_2070130712498544640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqU6j0aIAAAKYl.png",
+        "width": 490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070130706173534208",
+            "3_2070130712498544640"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2070130766819004701",
+        "created_at": "2026-06-25T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070130766819004701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMoMjnlOIK",
+              "end": 37,
+              "expanded_url": "https://x.com/GptRainy/status/2070130766819004701/photo/1",
+              "media_key": "3_2070130706173534208",
+              "start": 14,
+              "url": "https://t.co/dMoMjnlOIK"
+            },
+            {
+              "display_url": "pic.x.com/dMoMjnlOIK",
+              "end": 37,
+              "expanded_url": "https://x.com/GptRainy/status/2070130766819004701/photo/1",
+              "media_key": "3_2070130712498544640",
+              "start": 14,
+              "url": "https://t.co/dMoMjnlOIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070130766819004701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开goal猛蹬codex！ https://t.co/dMoMjnlOIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 378,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

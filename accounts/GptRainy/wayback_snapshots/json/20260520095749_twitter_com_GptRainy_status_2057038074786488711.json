@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2057038074786488711",
+    "created_at": "2026-05-20T09:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057038074786488711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "175650976",
+          "start": 3,
+          "username": "real_zqyj"
+        },
+        {
+          "end": 24,
+          "id": "2054196065172344832",
+          "start": 15,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057038074786488711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057015833579380931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @real_zqyj: @GptRainy dxm没有替代品的含金量还在提升"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2057038074786488711",
+        "created_at": "2026-05-20T09:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057038074786488711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "175650976",
+              "start": 3,
+              "username": "real_zqyj"
+            },
+            {
+              "end": 24,
+              "id": "2054196065172344832",
+              "start": 15,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057038074786488711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057015833579380931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @real_zqyj: @GptRainy dxm没有替代品的含金量还在提升"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "175650976",
+        "conversation_id": "2056933681575403772",
+        "created_at": "2026-05-20T08:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057015833579380931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057015833579380931",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056933681575403772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy dxm没有替代品的含金量还在提升"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！不回关是因为怕回关太多被封号抱歉呜呜会慢慢回关的\n07年Transfem/🐱我的小猫叫卡尔/o割/🤖独立AI研究者/💊药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 92,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 69,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 61,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-07T05:42:02.000Z",
+        "description": "",
+        "id": "175650976",
+        "name": "丈枪 由纪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048486255273648128/pu6HfKom_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 21,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 107
+        },
+        "username": "real_zqyj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2067597730994913731",
+    "created_at": "2026-06-18T13:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067597730994913731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/benpaoping666/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/benpaoping666/status/2067235713419260314",
+          "start": 15,
+          "url": "https://t.co/i7CGSiRpwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067597730994913731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067235713419260314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老登栓小登，小登爱老登，哎哎 https://t.co/i7CGSiRpwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2067235711154266112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBL7TZaIAAp0C0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2067597730994913731",
+        "created_at": "2026-06-18T13:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067597730994913731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/benpaoping666/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/benpaoping666/status/2067235713419260314",
+              "start": 15,
+              "url": "https://t.co/i7CGSiRpwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067597730994913731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067235713419260314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老登栓小登，小登爱老登，哎哎 https://t.co/i7CGSiRpwG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067235711154266112"
+          ]
+        },
+        "author_id": "1845000472832376835",
+        "conversation_id": "2067235713419260314",
+        "created_at": "2026-06-17T13:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067235713419260314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jD8kfLlBj",
+              "end": 31,
+              "expanded_url": "https://x.com/benpaoping666/status/2067235713419260314/photo/1",
+              "media_key": "3_2067235711154266112",
+              "start": 8,
+              "url": "https://t.co/2jD8kfLlBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067235713419260314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 946201,
+          "like_count": 4857,
+          "quote_count": 36,
+          "reply_count": 578,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "我去这太恐怖了 https://t.co/2jD8kfLlBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 349,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T07:16:50.000Z",
+        "description": "此号发图，发点情感，讲点段子，欢迎投稿欢迎关注我哦，杭州人，大号 @Xiaoyumama9968",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Xiaoyumama9968"
+              }
+            ]
+          }
+        },
+        "id": "1845000472832376835",
+        "name": "奔跑的萍萍",
+        "pinned_tweet_id": "2023056412117815487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845015209628532740/oXBljsoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45899,
+          "following_count": 5,
+          "like_count": 6710,
+          "listed_count": 89,
+          "media_count": 768,
+          "tweet_count": 1561
+        },
+        "username": "benpaoping666",
+        "verified": false
+      }
+    ]
+  }
+}

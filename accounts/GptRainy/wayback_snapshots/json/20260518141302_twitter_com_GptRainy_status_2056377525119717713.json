@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2056358893773545672",
+    "created_at": "2026-05-18T14:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056377525119717713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056295005317468160",
+          "start": 0,
+          "username": "Qianqiandhh"
+        },
+        {
+          "end": 28,
+          "id": "2035118386938880000",
+          "start": 13,
+          "username": "Matsushimaakop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056377525119717713",
+    "in_reply_to_user_id": "2056295005317468160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056376580432384491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qianqiandhh @Matsushimaakop 我at的12宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2056358893773545672",
+        "created_at": "2026-05-18T14:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056377525119717713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056295005317468160",
+              "start": 0,
+              "username": "Qianqiandhh"
+            },
+            {
+              "end": 28,
+              "id": "2035118386938880000",
+              "start": 13,
+              "username": "Matsushimaakop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056377525119717713",
+        "in_reply_to_user_id": "2056295005317468160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056376580432384491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qianqiandhh @Matsushimaakop 我at的12宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056295005317468160",
+        "conversation_id": "2056358893773545672",
+        "created_at": "2026-05-18T14:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056376580432384491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            },
+            {
+              "end": 25,
+              "id": "2035118386938880000",
+              "start": 10,
+              "username": "Matsushimaakop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056376580432384491",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056358893773545672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy @Matsushimaakop 宝宝这个在哪里可以买到呀？😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "……晚安，永远的互联网天使\n不回关是因为怕回关太多被封号抱歉呜呜\n会慢慢回关的",
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 38,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 23
+        },
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T08:46:19.000Z",
+        "description": "你懷念以前 我們都變了 不是嗎",
+        "id": "2056295005317468160",
+        "name": "钱钱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056296559323889664/gXD79XLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Qianqiandhh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T22:17:56.000Z",
+        "description": "12/🚬袋/我将为神/mtm😻",
+        "id": "2035118386938880000",
+        "location": "Dolly388769",
+        "name": "12悠哉大王",
+        "pinned_tweet_id": "2056290238553825672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056290003169505280/2wWDbbbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 41
+        },
+        "username": "Matsushimaakop",
+        "verified": false
+      }
+    ]
+  }
+}

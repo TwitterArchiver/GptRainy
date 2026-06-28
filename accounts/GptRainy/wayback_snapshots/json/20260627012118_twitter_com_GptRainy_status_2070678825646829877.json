@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2070678825646829877",
+    "created_at": "2026-06-27T01:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070678825646829877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/11andpr8964896…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/11andpr89648964/status/2070313241235144967",
+          "start": 50,
+          "url": "https://t.co/fdLmXHVjrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070678825646829877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070313241235144967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真羡慕你们啊 你们一句心情不好小窗全是安慰转账 我死了遗书发朋友圈都被人阿帕次阿帕次的复制粘贴走了 https://t.co/fdLmXHVjrV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2070678825646829877",
+        "created_at": "2026-06-27T01:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070678825646829877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11andpr8964896…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/11andpr89648964/status/2070313241235144967",
+              "start": 50,
+              "url": "https://t.co/fdLmXHVjrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070678825646829877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070313241235144967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真羡慕你们啊 你们一句心情不好小窗全是安慰转账 我死了遗书发朋友圈都被人阿帕次阿帕次的复制粘贴走了 https://t.co/fdLmXHVjrV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2070313241235144967",
+        "created_at": "2026-06-26T01:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070313241235144967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070313241235144967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4271,
+          "like_count": 152,
+          "quote_count": 4,
+          "reply_count": 26,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "真羡慕你们啊 你们一句心情不好小窗全是安慰转账 我死了遗书发朋友圈都被人阿帕次阿帕次的复制粘贴走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 417,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 953,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1952
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

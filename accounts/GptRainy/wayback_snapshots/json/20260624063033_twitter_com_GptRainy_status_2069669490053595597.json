@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069669487700271104"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2069669490053595597",
+    "created_at": "2026-06-24T06:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069669490053595597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/daBTno4psA",
+          "end": 38,
+          "expanded_url": "https://x.com/GptRainy/status/2069669490053595597/photo/1",
+          "media_key": "3_2069669487700271104",
+          "start": 15,
+          "url": "https://t.co/daBTno4psA"
+        },
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/2069363097207497118",
+          "start": 39,
+          "url": "https://t.co/rTNeB7D4jN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069669490053595597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069363097207497118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说法律我都有点好笑.jpg https://t.co/daBTno4psA https://t.co/rTNeB7D4jN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2069669487700271104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjxbvjW4AAIs3G.jpg",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069669487700271104"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2069669490053595597",
+        "created_at": "2026-06-24T06:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069669490053595597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/daBTno4psA",
+              "end": 38,
+              "expanded_url": "https://x.com/GptRainy/status/2069669490053595597/photo/1",
+              "media_key": "3_2069669487700271104",
+              "start": 15,
+              "url": "https://t.co/daBTno4psA"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2069363097207497118",
+              "start": 39,
+              "url": "https://t.co/rTNeB7D4jN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069669490053595597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069363097207497118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说法律我都有点好笑.jpg https://t.co/daBTno4psA https://t.co/rTNeB7D4jN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2069363097207497118",
+        "created_at": "2026-06-23T10:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069363097207497118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RizumuA3/statu…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/RizumuA3/status/2069316573505237211",
+              "start": 131,
+              "url": "https://t.co/8XFxuXU6Ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069363097207497118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "庇护所长期以来执行的方案是“应登尽登”，哪怕人还没来都“提前登记”。\n\n但是代价是：当派出所看到一群“不男不女的人聚集在一起”，就会开始频繁恐吓房东，要求房东退租。或者电话联系信息登记者的家长，恐吓家长“您的孩子和一群不三不四的人住在一起，会把您家小孩带坏”。\n\n最后就进入了骚扰→投诉→骚扰→投诉的无限循环"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10717,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069316573505237211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "庇护所长期以来执行的方案是“应登尽登”，哪怕人还没来都“提前登记”。\n\n但是代价是：当派出所看到一群“不男不女的人聚集在一起”，就会开始频繁恐吓房东，要求房东退租。或者电话联系信息登记者的家长，恐吓家长“您的孩子和一群不三不四的人住在一起，会把您家小孩带坏”。 https://t.co/8XFxuXU6Ht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 373,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41831,
+          "following_count": 3874,
+          "like_count": 1807,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 3011
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

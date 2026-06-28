@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063970948915855360"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063970951428206973",
+    "created_at": "2026-06-08T13:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063970951428206973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/58cSTThE9L",
+          "end": 23,
+          "expanded_url": "https://x.com/GptRainy/status/2063970951428206973/photo/1",
+          "media_key": "3_2063970948915855360",
+          "start": 0,
+          "url": "https://t.co/58cSTThE9L"
+        },
+        {
+          "display_url": "x.com/011Pedroz/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/011Pedroz/status/2063763912957345923",
+          "start": 24,
+          "url": "https://t.co/oGfD4mLfzp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063970951428206973",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063763912957345923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/58cSTThE9L https://t.co/oGfD4mLfzp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 489,
+        "media_key": "3_2063970948915855360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSypITbAAA-EZX.jpg",
+        "width": 498
+      },
+      {
+        "height": 395,
+        "media_key": "3_2063763910092632065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP2V4lXsAEP3vm.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063970948915855360"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063970951428206973",
+        "created_at": "2026-06-08T13:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063970951428206973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/58cSTThE9L",
+              "end": 23,
+              "expanded_url": "https://x.com/GptRainy/status/2063970951428206973/photo/1",
+              "media_key": "3_2063970948915855360",
+              "start": 0,
+              "url": "https://t.co/58cSTThE9L"
+            },
+            {
+              "display_url": "x.com/011Pedroz/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/011Pedroz/status/2063763912957345923",
+              "start": 24,
+              "url": "https://t.co/oGfD4mLfzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063970951428206973",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063763912957345923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/58cSTThE9L https://t.co/oGfD4mLfzp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063763910092632065"
+          ]
+        },
+        "author_id": "1815334456544088064",
+        "conversation_id": "2063763912957345923",
+        "created_at": "2026-06-07T23:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063763912957345923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDmiHmRr4s",
+              "end": 104,
+              "expanded_url": "https://x.com/011Pedroz/status/2063763912957345923/photo/1",
+              "media_key": "3_2063763910092632065",
+              "start": 81,
+              "url": "https://t.co/gDmiHmRr4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063763912957345923",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2105,
+          "impression_count": 498009,
+          "like_count": 23340,
+          "quote_count": 70,
+          "reply_count": 127,
+          "retweet_count": 586
+        },
+        "reply_settings": "everyone",
+        "text": "meu amigo hetero foi mijar na minha frente e o pau dele é enorme, fiquei babando https://t.co/gDmiHmRr4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 329,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T10:34:10.000Z",
+        "description": "see you next summer",
+        "id": "1815334456544088064",
+        "location": "gravityfalls ",
+        "name": "𝕻𝖊𝖉𝖗𝖔",
+        "pinned_tweet_id": "2057185043391369256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040546710318202880/gC8SdPm8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 807,
+          "like_count": 9395,
+          "listed_count": 4,
+          "media_count": 2781,
+          "tweet_count": 4223
+        },
+        "username": "011Pedroz",
+        "verified": false
+      }
+    ]
+  }
+}

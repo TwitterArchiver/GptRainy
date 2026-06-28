@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2059883011660029957",
+    "created_at": "2026-05-29T05:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060233212916568300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2043662038048903168",
+          "start": 0,
+          "username": "Mx_x321411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060233212916568300",
+    "in_reply_to_user_id": "2043662038048903168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059883011660029957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mx_x321411 我也有！\n中国唯一能买到的单方dxm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059882955686940672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYsomyaEAAYNCd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059882955775049728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYsonHagAAt9Mn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059882955699531776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYsom1aMAAKaks.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2059883011660029957",
+        "created_at": "2026-05-29T05:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060233212916568300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2043662038048903168",
+              "start": 0,
+              "username": "Mx_x321411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060233212916568300",
+        "in_reply_to_user_id": "2043662038048903168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059883011660029957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mx_x321411 我也有！\n中国唯一能买到的单方dxm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059882955686940672",
+            "3_2059882955775049728",
+            "3_2059882955699531776"
+          ]
+        },
+        "author_id": "2043662038048903168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059883011660029957",
+        "created_at": "2026-05-28T06:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059883011660029957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "病み垢さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvktjuWULG",
+              "end": 52,
+              "expanded_url": "https://x.com/Mx_x321411/status/2059883011660029957/photo/1",
+              "media_key": "3_2059882955686940672",
+              "start": 29,
+              "url": "https://t.co/PvktjuWULG"
+            },
+            {
+              "display_url": "pic.x.com/PvktjuWULG",
+              "end": 52,
+              "expanded_url": "https://x.com/Mx_x321411/status/2059883011660029957/photo/1",
+              "media_key": "3_2059882955775049728",
+              "start": 29,
+              "url": "https://t.co/PvktjuWULG"
+            },
+            {
+              "display_url": "pic.x.com/PvktjuWULG",
+              "end": 52,
+              "expanded_url": "https://x.com/Mx_x321411/status/2059883011660029957/photo/1",
+              "media_key": "3_2059882955699531776",
+              "start": 29,
+              "url": "https://t.co/PvktjuWULG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059883011660029957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4328,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "メジは畳めます。6箱→2箱\n  #病み垢さんと繋がりたい https://t.co/PvktjuWULG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD /我很无聊快来找我聊天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 84,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T12:09:52.000Z",
+        "description": "09 躁鬱 仲間いたら仲良くしよね🎀☁︎☁︎☁︎☁︎☁︎☁︎☁︎☁︎☁︎☁︎☁︎☁︎☁︎☁︎☁︎アカウント一から作り直しました。\n知ってる人もいるかもね💕︎",
+        "id": "2043662038048903168",
+        "name": "あい",
+        "pinned_tweet_id": "2057450543426211907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057447861487636480/sn9S57le_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 2,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 103
+        },
+        "username": "Mx_x321411",
+        "verified": false
+      }
+    ]
+  }
+}

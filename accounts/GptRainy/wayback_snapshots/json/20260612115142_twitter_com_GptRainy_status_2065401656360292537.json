@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065401653826859008"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2065401656360292537",
+    "created_at": "2026-06-12T11:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065401656360292537"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "虎门抽烟"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MMpMLnENJG",
+          "end": 89,
+          "expanded_url": "https://x.com/GptRainy/status/2065401656360292537/photo/1",
+          "media_key": "3_2065401653826859008",
+          "start": 66,
+          "url": "https://t.co/MMpMLnENJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065401656360292537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#虎门抽烟\n\n蓝星番石榴单爆\n\n抽过最难抽的韩国烟\n如果没抽过树叶子可以来试一下\n感觉烟草质量还不如8块钱的庐山\n除了便宜一无是处 https://t.co/MMpMLnENJG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065401653826859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnH3HbasAAEMbp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065401653826859008"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2065401656360292537",
+        "created_at": "2026-06-12T11:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065401656360292537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "虎门抽烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MMpMLnENJG",
+              "end": 89,
+              "expanded_url": "https://x.com/GptRainy/status/2065401656360292537/photo/1",
+              "media_key": "3_2065401653826859008",
+              "start": 66,
+              "url": "https://t.co/MMpMLnENJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065401656360292537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#虎门抽烟\n\n蓝星番石榴单爆\n\n抽过最难抽的韩国烟\n如果没抽过树叶子可以来试一下\n感觉烟草质量还不如8块钱的庐山\n除了便宜一无是处 https://t.co/MMpMLnENJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 341,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

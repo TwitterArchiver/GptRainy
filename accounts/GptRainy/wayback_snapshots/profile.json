@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "username": "@GptRainy",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "ngl.link/amecandyx",
+        "end": 102,
+        "expanded_url": "https://ngl.link/amecandyx",
+        "start": 79,
+        "url": "https://t.co/5EE1WxkPHD"
+      }
+    ]
+  }
+}

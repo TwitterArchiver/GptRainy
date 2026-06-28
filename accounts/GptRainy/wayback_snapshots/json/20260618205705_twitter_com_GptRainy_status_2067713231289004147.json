@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067713064347283456"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2067713231289004147",
+    "created_at": "2026-06-18T20:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067713231289004147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mG5Tywoedu",
+          "end": 148,
+          "expanded_url": "https://x.com/GptRainy/status/2067713231289004147/photo/1",
+          "media_key": "3_2067713064347283456",
+          "start": 125,
+          "url": "https://t.co/mG5Tywoedu"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2067613050119799122",
+          "start": 149,
+          "url": "https://t.co/x2Jj7ka8du"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067713231289004147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067613050119799122",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唐玄宗李隆基：《端午三殿宴群臣并序》写到“叹节气之循环，美君臣之相乐”\n\n陆游：《乙卯重五诗》“重五山村好，榴花忽已繁。粽包分两髻，艾束著危冠。旧俗方储药，羸躯亦点丹。日斜吾事毕，一笑向杯盘”。\n\n结果到2011的一篇自媒体文章就骗了这么多人，，， https://t.co/mG5Tywoedu https://t.co/x2Jj7ka8du"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2067713064347283456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLH-E6nasAA0g2q.png",
+        "width": 900
+      },
+      {
+        "height": 1858,
+        "media_key": "3_2067582896962211840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGHsLUbEAAsLu2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067713064347283456"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2067713231289004147",
+        "created_at": "2026-06-18T20:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067713231289004147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mG5Tywoedu",
+              "end": 148,
+              "expanded_url": "https://x.com/GptRainy/status/2067713231289004147/photo/1",
+              "media_key": "3_2067713064347283456",
+              "start": 125,
+              "url": "https://t.co/mG5Tywoedu"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2067613050119799122",
+              "start": 149,
+              "url": "https://t.co/x2Jj7ka8du"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067713231289004147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067613050119799122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唐玄宗李隆基：《端午三殿宴群臣并序》写到“叹节气之循环，美君臣之相乐”\n\n陆游：《乙卯重五诗》“重五山村好，榴花忽已繁。粽包分两髻，艾束著危冠。旧俗方储药，羸躯亦点丹。日斜吾事毕，一笑向杯盘”。\n\n结果到2011的一篇自媒体文章就骗了这么多人，，， https://t.co/mG5Tywoedu https://t.co/x2Jj7ka8du"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067582896962211840"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2067613050119799122",
+        "created_at": "2026-06-18T14:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067613050119799122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGwuCJtzAA",
+              "end": 28,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2067613050119799122/photo/1",
+              "media_key": "3_2067582896962211840",
+              "start": 5,
+              "url": "https://t.co/VGwuCJtzAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067613050119799122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 169426,
+          "like_count": 510,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的 https://t.co/VGwuCJtzAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 349,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9326,
+          "following_count": 2403,
+          "like_count": 32605,
+          "listed_count": 26,
+          "media_count": 2063,
+          "tweet_count": 6265
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

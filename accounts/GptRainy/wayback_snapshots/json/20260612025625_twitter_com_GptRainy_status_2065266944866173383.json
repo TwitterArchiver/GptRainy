@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065147908937420800"
+      ],
+      "media_source_tweet_id": [
+        "2065147917862854771"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2065266944866173383",
+    "created_at": "2026-06-12T02:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065266944866173383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065142650882400256",
+          "start": 3,
+          "username": "LIHUAmao1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bhH1ZbGol",
+          "end": 64,
+          "expanded_url": "https://x.com/LIHUAmao1314/status/2065147917862854771/photo/1",
+          "media_key": "3_2065147908937420800",
+          "start": 41,
+          "url": "https://t.co/9bhH1ZbGol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065266944866173383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065147917862854771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LIHUAmao1314: 老规矩寻回互关好友，谢谢你们帮我转一下帖子， https://t.co/9bhH1ZbGol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2065147908937420800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjhFODbEAA3XBa.png",
+        "width": 781
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065147908937420800"
+          ],
+          "media_source_tweet_id": [
+            "2065147917862854771"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2065266944866173383",
+        "created_at": "2026-06-12T02:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065266944866173383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065142650882400256",
+              "start": 3,
+              "username": "LIHUAmao1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bhH1ZbGol",
+              "end": 64,
+              "expanded_url": "https://x.com/LIHUAmao1314/status/2065147917862854771/photo/1",
+              "media_key": "3_2065147908937420800",
+              "start": 41,
+              "url": "https://t.co/9bhH1ZbGol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065266944866173383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065147917862854771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LIHUAmao1314: 老规矩寻回互关好友，谢谢你们帮我转一下帖子， https://t.co/9bhH1ZbGol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065147908937420800"
+          ]
+        },
+        "author_id": "2065142650882400256",
+        "conversation_id": "2065147917862854771",
+        "created_at": "2026-06-11T19:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065147917862854771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bhH1ZbGol",
+              "end": 46,
+              "expanded_url": "https://x.com/LIHUAmao1314/status/2065147917862854771/photo/1",
+              "media_key": "3_2065147908937420800",
+              "start": 23,
+              "url": "https://t.co/9bhH1ZbGol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065147917862854771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老规矩寻回互关好友，谢谢你们帮我转一下帖子， https://t.co/9bhH1ZbGol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 334,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T18:46:57.000Z",
+        "description": "狸花：耐药王加耐杀王\n联系我加我tg@LIhua1314\n有神秘tg小商店\nhttps://t.co/TLE7CHUdfX\n性别就是猫，原来的三个号彻底死了这是四号机，不敢发有关于💊的东西了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 61,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 38,
+                "url": "https://t.co/TLE7CHUdfX"
+              }
+            ]
+          }
+        },
+        "id": "2065142650882400256",
+        "name": "狸花の四号机（我一个号活不过半个月所以说加我tg@LIhua1314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065144695513378816/OQfDwxXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "LIHUAmao1314",
+        "verified": false
+      }
+    ]
+  }
+}

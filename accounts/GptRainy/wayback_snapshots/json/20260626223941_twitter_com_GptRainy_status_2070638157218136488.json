@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2070638157218136488",
+    "created_at": "2026-06-26T22:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070638157218136488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChatGPTapp/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/ChatGPTapp/status/2070573595793985668",
+          "start": 22,
+          "url": "https://t.co/Rvlvw3dCgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070638157218136488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070573595793985668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "cool!不过下一代模型要用什么名字呢（） https://t.co/Rvlvw3dCgO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2070573552672387072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwnrQBbMAABui4.jpg",
+        "width": 1671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2070638157218136488",
+        "created_at": "2026-06-26T22:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070638157218136488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChatGPTapp/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ChatGPTapp/status/2070573595793985668",
+              "start": 22,
+              "url": "https://t.co/Rvlvw3dCgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070638157218136488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070573595793985668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cool!不过下一代模型要用什么名字呢（） https://t.co/Rvlvw3dCgO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070573552672387072"
+          ]
+        },
+        "author_id": "1714438092655149056",
+        "conversation_id": "2070572959086121283",
+        "created_at": "2026-06-26T18:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070573595793985668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "824293216149237761",
+              "start": 0,
+              "username": "Costaazzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZ2G87VJDB",
+              "end": 34,
+              "expanded_url": "https://x.com/ChatGPTapp/status/2070573595793985668/photo/1",
+              "media_key": "3_2070573552672387072",
+              "start": 11,
+              "url": "https://t.co/lZ2G87VJDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070573595793985668",
+        "in_reply_to_user_id": "824293216149237761",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6270,
+          "like_count": 72,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070573087846703338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Costaazzz https://t.co/lZ2G87VJDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 412,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T00:27:53.000Z",
+        "description": "ChatGPT is for the people.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chat.com",
+                "end": 23,
+                "expanded_url": "https://chat.com/",
+                "start": 0,
+                "url": "https://t.co/4Om8Pmvm85"
+              }
+            ]
+          }
+        },
+        "id": "1714438092655149056",
+        "location": "Supercomputer",
+        "name": "ChatGPT",
+        "pinned_tweet_id": "2070572959086121283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051538676589682688/Y20UCtF5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589182,
+          "following_count": 257,
+          "like_count": 1282,
+          "listed_count": 3400,
+          "media_count": 94,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/4Om8Pmvm85",
+        "username": "ChatGPTapp",
+        "verified": true
+      }
+    ]
+  }
+}

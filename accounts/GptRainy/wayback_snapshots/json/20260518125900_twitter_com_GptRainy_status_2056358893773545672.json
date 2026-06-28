@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056350972910383104"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2056358893773545672",
+    "created_at": "2026-05-18T12:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056358893773545672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "2035118386938880000",
+          "start": 11,
+          "username": "Matsushimaakop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q0IrqPTBuN",
+          "end": 87,
+          "expanded_url": "https://x.com/GptRainy/status/2056358893773545672/photo/1",
+          "media_key": "3_2056350972910383104",
+          "start": 64,
+          "url": "https://t.co/Q0IrqPTBuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056358893773545672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢12妈妈的粉魔鬼！@Matsushimaakop\n😋香香软软的草莓奶昔的味道\n但是同样作为无爆珠的烟感觉不如卡普曼……气味 https://t.co/Q0IrqPTBuN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2275,
+        "media_key": "3_2056350972910383104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImgUJnaMAAro3Q.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056350972910383104"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2056358893773545672",
+        "created_at": "2026-05-18T12:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056358893773545672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2035118386938880000",
+              "start": 11,
+              "username": "Matsushimaakop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0IrqPTBuN",
+              "end": 87,
+              "expanded_url": "https://x.com/GptRainy/status/2056358893773545672/photo/1",
+              "media_key": "3_2056350972910383104",
+              "start": 64,
+              "url": "https://t.co/Q0IrqPTBuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056358893773545672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢12妈妈的粉魔鬼！@Matsushimaakop\n😋香香软软的草莓奶昔的味道\n但是同样作为无爆珠的烟感觉不如卡普曼……气味 https://t.co/Q0IrqPTBuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "……晚安，永远的互联网天使\n不回关是因为怕回关太多被封号抱歉呜呜\n会慢慢回关的",
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 37,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 23
+        },
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T22:17:56.000Z",
+        "description": "12/🚬袋/我将为神/mtm😻",
+        "id": "2035118386938880000",
+        "location": "Dolly388769",
+        "name": "12悠哉大王",
+        "pinned_tweet_id": "2056290238553825672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056290003169505280/2wWDbbbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 17,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 38
+        },
+        "username": "Matsushimaakop",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2022906791865258241",
+    "created_at": "2026-06-07T13:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063618074302202070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "854250925480845312",
+          "start": 0,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063618074302202070",
+    "in_reply_to_user_id": "854250925480845312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022906791865258241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyue 老师不知道你还记得我吗😭我是小雨我转生了，之前那个号被封了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1981,
+        "media_key": "3_2022906786488233985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLPASZbsAES8DG.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1895,
+        "media_key": "3_2022906786781777921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLPATfa0AEjp9I.png",
+        "width": 1307
+      },
+      {
+        "height": 1939,
+        "media_key": "3_2022906786601406467",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLPAS0akAM8cFT.png",
+        "width": 1337
+      },
+      {
+        "height": 1954,
+        "media_key": "3_2022906788077801476",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLPAYUakAQCypE.png",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2022906791865258241",
+        "created_at": "2026-06-07T13:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063618074302202070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "854250925480845312",
+              "start": 0,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063618074302202070",
+        "in_reply_to_user_id": "854250925480845312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022906791865258241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyue 老师不知道你还记得我吗😭我是小雨我转生了，之前那个号被封了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022906786488233985",
+            "3_2022906786781777921",
+            "3_2022906786601406467",
+            "3_2022906788077801476"
+          ]
+        },
+        "author_id": "854250925480845312",
+        "conversation_id": "2022906791865258241",
+        "created_at": "2026-02-15T05:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022906791865258241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JobycwjGc0",
+              "end": 81,
+              "expanded_url": "https://x.com/liulingyue/status/2022906791865258241/photo/1",
+              "media_key": "3_2022906786488233985",
+              "start": 58,
+              "url": "https://t.co/JobycwjGc0"
+            },
+            {
+              "display_url": "pic.x.com/JobycwjGc0",
+              "end": 81,
+              "expanded_url": "https://x.com/liulingyue/status/2022906791865258241/photo/1",
+              "media_key": "3_2022906786781777921",
+              "start": 58,
+              "url": "https://t.co/JobycwjGc0"
+            },
+            {
+              "display_url": "pic.x.com/JobycwjGc0",
+              "end": 81,
+              "expanded_url": "https://x.com/liulingyue/status/2022906791865258241/photo/1",
+              "media_key": "3_2022906786601406467",
+              "start": 58,
+              "url": "https://t.co/JobycwjGc0"
+            },
+            {
+              "display_url": "pic.x.com/JobycwjGc0",
+              "end": 81,
+              "expanded_url": "https://x.com/liulingyue/status/2022906791865258241/photo/1",
+              "media_key": "3_2022906788077801476",
+              "start": 58,
+              "url": "https://t.co/JobycwjGc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022906791865258241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 39557,
+          "like_count": 280,
+          "quote_count": 10,
+          "reply_count": 20,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "关于海棠，关于远上白云间、辞奺、QJF（笔名就是这个）等等很多我不知道名字的被捕的作者，关于现行刑法条款的一点想法 https://t.co/JobycwjGc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 309,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "pinned_tweet_id": "2022906791865258241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907841751840337924/31LJRKV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 1438,
+          "like_count": 18914,
+          "listed_count": 15,
+          "media_count": 1017,
+          "tweet_count": 9050
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

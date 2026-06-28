@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063272965316464807",
+    "created_at": "2026-06-06T14:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063272965316464807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/willa_citrus/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/willa_citrus/status/2062763885984448530",
+          "start": 46,
+          "url": "https://t.co/icvzo03YVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063272965316464807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062763885984448530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牠的语气就和牠有多大能耐一样😁打过国内黑皮电话的都知道他们很乐意消除这种所谓「不稳定因素」 https://t.co/icvzo03YVr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063272965316464807",
+        "created_at": "2026-06-06T14:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063272965316464807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2062763885984448530",
+              "start": 46,
+              "url": "https://t.co/icvzo03YVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063272965316464807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062763885984448530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牠的语气就和牠有多大能耐一样😁打过国内黑皮电话的都知道他们很乐意消除这种所谓「不稳定因素」 https://t.co/icvzo03YVr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2062763885984448530",
+        "created_at": "2026-06-05T05:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062763885984448530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2062763319212339511",
+              "start": 98,
+              "url": "https://t.co/QxFWR302PU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062763885984448530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2097,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062763319212339511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要跳楼的人我拉过不止一两个 我知道需要出多大的力把人扯住到摔在地上 你只是选择了把人扔给家长和她不愿面对的精卫\n第六条更荒谬了 如果你认同这种方式你应该注销自己的所有账号 然后去劝清蒸把频道关了 https://t.co/QxFWR302PU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 252,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 人生意义是创造、帮助和改变 / 如果空下来一定要做个播客 / 甜甜同居六年多 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12020,
+          "following_count": 238,
+          "like_count": 7779,
+          "listed_count": 35,
+          "media_count": 350,
+          "tweet_count": 8839
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

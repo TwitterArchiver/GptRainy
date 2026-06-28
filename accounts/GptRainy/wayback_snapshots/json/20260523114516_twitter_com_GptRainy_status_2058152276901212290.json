@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057690135156948992"
+      ],
+      "media_source_tweet_id": [
+        "2057690142203375794"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2058152276901212290",
+    "created_at": "2026-05-23T11:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058152276901212290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1261560609214087168",
+          "start": 3,
+          "username": "Cathy_eko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wL7IWu9kMr",
+          "end": 58,
+          "expanded_url": "https://x.com/Cathy_eko/status/2057690142203375794/photo/1",
+          "media_key": "3_2057690135156948992",
+          "start": 35,
+          "url": "https://t.co/wL7IWu9kMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058152276901212290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057690142203375794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Cathy_eko: 能不能别发这种引发群体焦虑的赛博算命贴 https://t.co/wL7IWu9kMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1975,
+        "media_key": "3_2057690135156948992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5iRpvbAAAqHaC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057690135156948992"
+          ],
+          "media_source_tweet_id": [
+            "2057690142203375794"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2058152276901212290",
+        "created_at": "2026-05-23T11:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058152276901212290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1261560609214087168",
+              "start": 3,
+              "username": "Cathy_eko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wL7IWu9kMr",
+              "end": 58,
+              "expanded_url": "https://x.com/Cathy_eko/status/2057690142203375794/photo/1",
+              "media_key": "3_2057690135156948992",
+              "start": 35,
+              "url": "https://t.co/wL7IWu9kMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058152276901212290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057690142203375794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Cathy_eko: 能不能别发这种引发群体焦虑的赛博算命贴 https://t.co/wL7IWu9kMr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057690135156948992"
+          ]
+        },
+        "author_id": "1261560609214087168",
+        "conversation_id": "2057690142203375794",
+        "created_at": "2026-05-22T05:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057690142203375794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wL7IWu9kMr",
+              "end": 43,
+              "expanded_url": "https://x.com/Cathy_eko/status/2057690142203375794/photo/1",
+              "media_key": "3_2057690135156948992",
+              "start": 20,
+              "url": "https://t.co/wL7IWu9kMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057690142203375794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8037,
+          "like_count": 142,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "能不能别发这种引发群体焦虑的赛博算命贴 https://t.co/wL7IWu9kMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！不回关是因为怕回关太多被封号抱歉呜呜会慢慢回关的\n07年Transfem/🐱我的小猫叫卡尔/o割/🤖独立AI研究者/💊药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 92,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 69,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 71,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "备用号@Cathylp1984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Cathylp1984"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "弓張",
+        "name": "小学茜",
+        "pinned_tweet_id": "2054859575267131548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053372636898725888/9buW95xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 1407,
+          "like_count": 163534,
+          "listed_count": 57,
+          "media_count": 6154,
+          "tweet_count": 65092
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

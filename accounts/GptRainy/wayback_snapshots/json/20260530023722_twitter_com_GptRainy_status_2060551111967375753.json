@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060551042664943616"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2060551111967375753",
+    "created_at": "2026-05-30T02:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060551111967375753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/23F9qguMnO",
+          "end": 25,
+          "expanded_url": "https://x.com/GptRainy/status/2060551111967375753/photo/1",
+          "media_key": "3_2060551042664943616",
+          "start": 2,
+          "url": "https://t.co/23F9qguMnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060551111967375753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草 https://t.co/23F9qguMnO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 339,
+        "media_key": "3_2060551042664943616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiMQYua0AAFlDi.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060551042664943616"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2060551111967375753",
+        "created_at": "2026-05-30T02:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060551111967375753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23F9qguMnO",
+              "end": 25,
+              "expanded_url": "https://x.com/GptRainy/status/2060551111967375753/photo/1",
+              "media_key": "3_2060551042664943616",
+              "start": 2,
+              "url": "https://t.co/23F9qguMnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060551111967375753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草 https://t.co/23F9qguMnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD /我很无聊快来找我聊天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2059310965297226033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 85,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

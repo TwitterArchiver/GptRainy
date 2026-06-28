@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063290679451922616",
+    "created_at": "2026-06-06T16:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063290679451922616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Moelin_Moe/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Moelin_Moe/status/2063143277222936931",
+          "start": 40,
+          "url": "https://t.co/pRiHvkfQMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063290679451922616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063143277222936931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也需要……一个人做饭真的很容易做多然后就吃撑😭一个人逛街也很容易不自在什么的 https://t.co/pRiHvkfQMt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063290679451922616",
+        "created_at": "2026-06-06T16:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063290679451922616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moelin_Moe/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Moelin_Moe/status/2063143277222936931",
+              "start": 40,
+              "url": "https://t.co/pRiHvkfQMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063290679451922616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063143277222936931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也需要……一个人做饭真的很容易做多然后就吃撑😭一个人逛街也很容易不自在什么的 https://t.co/pRiHvkfQMt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620500189630042112",
+        "conversation_id": "2063143277222936931",
+        "created_at": "2026-06-06T06:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063143277222936931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063143277222936931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为我需要一个逛超市搭子/吃饭搭子/做饭搭子\n大概就是合租室友但是不在同一个房子里睡觉（\n感觉这样会大大的提振我的精力\n因为自己生活就懒得做饭甚至懒得吃饭了\n买东西也是直接上网点\n但是要是有个人能吃点我做的饭没准我也就一起吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 259,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:12:18.000Z",
+        "description": "She/Her · 07 · 一事无成的Product Manager · 💻Vibe Coding · ADHD · ✨ @ElimSpace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "ElimSpace"
+              }
+            ]
+          }
+        },
+        "id": "1620500189630042112",
+        "location": "IP属地：朝鲜人民民主主义共和国",
+        "name": "Moelin雲墨 凌",
+        "pinned_tweet_id": "1992574644956913783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754830288549769216/ce5vqxUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 891,
+          "like_count": 2332,
+          "listed_count": 9,
+          "media_count": 417,
+          "tweet_count": 5854
+        },
+        "username": "Moelin_Moe",
+        "verified": true
+      }
+    ]
+  }
+}

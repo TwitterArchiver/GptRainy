@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062390501278625792"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2062166535884734601",
+    "created_at": "2026-06-04T04:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062390504143425603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2020511531587493888",
+          "start": 0,
+          "username": "us57195"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Bynfv0Xsj",
+          "end": 34,
+          "expanded_url": "https://x.com/GptRainy/status/2062390504143425603/photo/1",
+          "media_key": "3_2062390501278625792",
+          "start": 11,
+          "url": "https://t.co/9Bynfv0Xsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062390504143425603",
+    "in_reply_to_user_id": "2020511531587493888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062384601235103905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@us57195 🤣 https://t.co/9Bynfv0Xsj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 507,
+        "media_key": "3_2062390501278625792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8VO-DaMAAJD-T.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062390501278625792"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2062166535884734601",
+        "created_at": "2026-06-04T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062390504143425603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2020511531587493888",
+              "start": 0,
+              "username": "us57195"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Bynfv0Xsj",
+              "end": 34,
+              "expanded_url": "https://x.com/GptRainy/status/2062390504143425603/photo/1",
+              "media_key": "3_2062390501278625792",
+              "start": 11,
+              "url": "https://t.co/9Bynfv0Xsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062390504143425603",
+        "in_reply_to_user_id": "2020511531587493888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062384601235103905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@us57195 🤣 https://t.co/9Bynfv0Xsj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020511531587493888",
+        "conversation_id": "2062166535884734601",
+        "created_at": "2026-06-04T04:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062384601235103905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062384601235103905",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062166535884734601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 很惡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 148,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-08T14:54:53.000Z",
+        "description": "",
+        "id": "2020511531587493888",
+        "name": "請給我一個推不開的擁抱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055907881116131328/u1fB8Lpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 74,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 79
+        },
+        "username": "us57195",
+        "verified": false
+      }
+    ]
+  }
+}

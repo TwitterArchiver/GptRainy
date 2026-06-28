@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063566323427450880",
+        "3_2063566431208501248"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2063566440041746874",
+    "created_at": "2026-06-07T10:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063566440041746874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eBJJZbPCjt",
+          "end": 23,
+          "expanded_url": "https://x.com/GptRainy/status/2063566440041746874/photo/1",
+          "media_key": "3_2063566323427450880",
+          "start": 0,
+          "url": "https://t.co/eBJJZbPCjt"
+        },
+        {
+          "display_url": "pic.x.com/eBJJZbPCjt",
+          "end": 23,
+          "expanded_url": "https://x.com/GptRainy/status/2063566440041746874/photo/1",
+          "media_key": "3_2063566431208501248",
+          "start": 0,
+          "url": "https://t.co/eBJJZbPCjt"
+        },
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/GptRainy/status/2063478776382787652",
+          "start": 24,
+          "url": "https://t.co/OQcpVBx5Zo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063566440041746874",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063478776382787652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/eBJJZbPCjt https://t.co/OQcpVBx5Zo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2063566323427450880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNCo05aIAArZpf.jpg",
+        "width": 772
+      },
+      {
+        "height": 493,
+        "media_key": "3_2063566431208501248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNCvGaacAACFFi.png",
+        "width": 361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063566323427450880",
+            "3_2063566431208501248"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2063566440041746874",
+        "created_at": "2026-06-07T10:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063566440041746874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBJJZbPCjt",
+              "end": 23,
+              "expanded_url": "https://x.com/GptRainy/status/2063566440041746874/photo/1",
+              "media_key": "3_2063566323427450880",
+              "start": 0,
+              "url": "https://t.co/eBJJZbPCjt"
+            },
+            {
+              "display_url": "pic.x.com/eBJJZbPCjt",
+              "end": 23,
+              "expanded_url": "https://x.com/GptRainy/status/2063566440041746874/photo/1",
+              "media_key": "3_2063566431208501248",
+              "start": 0,
+              "url": "https://t.co/eBJJZbPCjt"
+            },
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/GptRainy/status/2063478776382787652",
+              "start": 24,
+              "url": "https://t.co/OQcpVBx5Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063566440041746874",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063478776382787652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/eBJJZbPCjt https://t.co/OQcpVBx5Zo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2063478776382787652",
+        "created_at": "2026-06-07T04:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:25:17.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063477369135153560",
+          "2063477418158100787",
+          "2063478572657123655",
+          "2063478670652846173",
+          "2063478776382787652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/GptRainy/status/2063445623119200697",
+              "start": 96,
+              "url": "https://t.co/uZhRHQNJpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063478776382787652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 922,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063445623119200697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初一初二，喜欢的信息竞赛化学竞赛听家长的意见学一半没再去学\n初三，一年没上学，中考考进重点，休了三年没去上\n休学，又从澳洲留学预科退学\n接连放弃机会，最后沦落这样的地步\n眼高手低说的就是我吧 https://t.co/uZhRHQNJpF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 302,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

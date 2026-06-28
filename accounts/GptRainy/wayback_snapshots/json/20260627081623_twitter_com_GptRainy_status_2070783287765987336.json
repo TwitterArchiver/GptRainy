@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2070783287765987336",
+    "created_at": "2026-06-27T08:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070783287765987336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "88247180",
+          "start": 3,
+          "username": "shuangqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070783287765987336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070506429837185535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuangqiu: 填补了我国没有飞机撞大楼的历史性空白。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2070783287765987336",
+        "created_at": "2026-06-27T08:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070783287765987336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "88247180",
+              "start": 3,
+              "username": "shuangqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070783287765987336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070506429837185535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuangqiu: 填补了我国没有飞机撞大楼的历史性空白。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "88247180",
+        "conversation_id": "2070506429837185535",
+        "created_at": "2026-06-26T13:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070506429837185535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070506429837185535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 111972,
+          "like_count": 1923,
+          "quote_count": 2,
+          "reply_count": 86,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "填补了我国没有飞机撞大楼的历史性空白。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 420,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-07T19:00:11.000Z",
+        "description": "#坚果内参，行政级别低，内容迎合领导。 本账号由多人管理，言论及其他信息均不构成投资建议或人生指导，请您独立进行决策。 本账号的所有内容严禁在 #中华人民共和国（包括其声称或控制的所有领土、领海、领空及互联网空间）传播或转播。访问、阅读和使用本账号的任何内容即表示您同意上述条款。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "坚果内参"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "tag": "中华人民共和国"
+              }
+            ]
+          }
+        },
+        "id": "88247180",
+        "location": "In a Nutshell ",
+        "name": "Squirrel/Squirrela 霜秋的松鼠",
+        "pinned_tweet_id": "2027361113302765847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613716572160000/pG77uN5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7585,
+          "following_count": 77,
+          "like_count": 11587,
+          "listed_count": 75,
+          "media_count": 3603,
+          "tweet_count": 66404
+        },
+        "url": "",
+        "username": "shuangqiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2060555991016743197",
+    "created_at": "2026-05-30T02:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060555991016743197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hiyufamily/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/hiyufamily/status/2060087773248491904",
+          "start": 30,
+          "url": "https://t.co/EJduf7NLnH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060555991016743197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060087773248491904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笨人就是从各种找问卷显示抑郁症可能性很大到医院确诊真抑郁症 https://t.co/EJduf7NLnH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2060555991016743197",
+        "created_at": "2026-05-30T02:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060555991016743197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiyufamily/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hiyufamily/status/2060087773248491904",
+              "start": 30,
+              "url": "https://t.co/EJduf7NLnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060555991016743197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060087773248491904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笨人就是从各种找问卷显示抑郁症可能性很大到医院确诊真抑郁症 https://t.co/EJduf7NLnH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958403493527683072",
+        "conversation_id": "2060087773248491904",
+        "created_at": "2026-05-28T19:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060087773248491904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060087773248491904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 223,
+          "impression_count": 188013,
+          "like_count": 5381,
+          "quote_count": 71,
+          "reply_count": 18,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "web診断で\"鬱の可能性大\"って出て、本当に精神科行って鬱って判明した人いるのかな。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD /我很无聊快来找我聊天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2059310965297226033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 86,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-21T05:39:22.000Z",
+        "description": "大好きな彼女······▸💍@egrfgWVvQk56\n愚痴とか趣味······▸🗝@__xxl8\nおはツイ垢······▸☀️@0nu_y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "egrfgWVvQk56"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "__xxl8"
+              },
+              {
+                "end": 70,
+                "start": 64,
+                "username": "0nu_y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCfKnT…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCfKnTaML5tJXSbhjoupeIdQ?si=Xi-6g9EdFblPDL3U",
+                "start": 0,
+                "url": "https://t.co/lQOZXuNqIJ"
+              }
+            ]
+          }
+        },
+        "id": "1958403493527683072",
+        "location": "神奈川￤リムるならブロックで。",
+        "name": "ひ ゆ ち ゃ .",
+        "pinned_tweet_id": "2013199527571042730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058524487503785985/aALGEwP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 1732,
+          "like_count": 49166,
+          "listed_count": 26,
+          "media_count": 304,
+          "tweet_count": 5021
+        },
+        "url": "https://t.co/lQOZXuNqIJ",
+        "username": "hiyufamily",
+        "verified": false
+      }
+    ]
+  }
+}

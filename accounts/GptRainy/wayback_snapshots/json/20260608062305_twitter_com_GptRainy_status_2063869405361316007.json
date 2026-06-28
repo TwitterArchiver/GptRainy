@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2063869405361316007",
+    "created_at": "2026-06-08T06:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063869405361316007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fw_k4ylee/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Fw_k4ylee/status/2063624314818121992",
+          "start": 33,
+          "url": "https://t.co/nrp3YNxWPY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063869405361316007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063624314818121992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真正的左b药物难道不是老毛本人精选的水合氯醛以及苯巴比妥吗，，， https://t.co/nrp3YNxWPY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063869405361316007",
+        "created_at": "2026-06-08T06:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063869405361316007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fw_k4ylee/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Fw_k4ylee/status/2063624314818121992",
+              "start": 33,
+              "url": "https://t.co/nrp3YNxWPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063869405361316007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063624314818121992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真正的左b药物难道不是老毛本人精选的水合氯醛以及苯巴比妥吗，，， https://t.co/nrp3YNxWPY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050411405874991106",
+        "conversation_id": "2063624314818121992",
+        "created_at": "2026-06-07T14:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063624314818121992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063624314818121992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 843,
+          "impression_count": 1030634,
+          "like_count": 12848,
+          "quote_count": 319,
+          "reply_count": 849,
+          "retweet_count": 633
+        },
+        "reply_settings": "everyone",
+        "text": "left wing drugs: \nweed\nLSD\nxanax\n\nright wing drugs:\nmeth\ncocaine\nzyns\n\nWe need centrist drugs for radical centrists."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 313,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T03:08:38.000Z",
+        "description": "𝐒𝐨𝐦𝐞 𝐠𝐢𝐫𝐥𝐬 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐥𝐲 𝐡𝐚𝐯𝐞 𝐢𝐭… 𝐈’𝐦 𝐡𝐞𝐫 😮‍🔥💨",
+        "id": "2050411405874991106",
+        "name": "k4ylee🖤🎀",
+        "pinned_tweet_id": "2063701039753081155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050756019983417344/FAGENlQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 66,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "Fw_k4ylee",
+        "verified": true
+      }
+    ]
+  }
+}
