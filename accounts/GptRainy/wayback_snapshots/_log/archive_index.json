@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-03T08:07:19",
+  "last_updated": "2026-07-03T08:08:04",
   "html": {
     "https://web.archive.org/web/20260517110632if_/https://twitter.com/GptRainy/status/2055968202975482204": {
       "status": "done",
@@ -3638,29 +3638,29 @@
   },
   "videos": {
     "https://video.twimg.com/ext_tw_video/2062567807502737408/pu/vid/avc1/1280x720/tA2jqEjqytQo2-ct.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260604171927_twitter_com_GptRainy_status_2062585034826240037.json"
       ],
-      "last_updated": "2026-06-28T16:42:27",
+      "last_updated": "2026-07-03T08:07:39",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260604171927/https://video.twimg.com/ext_tw_video/2062567807502737408/pu/vid/avc1/1280x720/tA2jqEjqytQo2-ct.mp4?tag=12",
       "miss_count": 1
     },
     "https://video.twimg.com/amplify_video/2063545922630582272/vid/avc1/772x592/kiHtYcJumWLoNeRp.mp4": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260607115147_twitter_com_GptRainy_status_2063589734698627536.json"
       ],
-      "last_updated": "2026-06-28T17:44:04",
+      "last_updated": "2026-07-03T08:07:39",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260607115147/https://video.twimg.com/amplify_video/2063545922630582272/vid/avc1/772x592/kiHtYcJumWLoNeRp.mp4",
       "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2068928562758139904/vid/avc1/2560x1440/woeCzp-2Ez3XEuIp.mp4": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260627061224_twitter_com_GptRainy_status_2070752087177372056.json"
       ],
-      "last_updated": "2026-06-28T17:44:06",
+      "last_updated": "2026-07-03T08:08:04",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260627061224/https://video.twimg.com/amplify_video/2068928562758139904/vid/avc1/2560x1440/woeCzp-2Ez3XEuIp.mp4",
       "miss_count": 2
     }
