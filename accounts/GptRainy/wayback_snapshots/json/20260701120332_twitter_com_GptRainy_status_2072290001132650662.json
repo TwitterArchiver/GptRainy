@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2071421215303155888",
+    "created_at": "2026-07-01T12:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072290001132650662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2028790074301984769",
+          "start": 0,
+          "username": "fox_udon_oksr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072290001132650662",
+    "in_reply_to_user_id": "2028790074301984769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071421215303155888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fox_udon_oksr 感觉日本那边这种的会比中国严重一些欸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071421210840453120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8qncxa0AAfR-A.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2071421215303155888",
+        "created_at": "2026-07-01T12:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072290001132650662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2028790074301984769",
+              "start": 0,
+              "username": "fox_udon_oksr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072290001132650662",
+        "in_reply_to_user_id": "2028790074301984769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071421215303155888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fox_udon_oksr 感觉日本那边这种的会比中国严重一些欸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071421210840453120"
+          ]
+        },
+        "author_id": "2028790074301984769",
+        "conversation_id": "2071421215303155888",
+        "created_at": "2026-06-29T02:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071421215303155888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcKOagNZbC",
+              "end": 48,
+              "expanded_url": "https://x.com/fox_udon_oksr/status/2071421215303155888/photo/1",
+              "media_key": "3_2071421210840453120",
+              "start": 25,
+              "url": "https://t.co/vcKOagNZbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071421215303155888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男だと分かった瞬間にブロックしてくる人多すぎ、、 https://t.co/vcKOagNZbC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 434,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T11:10:30.000Z",
+        "description": "中2 ♂ ケモノ好き 雑多垢 フォロバ100% \n大好きだよるかちゃん♡ 💍@luca_yyy\n大好きなにこいち→ @kinakomochill\nサブ垢→@fox_udon_sub 絵下手だけど描くよー",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "luca_yyy"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "kinakomochill"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "fox_udon_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/gaDrGQHc",
+                "end": 23,
+                "expanded_url": "https://discord.gg/gaDrGQHc",
+                "start": 0,
+                "url": "https://t.co/IdE87Oi1m4"
+              }
+            ]
+          }
+        },
+        "id": "2028790074301984769",
+        "location": "ケモナー兼不登校病みヤ9中垢(笑)",
+        "name": "きつね🦊💊",
+        "pinned_tweet_id": "2069689190800117949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051555502367383553/reYsMz8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 682,
+          "like_count": 739,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/IdE87Oi1m4",
+        "username": "fox_udon_oksr",
+        "verified": false
+      }
+    ]
+  }
+}

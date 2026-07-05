@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2072632270570373388",
+    "created_at": "2026-07-02T15:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072705278471197010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1999621714125463552",
+          "start": 0,
+          "username": "uz1qf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072705278471197010",
+    "in_reply_to_user_id": "1999621714125463552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072632270570373388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uz1qf 覚えてるよ、私が中学の頃にC++をやってたんだよねww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2072632270570373388",
+        "created_at": "2026-07-02T15:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072705278471197010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1999621714125463552",
+              "start": 0,
+              "username": "uz1qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072705278471197010",
+        "in_reply_to_user_id": "1999621714125463552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072632270570373388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uz1qf 覚えてるよ、私が中学の頃にC++をやってたんだよねww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999621714125463552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2072632270570373388",
+        "created_at": "2026-07-02T10:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072632270570373388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072632270570373388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "休職期間を考えれば現場経験は1年ちょいくらいでさ\nそうは言っても現場の経験があるのと無いのは明確に見える世界が違うからね\nその上で今のモダンな開発って目線でやっていくのはC言語とかをメインでやってた俺からしたら新しい挑戦だし楽しい経験になりそうだね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 443,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T23:26:02.000Z",
+        "description": "酒カスで警察のお世話になった30の男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/13a4ak7b9hc4sj…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/13a4ak7b9hc4sj8?t=YMdYWn&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Go5KsSMO0e"
+              }
+            ]
+          }
+        },
+        "id": "1999621714125463552",
+        "name": "ななし",
+        "pinned_tweet_id": "2023299055661838842",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 226,
+          "like_count": 41245,
+          "listed_count": 7,
+          "media_count": 69,
+          "tweet_count": 2341
+        },
+        "url": "https://t.co/Go5KsSMO0e",
+        "username": "uz1qf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2072212048189194435",
+    "created_at": "2026-07-01T06:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072212048189194435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NousResearch/s…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/NousResearch/status/2071974594961977727",
+          "start": 104,
+          "url": "https://t.co/UI6Yaz0LAz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072212048189194435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071974594961977727",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "nous真的是我见过最有taste的公司，记得他们23年还是24年发了一个用微调版mistral充当terminal的demo，震撼了我好几天\n在存量时代有taste是很重要的，所以我看好nous和kimi https://t.co/UI6Yaz0LAz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12950,
+        "height": 2160,
+        "media_key": "13_2071968947465789440",
+        "preview_image_url": "https://pbs.twimg.com/media/HMEeEQVWoAAgtf5.jpg",
+        "public_metrics": {
+          "view_count": 96036
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071968947465789440/pl/kZ6n_7F2_uSBYr8Y.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071968947465789440/vid/avc1/1080x1080/8pkJm3S6sPZgX2i5.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071968947465789440/vid/avc1/2160x2160/KuWyMVeHnYat6T-i.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071968947465789440/vid/avc1/540x540/uANpJlAhsDp5qvI_.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071968947465789440/vid/avc1/320x320/u3CrD60HvJH-qV6j.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071968947465789440/vid/avc1/720x720/sbWGYVRxflXFmdad.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2072212048189194435",
+        "created_at": "2026-07-01T06:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072212048189194435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NousResearch/s…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/NousResearch/status/2071974594961977727",
+              "start": 104,
+              "url": "https://t.co/UI6Yaz0LAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072212048189194435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071974594961977727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nous真的是我见过最有taste的公司，记得他们23年还是24年发了一个用微调版mistral充当terminal的demo，震撼了我好几天\n在存量时代有taste是很重要的，所以我看好nous和kimi https://t.co/UI6Yaz0LAz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071968947465789440"
+          ]
+        },
+        "author_id": "1318419526132862976",
+        "conversation_id": "2071974594961977727",
+        "created_at": "2026-06-30T15:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071974594961977727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwJThNmCXE",
+              "end": 298,
+              "expanded_url": "https://x.com/NousResearch/status/2071974594961977727/video/1",
+              "media_key": "13_2071968947465789440",
+              "start": 275,
+              "url": "https://t.co/EwJThNmCXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071974594961977727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2287,
+          "impression_count": 547919,
+          "like_count": 5120,
+          "quote_count": 76,
+          "reply_count": 179,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "Hermes Agent now reads the web up to 60x faster and 49x cheaper.\n\nScraping backends pass clean content straight to the agent without redundant processing steps; large pages are saved locally and paged on demand so you get the same quality at a fraction of the time and cost. https://t.co/EwJThNmCXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 430,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-20T05:11:31.000Z",
+        "description": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/nousresearch",
+                "end": 78,
+                "expanded_url": "https://discord.gg/nousresearch",
+                "start": 55,
+                "url": "https://t.co/vrD0aDJeto"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hermes-agent.nousresearch.com",
+                "end": 23,
+                "expanded_url": "http://hermes-agent.nousresearch.com",
+                "start": 0,
+                "url": "https://t.co/WhkKIXKwT3"
+              }
+            ]
+          }
+        },
+        "id": "1318419526132862976",
+        "location": "USA",
+        "name": "Nous Research",
+        "pinned_tweet_id": "2066921443548348436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226067,
+          "following_count": 27,
+          "like_count": 20111,
+          "listed_count": 2592,
+          "media_count": 425,
+          "tweet_count": 3378
+        },
+        "url": "https://t.co/WhkKIXKwT3",
+        "username": "NousResearch",
+        "verified": true
+      }
+    ]
+  }
+}

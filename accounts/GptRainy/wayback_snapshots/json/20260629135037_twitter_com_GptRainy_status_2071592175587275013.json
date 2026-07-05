@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2071592175587275013",
+    "created_at": "2026-06-29T13:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071592175587275013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1699814936153862144",
+          "start": 3,
+          "username": "chng1645882"
+        },
+        {
+          "end": 32,
+          "id": "1763780842911121408",
+          "start": 17,
+          "username": "qilianshan1976"
+        },
+        {
+          "end": 49,
+          "id": "1852895432269234176",
+          "start": 33,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071592175587275013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070922461181612132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chng1645882: @qilianshan1976 @432Ifantrygroup 何意味？列宁搞得是同性恋去罪化，苏联的同性恋议题是未受苏维埃政权干涉的，解释同性恋的权力完全被下放到了医学界，而当时的医学界把同性恋当生理病认定，外加东正教的男童恋童恶行实在令人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2071592175587275013",
+        "created_at": "2026-06-29T13:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071592175587275013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1699814936153862144",
+              "start": 3,
+              "username": "chng1645882"
+            },
+            {
+              "end": 32,
+              "id": "1763780842911121408",
+              "start": 17,
+              "username": "qilianshan1976"
+            },
+            {
+              "end": 49,
+              "id": "1852895432269234176",
+              "start": 33,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071592175587275013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070922461181612132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chng1645882: @qilianshan1976 @432Ifantrygroup 何意味？列宁搞得是同性恋去罪化，苏联的同性恋议题是未受苏维埃政权干涉的，解释同性恋的权力完全被下放到了医学界，而当时的医学界把同性恋当生理病认定，外加东正教的男童恋童恶行实在令人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699814936153862144",
+        "conversation_id": "2070850188374409272",
+        "created_at": "2026-06-27T17:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070922461181612132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763780842911121408",
+              "start": 0,
+              "username": "qilianshan1976"
+            },
+            {
+              "end": 32,
+              "id": "1852895432269234176",
+              "start": 16,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070922461181612132",
+        "in_reply_to_user_id": "1763780842911121408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 488,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070869934088053199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qilianshan1976 @432Ifantrygroup 何意味？列宁搞得是同性恋去罪化，苏联的同性恋议题是未受苏维埃政权干涉的，解释同性恋的权力完全被下放到了医学界，而当时的医学界把同性恋当生理病认定，外加东正教的男童恋童恶行实在令人难以言喻才在斯大林时期列入罪行，至于你中完全把同性恋当空气好么，既不列罪也不讨论，哪条法律写同犯罪了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 423,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T16:00:50.000Z",
+        "description": "",
+        "id": "1699814936153862144",
+        "name": "琤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008963208057638918/OphLbFbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 362,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "chng1645882",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T04:18:27.000Z",
+        "description": "苟利國家生死以 岂因祸福避趋之？",
+        "id": "1763780842911121408",
+        "location": "中華人民共和國 江南",
+        "name": "秦岭之鹭☭🇨🇳",
+        "pinned_tweet_id": "1939651853668827475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890250986934906880/fgrOIeM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 339,
+          "like_count": 5432,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 2615
+        },
+        "url": "",
+        "username": "qilianshan1976",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 4208,
+          "like_count": 44392,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 12636
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

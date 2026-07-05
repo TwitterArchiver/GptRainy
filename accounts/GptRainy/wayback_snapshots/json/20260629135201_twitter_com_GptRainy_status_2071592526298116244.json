@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2071592526298116244",
+    "created_at": "2026-06-29T13:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071592526298116244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1561753484512612353",
+          "start": 3,
+          "username": "Moutai_H_Maple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071592526298116244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071480883383582735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moutai_H_Maple: 就这一段时间，瞬间看出来有阅历的老左，和做题家的区别。\n后者就念经都念的磕磕绊绊，不求甚解。\n同性婚姻是资产阶级的还是无产阶级的？\n他的话逻辑是什么，无产阶级同性恋想结婚就支持，资产阶级同性恋想结婚就不支持？\n最后阳和平结尾反应笑死了：何…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80896,
+        "height": 548,
+        "media_key": "7_2071480611563261952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071480611563261952/pu/img/MgrY1n_6XcGNQOyb.jpg",
+        "public_metrics": {
+          "view_count": 1664
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071480611563261952/pu/vid/avc1/532x270/fUPgVEDCDvULaHFW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071480611563261952/pu/vid/avc1/708x360/F2aGZnxBhqa0onJe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071480611563261952/pu/vid/avc1/1080x548/eWqXYv7Mc4viFVIs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071480611563261952/pu/pl/E06zyPxdbHxXuON6.m3u8?v=f9f"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2071592526298116244",
+        "created_at": "2026-06-29T13:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071592526298116244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1561753484512612353",
+              "start": 3,
+              "username": "Moutai_H_Maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071592526298116244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071480883383582735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moutai_H_Maple: 就这一段时间，瞬间看出来有阅历的老左，和做题家的区别。\n后者就念经都念的磕磕绊绊，不求甚解。\n同性婚姻是资产阶级的还是无产阶级的？\n他的话逻辑是什么，无产阶级同性恋想结婚就支持，资产阶级同性恋想结婚就不支持？\n最后阳和平结尾反应笑死了：何…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071480611563261952"
+          ]
+        },
+        "author_id": "1561753484512612353",
+        "conversation_id": "2071480883383582735",
+        "created_at": "2026-06-29T06:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071480883383582735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpxHD02R0m",
+              "end": 146,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/2071480883383582735/video/1",
+              "media_key": "7_2071480611563261952",
+              "start": 123,
+              "url": "https://t.co/UpxHD02R0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071480883383582735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就这一段时间，瞬间看出来有阅历的老左，和做题家的区别。\n后者就念经都念的磕磕绊绊，不求甚解。\n同性婚姻是资产阶级的还是无产阶级的？\n他的话逻辑是什么，无产阶级同性恋想结婚就支持，资产阶级同性恋想结婚就不支持？\n最后阳和平结尾反应笑死了：何意味？\n\n这些年轻人很多听讲话能听出来，是缺乏社会经验的，不是说缺乏实践，而是说缺乏阅历。\n这个东西只能随着年龄增长、亲身经历和一次次目睹身边人的遭遇才能逐渐完善。\n\n右边那边说少数群体得看是阶级，实际上他说这句话的时候，并不是因为他理解这句话，也不是因为他见过劳动者是怎么被分裂的。\n而是他下意识先想到“阶级矛盾是第一位的”这么一个写在书里的口号。\n\n然后你去问他，那你是觉得黑人是无产阶级的，还是觉得lgbt是资产阶级的？什么叫做“阶级矛盾是第一位的”，怎么应用这句话？\n\n别的不说，他如果来这边旅行，就会发现很多愿意表达自我性少数群体都是劳动者，比如我楼下的一个杂货工人就是男同，一个餐馆服务员就是跨女。\n\n那么哪怕是毛泽东都认为：社会上有人民群众、无产阶级的内部矛盾，和阶级之间的敌我矛盾。\n\n内部矛盾是不等于没有矛盾，只是这个矛盾没有必要上升到敌我之间你死我活。\n\n因此，阶级矛盾是根本，这句话在马列主义主义角度的意思，并不是说在社会主义实现之前不搞平权，而是说这些分歧不应该搞得你死我活。\n\n否认矛盾存在，甚至去用专政手段禁止相关讨论，禁止吵架，反而是把人民内部矛盾变成了敌我矛盾。这才是真正的分裂无产阶级。\n\n实际上，在谈论平权时，你能发现很多年轻人就是幼稚的。他们会把一切问题误以为，仅仅是文化代表权问题、社会可见度问题。\n却意识不到，平权的根本平的是什么？\n\n是法律，是生存保障，是活着，是吃饭、住房、劳动就业。\n但他们没有阅历，他们认为人的诉求仅仅是为了在他们消遣的电子游戏里加入几个角色。\n\n最后，分享一篇报道：\n\n五年前,Nick跟伴侣在英国登记结婚,这五年时间里，他从一个大学生成长为打工人。\n香港工厂的生活环境，对他们是一个严苛的考验，从国外留学回来的时候,他就开始构思其买房计划。\n\nNick的家庭属于工薪阶层，并不能提供资金上的帮助，他说:“我们每个 月要付一万多港元的房租，这是一个很大的负担。”\n\n除去其它的必要开销,每个月能存下来的钱很少很少。\n\n即便租房，他们也不得不面临揪心的事情，小心翼翼地对周围人掩饰他们的关系,是每天必须完成的功课。\n\n这是很多香港同志伴侣的真实生活,2018年的时候，一对女同伴侣合租了一间房间，但在入住当天就遭到房东的歧视和辱骂，房东看到她们的外表就猜出了她们的关系,气得叫她们俩滚出去。\n\n这件事在群体内部和社会范围内引起了关注和讨论。\n\n为了房子,Nick动了申请公屋的念头。公屋是香港的廉租房，主要供给低收入家庭，根据房委会的政策，只有已婚或有子女的家庭才能申请公屋或居屋。\n\n当他拿着结婚证向房委会提出申请,而对方告知他，同性伴侣即便海外结婚也被视为单身人士，无法作为一个家庭单位申请。\n\n在香港，同性恋流传着“生不能同住,死不能合葬”的说法。\n\n在2014年，一名香港男同性恋因男友去世后被拒绝继承其公屋单位而提出司法复核，但最终被法院驳回。\n\n2020年,一名香港女同性恋因为妻子去世后被拒绝将其骨灰安放在公墓而提出司法复核，但最终也被法院驳回。\n\n同年名为《生不能同住》的舞台剧在香港上演,内容探讨了同性恋在住房、家庭、社会等方面的压力和困境。\n\n香港人吴翰林(Edgar Ng) 与伴侣李亦豪 (Henry Li) 2017年在伦敦登记结婚，之后他们回到香港生活，吴翰林幸运地获得公屋购买的资格，在两人拥有自己的房子后。\n\n吴翰林想给对方一个保障，即把业主一览写上两人的名字，但由于香港的法律不认可同性婚姻,，其伴侣不能视作“配偶”而无法成为共同业主。\n\n并且如果业主未立遗嘱去世，另一半就无法继承遗产。\n\n吴翰林针对香港的《无遗嘱者遗产条例》提出诉讼。根据前面的条例，无遗嘱者遗产会先分配给死者配偶、子女、父母、其他亲戚及政府。\n\n吴翰林主张,有关政策违反了《基本法》保障人人平等的原则条例的内容歧视不同性倾向的人。\n\n而被告一方认为,只要申请人预立遗嘱就可以解决这一个问题，并指香港法 例上“配偶”的定义具连贯性，被理解成一男一女缔结的婚姻，认为维持此定义合理。\n\n香港高等法院于2020年一审裁定，同性配偶在申请公共房屋时享有与异性恋配偶相同的权力。\n\n可惜的是，他们没有等来最后的结果，吴翰林因为抑郁症于2021年去世。\n\n李亦豪接棒诉讼，变成了为自己已故丈夫安排葬礼的权利，根据当时的法律规定，涉及到身后事必须交由家属办理，而李被排除在家属之 外，他们的婚姻关系并没有得到“承认”。\n\n这就是香港同志群体面临的“生不能同住，死不能合葬”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5473,
+          "like_count": 54,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "就这一段时间，瞬间看出来有阅历的老左，和做题家的区别。\n后者就念经都念的磕磕绊绊，不求甚解。\n同性婚姻是资产阶级的还是无产阶级的？\n他的话逻辑是什么，无产阶级同性恋想结婚就支持，资产阶级同性恋想结婚就不支持？\n最后阳和平结尾反应笑死了：何意味？ https://t.co/UpxHD02R0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 423,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，阿尔伯塔大学本科生｜圣殿教团的黑十字\n｜秘祈人途径，现在是放牧“古代学者”和“观众”的“牧羊人”｜本体是阳光菇｜古代学者的友情链接https://t.co/qCkwfPdciC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/katon53615",
+                "end": 93,
+                "expanded_url": "https://x.com/katon53615",
+                "start": 70,
+                "url": "https://t.co/qCkwfPdciC"
+              }
+            ]
+          }
+        },
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "pinned_tweet_id": "2067904003069899036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068552152054636544/mPqunR8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 292,
+          "like_count": 1978,
+          "listed_count": 4,
+          "media_count": 548,
+          "tweet_count": 2619
+        },
+        "url": "",
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

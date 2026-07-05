@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2072596792773132458",
+    "created_at": "2026-07-02T19:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072772285375943056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068346361049952256",
+          "start": 0,
+          "username": "Comedian1926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072772285375943056",
+    "in_reply_to_user_id": "2068346361049952256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072713091440414904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Comedian1926 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2072596792773132458",
+        "created_at": "2026-07-02T19:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072772285375943056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068346361049952256",
+              "start": 0,
+              "username": "Comedian1926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072772285375943056",
+        "in_reply_to_user_id": "2068346361049952256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072713091440414904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Comedian1926 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068346361049952256",
+        "conversation_id": "2072596792773132458",
+        "created_at": "2026-07-02T16:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072713091440414904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072713091440414904",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072596792773132458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 448,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T14:53:38.000Z",
+        "description": "Game AI engineer & builder. Building AI-native games and playful AI systems.",
+        "id": "2068346361049952256",
+        "name": "Comedian",
+        "pinned_tweet_id": "2072283725732458774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068363689829482497/scE5UeVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 460,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "Comedian1926",
+        "verified": true
+      }
+    ]
+  }
+}

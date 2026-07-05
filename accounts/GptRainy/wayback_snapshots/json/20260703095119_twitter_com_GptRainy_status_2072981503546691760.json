@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2072981503546691760",
+    "created_at": "2026-07-03T09:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072981503546691760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906055564362264576",
+          "start": 3,
+          "username": "evilinside44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072981503546691760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072889359226069215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evilinside44: 北京开飞机撞中信大楼的那位有如下特征  \n男性，异性恋，顺直，汉族，党员  \n\n-- \n但这些属性都无关紧要 \n因为他不是Gay，不是trans，不是穆斯林，不是维吾尔族，不是移民，不是环保抗议者，不是那些被妖魔化的符号，也不是女司机/女飞行…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2072981503546691760",
+        "created_at": "2026-07-03T09:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072981503546691760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906055564362264576",
+              "start": 3,
+              "username": "evilinside44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072981503546691760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072889359226069215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evilinside44: 北京开飞机撞中信大楼的那位有如下特征  \n男性，异性恋，顺直，汉族，党员  \n\n-- \n但这些属性都无关紧要 \n因为他不是Gay，不是trans，不是穆斯林，不是维吾尔族，不是移民，不是环保抗议者，不是那些被妖魔化的符号，也不是女司机/女飞行…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906055564362264576",
+        "conversation_id": "2072889359226069215",
+        "created_at": "2026-07-03T03:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072889359226069215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072889359226069215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 40789,
+          "like_count": 370,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "北京开飞机撞中信大楼的那位有如下特征  \n男性，异性恋，顺直，汉族，党员  \n\n-- \n但这些属性都无关紧要 \n因为他不是Gay，不是trans，不是穆斯林，不是维吾尔族，不是移民，不是环保抗议者，不是那些被妖魔化的符号，也不是女司机/女飞行员，大概率也不是左逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 452,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-08T07:24:15.000Z",
+        "description": "",
+        "id": "906055564362264576",
+        "name": "朱利安大王",
+        "pinned_tweet_id": "1959157527104586101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/943778899111985152/9NDBLWeJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140327,
+          "following_count": 1200,
+          "like_count": 37513,
+          "listed_count": 438,
+          "media_count": 7476,
+          "tweet_count": 67827
+        },
+        "url": "",
+        "username": "evilinside44",
+        "verified": false
+      }
+    ]
+  }
+}
