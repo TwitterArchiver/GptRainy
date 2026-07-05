@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-05T15:14:24",
+  "last_updated": "2026-07-05T15:15:27",
   "html": {
     "https://web.archive.org/web/20260517110632if_/https://twitter.com/GptRainy/status/2055968202975482204": {
       "status": "done",
@@ -5031,9 +5031,9 @@
       "referenced_by": [
         "20260526030408_twitter_com_GptRainy_status_2059108295135363439.json"
       ],
-      "last_updated": "2026-07-05T05:53:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526030408if_/https://pbs.twimg.com/profile_images/2057534039838322688/cxsPhag1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa1b0a0b890>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:14:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526030408im_/https://pbs.twimg.com/profile_images/2057534039838322688/cxsPhag1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3aab16d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg": {
       "status": "done",
@@ -5133,9 +5133,9 @@
       "referenced_by": [
         "20260530033426_twitter_com_GptRainy_status_2060565472958107974.json"
       ],
-      "last_updated": "2026-07-05T05:53:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530033426im_/https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1b0b047a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:14:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530033426im_/https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3aab26f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2060218422257221632/zOwaVYbK_normal.jpg": {
       "status": "done",
@@ -5167,9 +5167,9 @@
       "referenced_by": [
         "20260531120715_twitter_com_GptRainy_status_2061056913673249268.json"
       ],
-      "last_updated": "2026-07-05T05:53:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531120715if_/https://pbs.twimg.com/profile_images/2060226195057512448/fHas2t--_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa1b0b05f10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:14:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531120715im_/https://pbs.twimg.com/profile_images/2060226195057512448/fHas2t--_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3aab27b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2053401887832203264/qNTF4THN_normal.jpg": {
       "status": "done",
@@ -5255,13 +5255,13 @@
       "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2060512939355070465/FG1VSiGt_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260603225110_twitter_com_GptRainy_status_2062306123068453101.json"
       ],
-      "last_updated": "2026-07-05T05:53:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603225110if_/https://pbs.twimg.com/profile_images/2060512939355070465/FG1VSiGt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa1b0a090d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:14:39",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260603225110if_/https://pbs.twimg.com/profile_images/2060512939355070465/FG1VSiGt_normal.jpg",
+      "miss_count": 7
     },
     "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png": {
       "status": "failed_all",
@@ -5339,9 +5339,9 @@
       "referenced_by": [
         "20260604042628_twitter_com_GptRainy_status_2062390504143425603.json"
       ],
-      "last_updated": "2026-07-05T05:53:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604042628im_/https://pbs.twimg.com/profile_images/2055907881116131328/u1fB8Lpr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1b0b07860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:15:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604042628im_/https://pbs.twimg.com/profile_images/2055907881116131328/u1fB8Lpr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3aab1340>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg": {
       "status": "done",
@@ -5422,9 +5422,9 @@
       "referenced_by": [
         "20260604165248_twitter_com_GptRainy_status_2062578325080703263.json"
       ],
-      "last_updated": "2026-07-05T05:53:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604165248im_/https://pbs.twimg.com/profile_images/2049866710162001920/_KDhTdGo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1b0a0b740>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:15:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604165248im_/https://pbs.twimg.com/profile_images/2049866710162001920/_KDhTdGo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3aab19d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2062075693660327936/gD5UrizJ_normal.jpg": {
       "status": "done",
@@ -5783,9 +5783,9 @@
       "referenced_by": [
         "20260608061132_twitter_com_GptRainy_status_2063866498394058793.json"
       ],
-      "last_updated": "2026-07-05T05:53:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608061132im_/https://pbs.twimg.com/profile_images/2047766859026698240/Gz6H41Vr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1b0a09d30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:15:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608061132im_/https://pbs.twimg.com/profile_images/2047766859026698240/Gz6H41Vr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3ab15550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2050756019983417344/FAGENlQo_normal.jpg": {
       "status": "done",
@@ -5795,22 +5795,22 @@
       "last_updated": "2026-06-28T16:42:48"
     },
     "https://pbs.twimg.com/profile_images/2006632538731851777/gjR5U7En_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260608062810_twitter_com_GptRainy_status_2063870684351324521.json"
       ],
-      "last_updated": "2026-07-05T05:53:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608062810im_/https://pbs.twimg.com/profile_images/2006632538731851777/gjR5U7En_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1b0b312b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:14:41",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608062810if_/https://pbs.twimg.com/profile_images/2006632538731851777/gjR5U7En_normal.jpg",
+      "miss_count": 7
     },
     "https://pbs.twimg.com/profile_images/2040546710318202880/gC8SdPm8_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260608130636_twitter_com_GptRainy_status_2063970951428206973.json"
       ],
-      "last_updated": "2026-07-05T05:53:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608130636im_/https://pbs.twimg.com/profile_images/2040546710318202880/gC8SdPm8_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1b0b054f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:15:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608130636im_/https://pbs.twimg.com/profile_images/2040546710318202880/gC8SdPm8_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3ab15cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2009078971108085766/2bUnXeQD_normal.jpg": {
       "status": "done",
@@ -5833,9 +5833,9 @@
       "referenced_by": [
         "20260608150706_twitter_com_GptRainy_status_2064001276657168562.json"
       ],
-      "last_updated": "2026-07-05T05:53:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608150706im_/https://pbs.twimg.com/profile_images/2062943823341518848/Hdo3TI5J_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1b0b329f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:15:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608150706im_/https://pbs.twimg.com/profile_images/2062943823341518848/Hdo3TI5J_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3aab22d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg": {
       "status": "done",
@@ -6091,9 +6091,9 @@
       "referenced_by": [
         "20260625131319_twitter_com_GptRainy_status_2070133237482230232.json"
       ],
-      "last_updated": "2026-07-05T05:53:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625131319im_/https://pbs.twimg.com/profile_images/2066719984727023616/zI8Fd9uk_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1b0a0a7e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-05T15:15:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625131319im_/https://pbs.twimg.com/profile_images/2066719984727023616/zI8Fd9uk_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d3aab3950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2032564534226116608/2YCnGNJE_normal.jpg": {
       "status": "done",
@@ -8635,7 +8635,7 @@
       "miss_count": 2
     },
     "20260603225110_twitter_com_GptRainy_status_2062306123068453101.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -8644,7 +8644,7 @@
           "https://pbs.twimg.com/profile_images/2060512939355070465/FG1VSiGt_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T15:14:23",
+      "last_updated": "2026-07-05T15:14:39",
       "miss_count": 6
     },
     "20260604040245_twitter_com_GptRainy_status_2062384537016119514.json": {
@@ -10095,7 +10095,7 @@
       "last_updated": "2026-06-28T16:42:48"
     },
     "20260608062810_twitter_com_GptRainy_status_2063870684351324521.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10104,7 +10104,7 @@
           "https://pbs.twimg.com/profile_images/2006632538731851777/gjR5U7En_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T15:14:23",
+      "last_updated": "2026-07-05T15:14:41",
       "miss_count": 6
     },
     "20260608075212_twitter_com_GptRainy_status_2063891831096795302.json": {
