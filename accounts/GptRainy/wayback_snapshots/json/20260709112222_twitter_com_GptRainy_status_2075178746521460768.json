@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2075178746521460768",
+    "created_at": "2026-07-09T11:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075178746521460768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/GptRainy/status/2074801126290153786",
+          "start": 18,
+          "url": "https://t.co/UcHGwgn0XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075178746521460768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074801126290153786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉我草最近不知道怎么了一抽烟就想吐 https://t.co/UcHGwgn0XY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2075178746521460768",
+        "created_at": "2026-07-09T11:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075178746521460768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/GptRainy/status/2074801126290153786",
+              "start": 18,
+              "url": "https://t.co/UcHGwgn0XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075178746521460768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074801126290153786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我草最近不知道怎么了一抽烟就想吐 https://t.co/UcHGwgn0XY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2074801126290153786",
+        "created_at": "2026-07-08T10:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074801126290153786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074801126290153786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 358,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "尼古喵喵我看了五遍，也没有受影响。我是把它当成历史来读的。尼古喵喵里面各个种族都写到了，阶级斗争很激烈，一天抽好几十根。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 502,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      }
+    ]
+  }
+}

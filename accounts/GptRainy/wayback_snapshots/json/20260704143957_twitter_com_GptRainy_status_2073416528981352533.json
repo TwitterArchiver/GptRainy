@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2073416528981352533",
+    "created_at": "2026-07-04T14:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073416528981352533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xie3430/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xie3430/status/2073352161770226058",
+          "start": 3,
+          "url": "https://t.co/hBGZ4qoxdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073416528981352533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073352161770226058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "路边 https://t.co/hBGZ4qoxdD"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Gemini3.5",
+        "height": 1315,
+        "media_key": "3_2073351559040348161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYGQgMaMAESsDF.jpg",
+        "width": 1196
+      },
+      {
+        "alt_text": "Gemini",
+        "height": 1306,
+        "media_key": "3_2073351577872850944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYGRmWbYAAEOc0.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2073416528981352533",
+        "created_at": "2026-07-04T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073416528981352533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xie3430/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xie3430/status/2073352161770226058",
+              "start": 3,
+              "url": "https://t.co/hBGZ4qoxdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073416528981352533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073352161770226058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "路边 https://t.co/hBGZ4qoxdD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073351559040348161",
+            "3_2073351577872850944"
+          ]
+        },
+        "author_id": "1879444943053410304",
+        "conversation_id": "2073352161770226058",
+        "created_at": "2026-07-04T10:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073352161770226058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/anMWSZvDnC",
+              "end": 141,
+              "expanded_url": "https://x.com/xie3430/status/2073352161770226058/photo/1",
+              "media_key": "3_2073351559040348161",
+              "start": 118,
+              "url": "https://t.co/anMWSZvDnC"
+            },
+            {
+              "display_url": "pic.x.com/anMWSZvDnC",
+              "end": 141,
+              "expanded_url": "https://x.com/xie3430/status/2073352161770226058/photo/1",
+              "media_key": "3_2073351577872850944",
+              "start": 118,
+              "url": "https://t.co/anMWSZvDnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073352161770226058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小道消息：Gemini3.5pro将于7月17日推出发布\n采用了全新的预训练模型和数据\n编码以及处理问题，前端设计，审美，能力，逻辑，想象都将会得到极大的提升，能否超越Claude，gpt5.6呢？让我们拭目以待吧\n迎接你们的王回归吧 https://t.co/anMWSZvDnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 466,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T08:26:28.000Z",
+        "description": "06男大勇闯X\n希望靠自己的努力改变自己的人生\n分享内容干货和观点想法，分享各agent、ai使用教程方法\n日常使用codex（超级强）、Claude、hermes（超级好用）、gpt\n希望能遇到大佬带带弟弟，姐姐们带带弟弟，哥哥们带带弟弟\n苦心人天不负，三千越甲可吞吴",
+        "id": "1879444943053410304",
+        "name": "阿金",
+        "pinned_tweet_id": "2071503025634709939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038233599670190080/LtSzLQ0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 602,
+          "like_count": 8616,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 2793
+        },
+        "url": "",
+        "username": "xie3430",
+        "verified": true
+      }
+    ]
+  }
+}

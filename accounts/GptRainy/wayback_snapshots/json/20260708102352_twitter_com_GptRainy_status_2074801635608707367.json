@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2074801635608707367",
+    "created_at": "2026-07-08T10:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074801635608707367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "20484009",
+          "start": 3,
+          "username": "riverleaf88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074801635608707367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074744676645765187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riverleaf88: 昨天跟投资人聊天，给我讲：现在某些行业的AI创业项目，讲的还是要自己训练大模型，通过RAG干嘛，做一个chat bot。问今是何世，乃不知有agent，无论harness……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2074801635608707367",
+        "created_at": "2026-07-08T10:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074801635608707367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "20484009",
+              "start": 3,
+              "username": "riverleaf88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074801635608707367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074744676645765187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riverleaf88: 昨天跟投资人聊天，给我讲：现在某些行业的AI创业项目，讲的还是要自己训练大模型，通过RAG干嘛，做一个chat bot。问今是何世，乃不知有agent，无论harness……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20484009",
+        "conversation_id": "2074744676645765187",
+        "created_at": "2026-07-08T06:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074744676645765187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074744676645765187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1584,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天跟投资人聊天，给我讲：现在某些行业的AI创业项目，讲的还是要自己训练大模型，通过RAG干嘛，做一个chat bot。问今是何世，乃不知有agent，无论harness……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 500,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-10T01:28:58.000Z",
+        "description": "会下厨的产品创作者 \n1. 路图忆 https://t.co/C5fFYUgezh\n2. Voxdown https://t.co/ITY6P8304G\n3. any-switch https://t.co/scZve1M5UN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "routory.app",
+                "end": 41,
+                "expanded_url": "https://routory.app",
+                "start": 18,
+                "url": "https://t.co/C5fFYUgezh"
+              },
+              {
+                "display_url": "voxdown.com",
+                "end": 76,
+                "expanded_url": "https://voxdown.com/",
+                "start": 53,
+                "url": "https://t.co/ITY6P8304G"
+              },
+              {
+                "display_url": "github.com/riverscn/any-s…",
+                "end": 114,
+                "expanded_url": "https://github.com/riverscn/any-switch",
+                "start": 91,
+                "url": "https://t.co/scZve1M5UN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lishun.me",
+                "end": 23,
+                "expanded_url": "https://blog.lishun.me",
+                "start": 0,
+                "url": "https://t.co/9oPAY4QfuZ"
+              }
+            ]
+          }
+        },
+        "id": "20484009",
+        "location": "Earth",
+        "name": "River Leaf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596851019316572160/lJmC6W-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25689,
+          "following_count": 1277,
+          "like_count": 23747,
+          "listed_count": 232,
+          "media_count": 1744,
+          "tweet_count": 28040
+        },
+        "url": "https://t.co/9oPAY4QfuZ",
+        "username": "riverleaf88",
+        "verified": true
+      }
+    ]
+  }
+}

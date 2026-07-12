@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074111058697158656"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2074111174485143900",
+    "created_at": "2026-07-06T12:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074111174485143900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "display_url": "huggingface.co/raincandy-u/Ti…",
+          "end": 35,
+          "expanded_url": "https://huggingface.co/raincandy-u/TinyStories-656K",
+          "start": 12,
+          "status": 200,
+          "title": "raincandy-u/TinyStories-656K · Hugging Face",
+          "unwound_url": "https://huggingface.co/raincandy-u/TinyStories-656K",
+          "url": "https://t.co/TT4YrJ42ob"
+        },
+        {
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "display_url": "huggingface.co/raincandy-u/Ti…",
+          "end": 59,
+          "expanded_url": "https://huggingface.co/raincandy-u/TinyChat-1776K",
+          "start": 36,
+          "status": 200,
+          "title": "raincandy-u/TinyChat-1776K · Hugging Face",
+          "unwound_url": "https://huggingface.co/raincandy-u/TinyChat-1776K",
+          "url": "https://t.co/I7ZBg2AHvM"
+        },
+        {
+          "display_url": "pic.x.com/uRCcp8u6RK",
+          "end": 110,
+          "expanded_url": "https://x.com/GptRainy/status/2074111174485143900/photo/1",
+          "media_key": "3_2074111058697158656",
+          "start": 87,
+          "url": "https://t.co/uRCcp8u6RK"
+        },
+        {
+          "display_url": "x.com/Xudong07452910…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/Xudong07452910/status/2073932440608121087",
+          "start": 111,
+          "url": "https://t.co/Lyat07Nhg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074111174485143900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073932440608121087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推一下我两年前做的项目：https://t.co/TT4YrJ42ob\nhttps://t.co/I7ZBg2AHvM\n\n（量化后）能存进一张软盘的LLM，也能写英文故事😇 https://t.co/uRCcp8u6RK https://t.co/Lyat07Nhg7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2074111058697158656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi5BM5agAAorSe.jpg",
+        "width": 1043
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2073461366543847424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZqIJBXkAAkkfU.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074111058697158656"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2074111174485143900",
+        "created_at": "2026-07-06T12:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074111174485143900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "display_url": "huggingface.co/raincandy-u/Ti…",
+              "end": 35,
+              "expanded_url": "https://huggingface.co/raincandy-u/TinyStories-656K",
+              "start": 12,
+              "status": 200,
+              "title": "raincandy-u/TinyStories-656K · Hugging Face",
+              "unwound_url": "https://huggingface.co/raincandy-u/TinyStories-656K",
+              "url": "https://t.co/TT4YrJ42ob"
+            },
+            {
+              "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "display_url": "huggingface.co/raincandy-u/Ti…",
+              "end": 59,
+              "expanded_url": "https://huggingface.co/raincandy-u/TinyChat-1776K",
+              "start": 36,
+              "status": 200,
+              "title": "raincandy-u/TinyChat-1776K · Hugging Face",
+              "unwound_url": "https://huggingface.co/raincandy-u/TinyChat-1776K",
+              "url": "https://t.co/I7ZBg2AHvM"
+            },
+            {
+              "display_url": "pic.x.com/uRCcp8u6RK",
+              "end": 110,
+              "expanded_url": "https://x.com/GptRainy/status/2074111174485143900/photo/1",
+              "media_key": "3_2074111058697158656",
+              "start": 87,
+              "url": "https://t.co/uRCcp8u6RK"
+            },
+            {
+              "display_url": "x.com/Xudong07452910…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/Xudong07452910/status/2073932440608121087",
+              "start": 111,
+              "url": "https://t.co/Lyat07Nhg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074111174485143900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073932440608121087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推一下我两年前做的项目：https://t.co/TT4YrJ42ob\nhttps://t.co/I7ZBg2AHvM\n\n（量化后）能存进一张软盘的LLM，也能写英文故事😇 https://t.co/uRCcp8u6RK https://t.co/Lyat07Nhg7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073461366543847424"
+          ]
+        },
+        "author_id": "1327292278000349185",
+        "conversation_id": "2073932440608121087",
+        "created_at": "2026-07-06T00:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073932440608121087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bYRW6xJMn",
+              "end": 202,
+              "expanded_url": "https://x.com/Xudong07452910/status/2073932440608121087/photo/1",
+              "media_key": "3_2073461366543847424",
+              "start": 179,
+              "url": "https://t.co/9bYRW6xJMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073932440608121087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "cmu-l3.github.io/anlp-spring202…",
+                "end": 592,
+                "expanded_url": "https://cmu-l3.github.io/anlp-spring2026/",
+                "start": 569,
+                "url": "https://t.co/U96QszHIja"
+              },
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 625,
+                "expanded_url": "https://www.youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx",
+                "start": 602,
+                "url": "https://t.co/05dlefgqbe"
+              },
+              {
+                "display_url": "github.com/cmu-l3/anlp-sp…",
+                "end": 655,
+                "expanded_url": "https://github.com/cmu-l3/anlp-spring2026-code",
+                "start": 632,
+                "url": "https://t.co/nqAsjPwatQ"
+              }
+            ]
+          },
+          "text": "CMU 这门 NLP 课最硬核的地方：第一份作业就让你从零手搓一个 LLaMA。\n\n卡内基梅隆大学公开了 2026 春季《Advanced NLP》课程，教授是 Sean Welleck。整套资源包括完整课程主页、课件、视频和配套代码，内容从 Tokenizer、Transformer、语言模型基础，一路讲到 RAG、多模态、RLHF、MoE、长上下文和 test-time scaling。\n\n这门课最有价值的地方，不仅是教你怎么调用大模型 API，而且把大模型能力背后的工程路径也拆开给你看。\n\n从「Build Your Own LLaMA」这种手搓模型作业，到后面的推理、效率、评测和 Agent，它训练的其实是一种更底层的能力：你能不能理解模型为什么能工作，为什么会变强，为什么有时会失败。\n\n这也很符合现在 AI 的技术拐点。\n\n过去大家更关心参数规模，谁的模型更大；现在越来越多关键进展，开始发生在推理侧、效率侧和系统侧：怎么让模型更会思考，怎么调度专家，怎么检索外部知识，怎么在有限算力下获得更好的输出。\n\n所以这门课不只是 NLP 进阶课，更像一份 2026 年大模型研究者的训练路线图。\n\nAI 时代真正的分水岭，可能不只是会不会使用模型。\n\n更关键的是：\n\n你停在应用层，还是愿意继续往下走到架构层。\n\nHome: https://t.co/U96QszHIja\nYoutubu: https://t.co/05dlefgqbe\nCode: https://t.co/nqAsjPwatQ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 20932,
+          "like_count": 524,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "CMU 这门 NLP 课最硬核的地方：第一份作业就让你从零手搓一个 LLaMA。\n\n卡内基梅隆大学公开了 2026 春季《Advanced NLP》课程，教授是 Sean Welleck。整套资源包括完整课程主页、课件、视频和配套代码，内容从 Tokenizer、Transformer、语言模型基础，一路讲到 RAG、多模态、RLHF、MoE、长上下文和 https://t.co/9bYRW6xJMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 473,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T16:49:45.000Z",
+        "description": "🎓PhD ing @ University of Sussex | LLM & AI Agents\n📖Building Personal AI Agents |  Vibe Coding\n🛠️分享AI 技术解析 | AI 应用心得",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/hxdflying/EvoP…",
+                "end": 23,
+                "expanded_url": "https://github.com/hxdflying/EvoPaw",
+                "start": 0,
+                "url": "https://t.co/vWPtJssQ8E"
+              }
+            ]
+          }
+        },
+        "id": "1327292278000349185",
+        "location": "London, England",
+        "name": "Xudong Han",
+        "pinned_tweet_id": "2062087939547332948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327292688736034816/vJTxjjLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6579,
+          "following_count": 485,
+          "like_count": 5662,
+          "listed_count": 47,
+          "media_count": 248,
+          "tweet_count": 2952
+        },
+        "url": "https://t.co/vWPtJssQ8E",
+        "username": "Xudong07452910",
+        "verified": true
+      }
+    ]
+  }
+}

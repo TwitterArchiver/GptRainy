@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2073919146807722200",
+    "created_at": "2026-07-05T23:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073919146807722200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xingyunxiya/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/xingyunxiya/status/2073793761751236812",
+          "start": 11,
+          "url": "https://t.co/eAF4qnMSNv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073919146807722200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073793761751236812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "约束力堪比大学学生会 https://t.co/eAF4qnMSNv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2073919146807722200",
+        "created_at": "2026-07-05T23:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073919146807722200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingyunxiya/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/xingyunxiya/status/2073793761751236812",
+              "start": 11,
+              "url": "https://t.co/eAF4qnMSNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073919146807722200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073793761751236812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "约束力堪比大学学生会 https://t.co/eAF4qnMSNv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930261854510821388",
+        "conversation_id": "2073793761751236812",
+        "created_at": "2026-07-05T15:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073793761751236812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073793761751236812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5970,
+          "like_count": 66,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们的关心，但恐怕即便成年，只要他们不点头，窝也是跨不出去半步的（信托协议，监护人代签，退出支付20%违约金，一个家族的，窝付不起，以后也付不起）我谈过短如几年的，也谈过长达一天的，结束吧，挺好，他们想要的嘛，窝也不霍霍人家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 471,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T13:54:46.000Z",
+        "description": "破茧成蝶，终见光芒\nOVER：2026/07/05",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furina.blog",
+                "end": 23,
+                "expanded_url": "http://furina.blog",
+                "start": 0,
+                "url": "https://t.co/N99BSLWgjU"
+              }
+            ]
+          }
+        },
+        "id": "1930261854510821388",
+        "location": "東京 渋谷区",
+        "name": "星云稀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261955450941441/fsBaETTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 82,
+          "like_count": 1977,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/N99BSLWgjU",
+        "username": "xingyunxiya",
+        "verified": true
+      }
+    ]
+  }
+}

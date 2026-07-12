@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2073608121340297550",
+    "created_at": "2026-07-05T03:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073608121340297550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073608121340297550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073589666092396569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 1、此书所讲的是“心理-性别特征”和“生理 -性别特征”，并非“心理性别-特征”与“生理性别-特征”\n2、此书讲的是“你必须接受社会指派给你的性别身份和分工，但你可以有一部分但不能有很多不符合刻板印象的特质”，不是“不要受性别刻板印象的影响…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2073608121340297550",
+        "created_at": "2026-07-05T03:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073608121340297550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073608121340297550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073589666092396569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 1、此书所讲的是“心理-性别特征”和“生理 -性别特征”，并非“心理性别-特征”与“生理性别-特征”\n2、此书讲的是“你必须接受社会指派给你的性别身份和分工，但你可以有一部分但不能有很多不符合刻板印象的特质”，不是“不要受性别刻板印象的影响…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2073589666092396569",
+        "created_at": "2026-07-05T02:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073589666092396569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/re_zaoton/stat…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/re_zaoton/status/2073384413669499333",
+              "start": 122,
+              "url": "https://t.co/mbAbZFwj0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073589666092396569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1、此书所讲的是“心理-性别特征”和“生理 -性别特征”，并非“心理性别-特征”与“生理性别-特征”\n2、此书讲的是“你必须接受社会指派给你的性别身份和分工，但你可以有一部分但不能有很多不符合刻板印象的特质”，不是“不要受性别刻板印象的影响”\n3、此书存在“反嬉皮士”思想，试图将不符合社会期望的外观洗好魔化成“受外界影响”，并引导学生对其批评并定义为“培养批评精神”，就在前几页\n4、此书存在大量性别角色强化训练，反复以融入性别群体的方式来同质化所以被指派为同一类代码的学生"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 330,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073384413669499333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1、此书所讲的是“心理-性别特征”和“生理 -性别特征”，并非“心理性别-特征”与“生理性别-特征”\n2、此书讲的是“你必须接受社会指派给你的性别身份和分工，但你可以有一部分但不能有很多不符合刻板印象的特质”，不是“不要受性别刻板印象的影响” https://t.co/mbAbZFwj0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 470,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 238,
+          "like_count": 2387,
+          "listed_count": 8,
+          "media_count": 3956,
+          "tweet_count": 13447
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

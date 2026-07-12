@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2073613337305161735",
+    "created_at": "2026-07-05T03:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073615547464667603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741075170603749376",
+          "start": 0,
+          "username": "Niohuru_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073615547464667603",
+    "in_reply_to_user_id": "1741075170603749376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073613337305161735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niohuru_Yuki 最高指示"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2073613337305161735",
+        "created_at": "2026-07-05T03:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073615547464667603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "Niohuru_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073615547464667603",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073613337305161735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niohuru_Yuki 最高指示"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "2073613337305161735",
+        "created_at": "2026-07-05T03:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073613337305161735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073613337305161735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我靠我现在也觉得酷儿有点傻逼，感觉不如cdts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 471,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "“Por fa',no me parеs ya de mirar.”\n世界距离毁灭只剩下了五年时间，来自太空的摇滚巨星Ziggy Stardust已然降临地球，祂能拯救我们吗？",
+        "id": "1741075170603749376",
+        "location": "🚪40/绘画约稿看置顶",
+        "name": "钮祜禄·有希🐰🍺",
+        "pinned_tweet_id": "2069999250055090441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034879597159096322/QuoMlwJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1480,
+          "like_count": 34892,
+          "listed_count": 2,
+          "media_count": 1362,
+          "tweet_count": 17455
+        },
+        "url": "",
+        "username": "Niohuru_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}
