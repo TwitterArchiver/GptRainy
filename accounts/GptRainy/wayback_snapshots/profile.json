@@ -1,21 +1,12 @@
 {
-  "name": "小雨（疯狂互fo版）",
+  "name": "小雨 #SayKnowToLLM",
   "username": "@GptRainy",
   "bio": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
   "location": "宁静且永远安乐的天堂；",
-  "link": "angelkawaii.xyz",
+  "link": "https://angelkawaii.xyz",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2069493204240744550",
-  "bio_entities": {
-    "urls": [
-      {
-        "display_url": "ngl.link/amecandyx",
-        "end": 102,
-        "expanded_url": "https://ngl.link/amecandyx",
-        "start": 79,
-        "url": "https://t.co/5EE1WxkPHD"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg"
 }
