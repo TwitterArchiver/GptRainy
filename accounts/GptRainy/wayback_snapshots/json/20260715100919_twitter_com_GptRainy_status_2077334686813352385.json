@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029095389",
+          "name": "Derrière le poste"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2077334686813352385",
+    "created_at": "2026-07-15T10:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077334686813352385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yvbbrjdr/statu…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/yvbbrjdr/status/2076769351030775907",
+          "start": 163,
+          "url": "https://t.co/Ix0CmypsdQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077334686813352385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076769351030775907",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何为 Vibe Coder？\n\n1轮烧不完3—5个 Claude Max 20× coding套餐的程序员不是 Vibe Coder，只是用户……\n\nVibe Coder，\n\n大口吃token＋大力写代码，一天蹬完3个OpenAI Pro套餐3次以上弄坏仓库3个以上，狂暴commit轰入main分支，彻底征服自己的项目…… https://t.co/Ix0CmypsdQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029095389",
+              "name": "Derrière le poste"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2077334686813352385",
+        "created_at": "2026-07-15T10:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077334686813352385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yvbbrjdr/statu…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/yvbbrjdr/status/2076769351030775907",
+              "start": 163,
+              "url": "https://t.co/Ix0CmypsdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077334686813352385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076769351030775907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何为 Vibe Coder？\n\n1轮烧不完3—5个 Claude Max 20× coding套餐的程序员不是 Vibe Coder，只是用户……\n\nVibe Coder，\n\n大口吃token＋大力写代码，一天蹬完3个OpenAI Pro套餐3次以上弄坏仓库3个以上，狂暴commit轰入main分支，彻底征服自己的项目…… https://t.co/Ix0CmypsdQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603444903",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029095389",
+              "name": "Derrière le poste"
+            }
+          }
+        ],
+        "conversation_id": "2076769351030775907",
+        "created_at": "2026-07-13T20:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076769351030775907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vincent_ainote…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/vincent_ainotes/status/2076538971992293421",
+              "start": 22,
+              "url": "https://t.co/RnXVIBPXLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076769351030775907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 79813,
+          "like_count": 375,
+          "quote_count": 3,
+          "reply_count": 40,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076538971992293421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "viber们可能根本没有听说过yt-dlp https://t.co/RnXVIBPXLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 515,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-18T13:15:19.000Z",
+        "description": "exists as 451; opinions are my own; Creator of @LANDropApp, @AthenaAGI, LMRouter; MTS @MicrosoftAI numerics; Ex-@NVIDIA RISC-V sec; EN @realJerryZhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "LANDropApp"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "AthenaAGI"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "MicrosoftAI"
+              },
+              {
+                "end": 119,
+                "start": 112,
+                "username": "NVIDIA"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "realJerryZhou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yvb.moe",
+                "end": 23,
+                "expanded_url": "https://yvb.moe/",
+                "start": 0,
+                "url": "https://t.co/gBcP1Dr4ja"
+              }
+            ]
+          }
+        },
+        "id": "1603444903",
+        "location": "AS8075",
+        "name": "yv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344729718155722752/gQf_fZ9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10179,
+          "following_count": 442,
+          "like_count": 3551,
+          "listed_count": 73,
+          "media_count": 498,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/gBcP1Dr4ja",
+        "username": "yvbbrjdr",
+        "verified": true
+      }
+    ]
+  }
+}

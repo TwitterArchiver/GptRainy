@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2077638157747802298",
+    "created_at": "2026-07-16T06:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077638157747802298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Exusiai159/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Exusiai159/status/2077547094127296628",
+          "start": 5,
+          "url": "https://t.co/SBp27WyiBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077638157747802298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077547094127296628",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑得笔筒 https://t.co/SBp27WyiBp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_2077546988573503489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNTt-pIbMAEokWq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2077638157747802298",
+        "created_at": "2026-07-16T06:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077638157747802298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Exusiai159/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Exusiai159/status/2077547094127296628",
+              "start": 5,
+              "url": "https://t.co/SBp27WyiBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077638157747802298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077547094127296628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得笔筒 https://t.co/SBp27WyiBp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077546988573503489"
+          ]
+        },
+        "author_id": "1253165636210978817",
+        "conversation_id": "2077364303724978687",
+        "created_at": "2026-07-16T00:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077547094127296628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649467740086996992",
+              "start": 0,
+              "username": "qziyn463297"
+            },
+            {
+              "end": 27,
+              "id": "1873831784498262016",
+              "start": 13,
+              "username": "richloy389329"
+            },
+            {
+              "end": 39,
+              "id": "1261868309852549120",
+              "start": 28,
+              "username": "cyborgIORI"
+            },
+            {
+              "end": 53,
+              "id": "1685228424506626048",
+              "start": 40,
+              "username": "potassium391"
+            },
+            {
+              "end": 69,
+              "id": "1918274202580467713",
+              "start": 54,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHXLNO8ezM",
+              "end": 109,
+              "expanded_url": "https://x.com/Exusiai159/status/2077547094127296628/photo/1",
+              "media_key": "3_2077546988573503489",
+              "start": 86,
+              "url": "https://t.co/KHXLNO8ezM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077547094127296628",
+        "in_reply_to_user_id": "1649467740086996992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2482,
+          "like_count": 84,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077411817421418960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qziyn463297 @richloy389329 @cyborgIORI @potassium391 @CyberKanjousen 原来普通人会轮奸幼女吗，学到了 https://t.co/KHXLNO8ezM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 534,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控，中推鹿野灸粉丝头子\n｜喜欢看点furry｜性取向不知道｜已有恋爱对象｜转发NSFW🔞，如有介意请不要关注｜推特记录碎碎念｜数码产品爱好者｜汽车模型｜大胃袋，只要有好吃的就会原谅这个世界｜政治犬儒主义｜对贴脸的极端歧视仇恨言论会直接开喷｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049010397055963136/aC0f7EFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5364,
+          "following_count": 7132,
+          "like_count": 196332,
+          "listed_count": 10,
+          "media_count": 5649,
+          "tweet_count": 59335
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

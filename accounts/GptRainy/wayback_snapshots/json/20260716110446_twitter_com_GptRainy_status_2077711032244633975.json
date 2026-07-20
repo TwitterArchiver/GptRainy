@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      }
+    ],
+    "conversation_id": "2077711032244633975",
+    "created_at": "2026-07-16T11:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077711032244633975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Complex/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Complex/status/2077457087928410124",
+          "start": 3,
+          "url": "https://t.co/utDlunZFiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077711032244633975",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077457087928410124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美味 https://t.co/utDlunZFiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077457083042045952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNScNc7XIAA2nfj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "2077711032244633975",
+        "created_at": "2026-07-16T11:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077711032244633975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Complex/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Complex/status/2077457087928410124",
+              "start": 3,
+              "url": "https://t.co/utDlunZFiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077711032244633975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077457087928410124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美味 https://t.co/utDlunZFiW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077457083042045952"
+          ]
+        },
+        "author_id": "13049362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1112788779020894208",
+              "name": "Complex"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043835914",
+              "name": "Complex"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043835914",
+              "name": "Complex"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2077457087928410124",
+        "created_at": "2026-07-15T18:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077457087928410124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "16819263",
+              "start": 63,
+              "username": "Incilin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DAIqp9LYQ5",
+              "end": 97,
+              "expanded_url": "https://x.com/Complex/status/2077457087928410124/photo/1",
+              "media_key": "3_2077457083042045952",
+              "start": 74,
+              "url": "https://t.co/DAIqp9LYQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077457087928410124",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1943,
+          "impression_count": 1162732,
+          "like_count": 26382,
+          "quote_count": 204,
+          "reply_count": 136,
+          "retweet_count": 761
+        },
+        "reply_settings": "everyone",
+        "text": "Someone really found Zohran Mamdani’s high school photo 😭\n\n[📸: @incilin ] https://t.co/DAIqp9LYQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 536,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-04T14:34:39.000Z",
+        "description": "Making Culture Pop.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmplx.it/45OMoQ3",
+                "end": 23,
+                "expanded_url": "https://cmplx.it/45OMoQ3",
+                "start": 0,
+                "url": "https://t.co/PouolupwZd"
+              }
+            ]
+          }
+        },
+        "id": "13049362",
+        "location": "New York",
+        "name": "Complex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616533296770416655/AumWVpWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560067,
+          "following_count": 789,
+          "like_count": 33618,
+          "listed_count": 7982,
+          "media_count": 125539,
+          "tweet_count": 431947
+        },
+        "url": "https://t.co/PouolupwZd",
+        "username": "Complex",
+        "verified": true
+      }
+    ]
+  }
+}

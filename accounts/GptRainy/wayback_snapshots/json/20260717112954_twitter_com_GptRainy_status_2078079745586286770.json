@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2078079745586286770",
+    "created_at": "2026-07-17T11:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078079745586286770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iYXwivACYC8876…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/iYXwivACYC88764/status/2077913740239163443",
+          "start": 27,
+          "url": "https://t.co/zN7BmFRKFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078079745586286770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077913740239163443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人力数据外包不算人工智能？忘了OAI在非洲做的事了吗 https://t.co/zN7BmFRKFS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 883,
+        "media_key": "3_2077913731921829888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNY7h6kbYAACKT1.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2078079745586286770",
+        "created_at": "2026-07-17T11:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078079745586286770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iYXwivACYC8876…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/iYXwivACYC88764/status/2077913740239163443",
+              "start": 27,
+              "url": "https://t.co/zN7BmFRKFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078079745586286770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077913740239163443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人力数据外包不算人工智能？忘了OAI在非洲做的事了吗 https://t.co/zN7BmFRKFS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077913731921829888"
+          ]
+        },
+        "author_id": "1912436476618633217",
+        "conversation_id": "2077913740239163443",
+        "created_at": "2026-07-17T00:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077913740239163443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Zn3LltAef",
+              "end": 58,
+              "expanded_url": "https://x.com/iYXwivACYC88764/status/2077913740239163443/photo/1",
+              "media_key": "3_2077913731921829888",
+              "start": 35,
+              "url": "https://t.co/7Zn3LltAef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077913740239163443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 43208,
+          "like_count": 51,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超过25个国家签署人工智能协定，这些国家有人工智能吗…利好ai电诈？ https://t.co/7Zn3LltAef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 541,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T09:22:50.000Z",
+        "description": "b站：挖掘机炸咯。东南大学建筑系SEU。在买卖中明确风格，不做平庸的交易。分歧做抗跌，修复做领涨，主升锁龙头。同行勿扰，不沟通不交流，安心做交易。",
+        "id": "1912436476618633217",
+        "location": "南京",
+        "name": "我不是糖宝",
+        "pinned_tweet_id": "2071551646874923027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022575417333542912/vwmypBpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16283,
+          "following_count": 12,
+          "like_count": 2263,
+          "listed_count": 213,
+          "media_count": 409,
+          "tweet_count": 2167
+        },
+        "url": "",
+        "username": "iYXwivACYC88764",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2077966212215005639",
+    "created_at": "2026-07-17T15:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078143050086535219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1381455647867297792",
+          "start": 0,
+          "username": "gpt_alex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078143050086535219",
+    "in_reply_to_user_id": "1381455647867297792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077966212215005639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gpt_alex 爱来自中国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2077966212215005639",
+        "created_at": "2026-07-17T15:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078143050086535219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1381455647867297792",
+              "start": 0,
+              "username": "gpt_alex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078143050086535219",
+        "in_reply_to_user_id": "1381455647867297792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077966212215005639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpt_alex 爱来自中国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381455647867297792",
+        "conversation_id": "2077966212215005639",
+        "created_at": "2026-07-17T03:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077966212215005639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077966212215005639",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1415,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Reply to this post like we just built the Tower of Babel"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 543,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T03:55:03.000Z",
+        "description": "24 | Healthcare AI Engineer | prev Qualified Health | Рб ⬜🟥⬜ En/Ru Maintaining @fried_gpt | 1% goblin at @openai | Looking for Side Quests",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "fried_gpt"
+              },
+              {
+                "end": 112,
+                "start": 105,
+                "username": "openai"
+              }
+            ]
+          }
+        },
+        "id": "1381455647867297792",
+        "location": "Nashville, TN",
+        "name": "Alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024910946821410816/-Hj6cgTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 2353,
+          "like_count": 71295,
+          "listed_count": 8,
+          "media_count": 1046,
+          "tweet_count": 8392
+        },
+        "url": "",
+        "username": "gpt_alex",
+        "verified": true
+      }
+    ]
+  }
+}

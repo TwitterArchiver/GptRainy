@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2075981388147486980",
+    "created_at": "2026-07-11T16:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075981388147486980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LOL_FACKY100/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/LOL_FACKY100/status/2074740738462736552",
+          "start": 11,
+          "url": "https://t.co/Q6QLnR5HDf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075981388147486980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074740738462736552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bl姐里最聪明的一位 https://t.co/Q6QLnR5HDf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2075981388147486980",
+        "created_at": "2026-07-11T16:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075981388147486980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LOL_FACKY100/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/LOL_FACKY100/status/2074740738462736552",
+              "start": 11,
+              "url": "https://t.co/Q6QLnR5HDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075981388147486980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074740738462736552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bl姐里最聪明的一位 https://t.co/Q6QLnR5HDf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035697934461972481",
+        "conversation_id": "2074518983722893532",
+        "created_at": "2026-07-08T06:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074740738462736552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1348293514677817345",
+              "start": 0,
+              "username": "alyoneer"
+            },
+            {
+              "end": 19,
+              "id": "1883208492087152641",
+              "start": 10,
+              "username": "smolltee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074740738462736552",
+        "in_reply_to_user_id": "1348293514677817345",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 711551,
+          "like_count": 49,
+          "quote_count": 1107,
+          "reply_count": 281,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074676477396910293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alyoneer @smolltee Oo jadi ngk dukung lgbt ngk boleh nonton bl 🙄😒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 507,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T12:41:02.000Z",
+        "description": "",
+        "id": "2035697934461972481",
+        "name": "LOL_BODo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035706056551362560/Gb06G58F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 1,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "LOL_FACKY100",
+        "verified": false
+      }
+    ]
+  }
+}
