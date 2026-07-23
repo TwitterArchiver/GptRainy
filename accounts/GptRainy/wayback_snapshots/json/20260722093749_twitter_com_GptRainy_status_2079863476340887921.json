@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2079863476340887921",
+    "created_at": "2026-07-22T09:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079863476340887921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanami269322/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/nanami269322/status/2079744316696916383",
+          "start": 33,
+          "url": "https://t.co/d1dSW9Bgm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079863476340887921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079744316696916383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新新世代自然保要是看到10s各种真左实践怕不是要吓晕过去了，，， https://t.co/d1dSW9Bgm5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079743651522265088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy71QTbwAAhgW6.jpg",
+        "width": 926
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079743676176277504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy72sJaIAAEUk-.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2079863476340887921",
+        "created_at": "2026-07-22T09:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079863476340887921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami269322/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/nanami269322/status/2079744316696916383",
+              "start": 33,
+              "url": "https://t.co/d1dSW9Bgm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079863476340887921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079744316696916383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新新世代自然保要是看到10s各种真左实践怕不是要吓晕过去了，，， https://t.co/d1dSW9Bgm5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079743651522265088",
+            "3_2079743676176277504"
+          ]
+        },
+        "author_id": "1937048792487849984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079744316696916383",
+        "created_at": "2026-07-22T01:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079744316696916383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ei9jPCWF11",
+              "end": 39,
+              "expanded_url": "https://x.com/nanami269322/status/2079744316696916383/photo/1",
+              "media_key": "3_2079743651522265088",
+              "start": 16,
+              "url": "https://t.co/ei9jPCWF11"
+            },
+            {
+              "display_url": "pic.x.com/ei9jPCWF11",
+              "end": 39,
+              "expanded_url": "https://x.com/nanami269322/status/2079744316696916383/photo/1",
+              "media_key": "3_2079743676176277504",
+              "start": 16,
+              "url": "https://t.co/ei9jPCWF11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079744316696916383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6941,
+          "like_count": 129,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们辉夜被劳保挂了，绷不住了 https://t.co/ei9jPCWF11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 569,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T07:23:30.000Z",
+        "description": "時は流れて、大切な人とまた会えるように",
+        "id": "1937048792487849984",
+        "location": "克拉科夫",
+        "name": "七海燈子☭🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078497285584150529/qDw5vPwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 971,
+          "like_count": 50672,
+          "listed_count": 3,
+          "media_count": 1365,
+          "tweet_count": 4586
+        },
+        "url": "",
+        "username": "nanami269322",
+        "verified": false
+      }
+    ]
+  }
+}

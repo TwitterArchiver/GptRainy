@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078787709141995520"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2078787717929017520",
+    "created_at": "2026-07-19T10:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078787717929017520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RLzz0Yg9lB",
+          "end": 23,
+          "expanded_url": "https://x.com/GptRainy/status/2078787717929017520/photo/1",
+          "media_key": "3_2078787709141995520",
+          "start": 0,
+          "url": "https://t.co/RLzz0Yg9lB"
+        },
+        {
+          "display_url": "x.com/emollick/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/emollick/status/2078621842508587318",
+          "start": 24,
+          "url": "https://t.co/VeCikxfmSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078787717929017520",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078621842508587318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/RLzz0Yg9lB https://t.co/VeCikxfmSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2078787709141995520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlWaFbbUAA2DSz.png",
+        "width": 1785
+      },
+      {
+        "height": 1685,
+        "media_key": "3_2078621233550180352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNi-_7hXwAAe94d.jpg",
+        "width": 1350
+      },
+      {
+        "height": 3126,
+        "media_key": "3_2078621278538190848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNi_CjHWUAAQHUs.png",
+        "width": 866
+      },
+      {
+        "height": 1976,
+        "media_key": "3_2078621649033715713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNi_YHUXYAEXR42.png",
+        "width": 841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078787709141995520"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2078787717929017520",
+        "created_at": "2026-07-19T10:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078787717929017520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLzz0Yg9lB",
+              "end": 23,
+              "expanded_url": "https://x.com/GptRainy/status/2078787717929017520/photo/1",
+              "media_key": "3_2078787709141995520",
+              "start": 0,
+              "url": "https://t.co/RLzz0Yg9lB"
+            },
+            {
+              "display_url": "x.com/emollick/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/emollick/status/2078621842508587318",
+              "start": 24,
+              "url": "https://t.co/VeCikxfmSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078787717929017520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078621842508587318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/RLzz0Yg9lB https://t.co/VeCikxfmSx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078621233550180352",
+            "3_2078621278538190848",
+            "3_2078621649033715713"
+          ]
+        },
+        "author_id": "39125788",
+        "conversation_id": "2078621842508587318",
+        "created_at": "2026-07-18T23:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078621842508587318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzXtgZktdx",
+              "end": 293,
+              "expanded_url": "https://x.com/emollick/status/2078621842508587318/photo/1",
+              "media_key": "3_2078621233550180352",
+              "start": 270,
+              "url": "https://t.co/CzXtgZktdx"
+            },
+            {
+              "display_url": "pic.x.com/CzXtgZktdx",
+              "end": 293,
+              "expanded_url": "https://x.com/emollick/status/2078621842508587318/photo/1",
+              "media_key": "3_2078621278538190848",
+              "start": 270,
+              "url": "https://t.co/CzXtgZktdx"
+            },
+            {
+              "display_url": "pic.x.com/CzXtgZktdx",
+              "end": 293,
+              "expanded_url": "https://x.com/emollick/status/2078621842508587318/photo/1",
+              "media_key": "3_2078621649033715713",
+              "start": 270,
+              "url": "https://t.co/CzXtgZktdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078621842508587318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 36184,
+          "like_count": 280,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Interestingly, when I made a request in Chinese for Kimi K3 to pick two non-cliched poems that apply to LLMs, 95.5% of the characters (88% of the words) in the chain-of-thought were in English, even when it was explicitly considering Chinese poems for a Chinese reader. https://t.co/CzXtgZktdx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 561,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-10T22:33:52.000Z",
+        "description": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech\nBook: https://t.co/CSmipbJ2jV\nSubstack: https://t.co/UIBhxu4bgq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "Wharton"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "a.co/d/4VguzZz",
+                "end": 119,
+                "expanded_url": "https://a.co/d/4VguzZz",
+                "start": 96,
+                "url": "https://t.co/CSmipbJ2jV"
+              },
+              {
+                "display_url": "oneusefulthing.org",
+                "end": 153,
+                "expanded_url": "https://www.oneusefulthing.org/",
+                "start": 130,
+                "url": "https://t.co/UIBhxu4bgq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+                "end": 23,
+                "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+                "start": 0,
+                "url": "https://t.co/uItckI9ujc"
+              }
+            ]
+          }
+        },
+        "id": "39125788",
+        "location": "Philadelphia, PA",
+        "name": "Ethan Mollick",
+        "pinned_tweet_id": "2062645525111771521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369226,
+          "following_count": 586,
+          "like_count": 7244,
+          "listed_count": 9099,
+          "media_count": 14422,
+          "tweet_count": 36279
+        },
+        "url": "https://t.co/uItckI9ujc",
+        "username": "emollick",
+        "verified": true
+      }
+    ]
+  }
+}

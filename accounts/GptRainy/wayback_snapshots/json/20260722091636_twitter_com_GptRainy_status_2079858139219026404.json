@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2079636594479550737",
+    "created_at": "2026-07-22T09:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079858139219026404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2536513913",
+          "start": 0,
+          "username": "woaitaoershi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079858139219026404",
+    "in_reply_to_user_id": "2536513913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079636594479550737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaitaoershi 日新月异啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2079636542860255232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxaatcbYAAxVtV.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2079636594479550737",
+        "created_at": "2026-07-22T09:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079858139219026404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2536513913",
+              "start": 0,
+              "username": "woaitaoershi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079858139219026404",
+        "in_reply_to_user_id": "2536513913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079636594479550737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaitaoershi 日新月异啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079636542860255232"
+          ]
+        },
+        "author_id": "2536513913",
+        "conversation_id": "2079636594479550737",
+        "created_at": "2026-07-21T18:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079636594479550737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4S7g8SCl1",
+              "end": 142,
+              "expanded_url": "https://x.com/woaitaoershi/status/2079636594479550737/photo/1",
+              "media_key": "3_2079636542860255232",
+              "start": 119,
+              "url": "https://t.co/g4S7g8SCl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079636594479550737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "突然发现一个问题，Claude code的模型默认温度竟然是1！！！\n\n在我的认知里，编程这种工作模型的默认温度应该很低啊\n\n于是我去问了问ai，他告诉我现在其实大家已经不怎么关注温度了，低温模型用于代码补齐已经是很久之前的旧“共识”了\n\n现在两个sota都不支持temperature、top_p、top_k这些参数调试了，令人感叹！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 39783,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 58,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现一个问题，Claude code的模型默认温度竟然是1！！！\n\n在我的认知里，编程这种工作模型的默认温度应该很低啊\n\n于是我去问了问ai，他告诉我现在其实大家已经不怎么关注温度了，低温模型用于代码补齐已经是很久之前的旧“共识”了 https://t.co/g4S7g8SCl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 569,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-09T05:03:06.000Z",
+        "description": "菜鸟交易员 量子光学研究生 一定会成功的超级飞行员！\n\n最简单的开户券商，身份证开户，usdt出入金就来bit交易所！我的邀请码:SQ9KRE",
+        "id": "2536513913",
+        "name": "超级飞行员",
+        "pinned_tweet_id": "2035071537347522821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031042286252118016/pzdNgj2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14244,
+          "following_count": 792,
+          "like_count": 4293,
+          "listed_count": 123,
+          "media_count": 671,
+          "tweet_count": 6092
+        },
+        "url": "",
+        "username": "woaitaoershi",
+        "verified": true
+      }
+    ]
+  }
+}

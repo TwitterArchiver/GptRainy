@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2077984395072573662",
+    "created_at": "2026-07-17T11:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078085653611655558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        },
+        {
+          "end": 24,
+          "id": "1890080522682146816",
+          "start": 11,
+          "username": "JupiterTheWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078085653611655558",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078031440697344376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww @JupiterTheWL 法国没ai？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2077984395072573662",
+        "created_at": "2026-07-17T11:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078085653611655558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            },
+            {
+              "end": 24,
+              "id": "1890080522682146816",
+              "start": 11,
+              "username": "JupiterTheWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078085653611655558",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078031440697344376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww @JupiterTheWL 法国没ai？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "conversation_id": "2077984395072573662",
+        "created_at": "2026-07-17T08:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078031440697344376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890080522682146816",
+              "start": 0,
+              "username": "JupiterTheWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078031440697344376",
+        "in_reply_to_user_id": "1890080522682146816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078030782724227533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JupiterTheWL 新加坡 法国 日本 韩国这种也没有啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 541,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 106,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 83,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️ | yoshino233酱世界第一可爱！",
+        "pinned_tweet_id": "2075823378083311698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 955,
+          "like_count": 22154,
+          "listed_count": 3,
+          "media_count": 932,
+          "tweet_count": 4974
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-13T16:48:16.000Z",
+        "description": "从数学系提桶跑路 游戏行业底层人材\nAI Native的独立游戏开发者\nC# / Unity｜高频 Game Jam中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/JupiterTheWarl…",
+                "end": 23,
+                "expanded_url": "https://github.com/JupiterTheWarlock",
+                "start": 0,
+                "url": "https://t.co/n44Zi6Ima9"
+              }
+            ]
+          }
+        },
+        "id": "1890080522682146816",
+        "name": "术士木星",
+        "pinned_tweet_id": "2074324594744574294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890080721408258052/N2ealTK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 210,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/n44Zi6Ima9",
+        "username": "JupiterTheWL",
+        "verified": true
+      }
+    ]
+  }
+}

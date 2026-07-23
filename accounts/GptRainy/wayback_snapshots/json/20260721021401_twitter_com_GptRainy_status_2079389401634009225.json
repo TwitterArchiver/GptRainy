@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2079389401634009225",
+    "created_at": "2026-07-21T02:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079389401634009225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077388451440443392",
+          "start": 3,
+          "username": "aleaph2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079389401634009225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079236017517953478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aleaph2: tag♡\n\n┆09┆♂┆INTP┆病み垢┆気まぐれ浮上┆依存┆\n症状統合失調症\n生きるのが下手くそです(ᐡ.  ̫ .ᐡ )\n深い話も、日常の些細な話も、共有できる場所。\n気楽に絡んでください🖤*･゜ﾟ･*:.｡..｡.:*･'･*:.｡. .｡.:*…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2079389401634009225",
+        "created_at": "2026-07-21T02:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079389401634009225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077388451440443392",
+              "start": 3,
+              "username": "aleaph2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079389401634009225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079236017517953478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aleaph2: tag♡\n\n┆09┆♂┆INTP┆病み垢┆気まぐれ浮上┆依存┆\n症状統合失調症\n生きるのが下手くそです(ᐡ.  ̫ .ᐡ )\n深い話も、日常の些細な話も、共有できる場所。\n気楽に絡んでください🖤*･゜ﾟ･*:.｡..｡.:*･'･*:.｡. .｡.:*…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077388451440443392",
+        "conversation_id": "2079236017517953478",
+        "created_at": "2026-07-20T16:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079236017517953478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 133,
+              "tag": "病み垢と繋がりたい"
+            },
+            {
+              "end": 151,
+              "start": 144,
+              "tag": "ネッ友募集中"
+            },
+            {
+              "end": 163,
+              "start": 152,
+              "tag": "病み垢男子と繋がりた"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079236017517953478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "tag♡\n\n┆09┆♂┆INTP┆病み垢┆気まぐれ浮上┆依存┆\n症状統合失調症\n生きるのが下手くそです(ᐡ.  ̫ .ᐡ )\n深い話も、日常の些細な話も、共有できる場所。\n気楽に絡んでください🖤*･゜ﾟ･*:.｡..｡.:*･'･*:.｡. .｡.:*･゜ﾟ･*🖤\n#病み垢と繋がりたい #ネッ友募集中 #病み垢男子と繋がりた"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 569,
+          "like_count": 989,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T13:45:10.000Z",
+        "description": "中国では、これを一目惚れっていうんだよ。",
+        "id": "2077388451440443392",
+        "location": "河南省",
+        "name": "アルテミス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079083392285761536/0OFDwlgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 222,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "aleaph2",
+        "verified": false
+      }
+    ]
+  }
+}

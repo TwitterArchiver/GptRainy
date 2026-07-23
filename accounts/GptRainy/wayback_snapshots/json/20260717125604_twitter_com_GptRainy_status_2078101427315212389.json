@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2078101427315212389",
+    "created_at": "2026-07-17T12:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078101427315212389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xijiu_/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xijiu_/status/2077757819869409775",
+          "start": 8,
+          "url": "https://t.co/nFWVEo6BLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078101427315212389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077757819869409775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一氧化碳享受者 https://t.co/nFWVEo6BLl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2078101427315212389",
+        "created_at": "2026-07-17T12:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078101427315212389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijiu_/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xijiu_/status/2077757819869409775",
+              "start": 8,
+              "url": "https://t.co/nFWVEo6BLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078101427315212389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077757819869409775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一氧化碳享受者 https://t.co/nFWVEo6BLl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "2077757819869409775",
+        "created_at": "2026-07-16T14:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077757819869409775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077757819869409775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19662,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 74,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚才抽我男友的烟，第一次过肺\n我在大街上狂笑不止。然后，然后晕了，比OD了都厉害\n国内真的应该禁烟了，这不比那些管制药物狠多了\n我现在还解离着\n被路人诡异的盯着，微笑着看\n就我那个表现多带几分钟感觉就要被拽去尿检了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 541,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "被有机实验室炸飞的电化学实验室",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3674,
+          "following_count": 857,
+          "like_count": 205829,
+          "listed_count": 3,
+          "media_count": 707,
+          "tweet_count": 9780
+        },
+        "url": "",
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

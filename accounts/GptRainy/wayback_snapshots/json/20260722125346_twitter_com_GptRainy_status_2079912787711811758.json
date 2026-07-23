@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2079912787711811758",
+    "created_at": "2026-07-22T12:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079912787711811758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acacia038/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/acacia038/status/2079611740162077075",
+          "start": 2,
+          "url": "https://t.co/hkpY2PrOIX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079912787711811758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079611740162077075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉 https://t.co/hkpY2PrOIX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2079912787711811758",
+        "created_at": "2026-07-22T12:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079912787711811758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acacia038/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/acacia038/status/2079611740162077075",
+              "start": 2,
+              "url": "https://t.co/hkpY2PrOIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079912787711811758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079611740162077075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/hkpY2PrOIX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "2079611740162077075",
+        "created_at": "2026-07-21T16:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079611740162077075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079611740162077075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 17572,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "忘记第几次讲起这个故事了，但又想起来了，所以还想要讲。\n24年末，我刚刚开始尝试rle，还没有下定决心去看医生的时候，自己一个人去了国外旅行。\n飞机落地，回程的绿皮火车上，一个女孩子和我搭话，我核对了一下12306，发现我坐错位置了，于是起身和她道歉，换到对面的座位上，她则在我对面坐了下来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 572,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "飼い殺してくれますか",
+        "id": "1150753335881826305",
+        "name": "Charlotte",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063532315619328/MwXmHmj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 306,
+          "like_count": 4570,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1946
+        },
+        "url": "",
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}
