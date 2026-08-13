@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083537376698404864"
+      ],
+      "media_source_tweet_id": [
+        "2083537415684428055"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083750906949169426",
+    "created_at": "2026-08-02T03:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083750906949169426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741075170603749376",
+          "start": 3,
+          "username": "Niohuru_Yuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5v50N9P6nR",
+          "end": 51,
+          "expanded_url": "https://x.com/Niohuru_Yuki/status/2083537415684428055/photo/1",
+          "media_key": "3_2083537376698404864",
+          "start": 28,
+          "url": "https://t.co/5v50N9P6nR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083750906949169426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083537415684428055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Niohuru_Yuki: 经典回顾之黎深开大 https://t.co/5v50N9P6nR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2083537376698404864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo2NH5bkAAJEUK.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083537376698404864"
+          ]
+        },
+        "author_id": "1741075170603749376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083537415684428055",
+        "created_at": "2026-08-01T12:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083537415684428055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5v50N9P6nR",
+              "end": 33,
+              "expanded_url": "https://x.com/Niohuru_Yuki/status/2083537415684428055/photo/1",
+              "media_key": "3_2083537376698404864",
+              "start": 10,
+              "url": "https://t.co/5v50N9P6nR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083537415684428055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之黎深开大 https://t.co/5v50N9P6nR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083537376698404864"
+          ],
+          "media_source_tweet_id": [
+            "2083537415684428055"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083750906949169426",
+        "created_at": "2026-08-02T03:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083750906949169426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741075170603749376",
+              "start": 3,
+              "username": "Niohuru_Yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5v50N9P6nR",
+              "end": 51,
+              "expanded_url": "https://x.com/Niohuru_Yuki/status/2083537415684428055/photo/1",
+              "media_key": "3_2083537376698404864",
+              "start": 28,
+              "url": "https://t.co/5v50N9P6nR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083750906949169426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083537415684428055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Niohuru_Yuki: 经典回顾之黎深开大 https://t.co/5v50N9P6nR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 581,
+          "like_count": 1088,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "“Por fa',no me parеs ya de mirar.”\n世界距离毁灭只剩下了五年时间，来自太空的摇滚巨星Ziggy Stardust已然降临地球，祂能拯救我们吗？",
+        "id": "1741075170603749376",
+        "location": "🚪40/绘画约稿看置顶",
+        "name": "钮祜禄·有希🐰🍺",
+        "pinned_tweet_id": "2069999250055090441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034879597159096322/QuoMlwJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 1480,
+          "like_count": 36608,
+          "listed_count": 2,
+          "media_count": 1387,
+          "tweet_count": 17782
+        },
+        "url": "",
+        "username": "Niohuru_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

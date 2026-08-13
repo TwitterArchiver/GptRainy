@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2080003066808435031",
+    "created_at": "2026-07-23T08:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080204668022792620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953337039510003712",
+          "start": 0,
+          "username": "thsottiaux"
+        },
+        {
+          "end": 21,
+          "id": "2236047510",
+          "start": 12,
+          "username": "giffmana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080204668022792620",
+    "in_reply_to_user_id": "1953337039510003712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080179274976481718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thsottiaux @giffmana tibo你好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2080003066808435031",
+        "created_at": "2026-07-23T08:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080204668022792620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953337039510003712",
+              "start": 0,
+              "username": "thsottiaux"
+            },
+            {
+              "end": 21,
+              "id": "2236047510",
+              "start": 12,
+              "username": "giffmana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080204668022792620",
+        "in_reply_to_user_id": "1953337039510003712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080179274976481718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thsottiaux @giffmana tibo你好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953337039510003712",
+        "conversation_id": "2080003066808435031",
+        "created_at": "2026-07-23T06:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080179274976481718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2236047510",
+              "start": 0,
+              "username": "giffmana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080179274976481718",
+        "in_reply_to_user_id": "2236047510",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2562,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080170599087824990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giffmana 😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 574,
+          "like_count": 1003,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "name": "Tibo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075819673263001600/pj1vyX6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320622,
+          "following_count": 66,
+          "like_count": 8414,
+          "listed_count": 2222,
+          "media_count": 106,
+          "tweet_count": 2320
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-08T13:31:09.000Z",
+        "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "admonymous.co/giffmana",
+                "end": 129,
+                "expanded_url": "https://www.admonymous.co/giffmana",
+                "start": 106,
+                "url": "https://t.co/xe2XUqkKit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lucasb.eyer.be",
+                "end": 23,
+                "expanded_url": "http://lucasb.eyer.be",
+                "start": 0,
+                "url": "https://t.co/RsCh9TJjKC"
+              }
+            ]
+          }
+        },
+        "id": "2236047510",
+        "location": "Zürich, Suisse",
+        "name": "Lucas Beyer (bl16)",
+        "pinned_tweet_id": "1570152923233144832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144032,
+          "following_count": 619,
+          "like_count": 67263,
+          "listed_count": 1688,
+          "media_count": 2497,
+          "tweet_count": 27889
+        },
+        "url": "https://t.co/RsCh9TJjKC",
+        "username": "giffmana",
+        "verified": true
+      }
+    ]
+  }
+}

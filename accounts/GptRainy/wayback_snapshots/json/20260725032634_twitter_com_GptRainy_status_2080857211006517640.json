@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2080857211006517640",
+    "created_at": "2026-07-25T03:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080857211006517640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1455052587145723904",
+          "start": 3,
+          "username": "MizukiWorkshop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080857211006517640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080853133580722380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MizukiWorkshop: 在虐猫虐狗小孩哥身上，我仍旧看到那个《论犹太人问题》的经典命题。每一种被社会所厌恶排斥的本质都只不过是这个社会自己的某种精神的纯粹形式的表象，19世纪的犹太人表象了市民社会的纯粹形式；性工作者表象了雇佣劳动的纯粹形式；罪犯和精神病则表象了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2080857211006517640",
+        "created_at": "2026-07-25T03:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080857211006517640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1455052587145723904",
+              "start": 3,
+              "username": "MizukiWorkshop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080857211006517640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080853133580722380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MizukiWorkshop: 在虐猫虐狗小孩哥身上，我仍旧看到那个《论犹太人问题》的经典命题。每一种被社会所厌恶排斥的本质都只不过是这个社会自己的某种精神的纯粹形式的表象，19世纪的犹太人表象了市民社会的纯粹形式；性工作者表象了雇佣劳动的纯粹形式；罪犯和精神病则表象了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2080853133580722380",
+        "created_at": "2026-07-25T03:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080853133580722380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080853133580722380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在虐猫虐狗小孩哥身上，我仍旧看到那个《论犹太人问题》的经典命题。每一种被社会所厌恶排斥的本质都只不过是这个社会自己的某种精神的纯粹形式的表象，19世纪的犹太人表象了市民社会的纯粹形式；性工作者表象了雇佣劳动的纯粹形式；罪犯和精神病则表象了与理性的现代性所伴生的那种非理性的纯粹形式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 582,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 1216,
+          "like_count": 120397,
+          "listed_count": 7,
+          "media_count": 1859,
+          "tweet_count": 24847
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

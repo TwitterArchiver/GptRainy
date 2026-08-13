@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2080134044369727508",
+    "created_at": "2026-07-23T03:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080134044369727508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1521776776380239873",
+          "start": 3,
+          "username": "DmitryRybin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080134044369727508",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 644
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079904005652893709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DmitryRybin1: Dinitz-Garg-Goemans conjecture is false. This graph theory problem was open for ~30 years.\n\nThe graph below has fractiona…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1462,
+        "media_key": "3_2079901888087306240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1Lv1cbsAA3fXU.jpg",
+        "width": 1695
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2080134044369727508",
+        "created_at": "2026-07-23T03:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080134044369727508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1521776776380239873",
+              "start": 3,
+              "username": "DmitryRybin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080134044369727508",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 644
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079904005652893709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DmitryRybin1: Dinitz-Garg-Goemans conjecture is false. This graph theory problem was open for ~30 years.\n\nThe graph below has fractiona…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079901888087306240"
+          ]
+        },
+        "author_id": "1521776776380239873",
+        "conversation_id": "2079904005652893709",
+        "created_at": "2026-07-22T12:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079904005652893709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Here's a chat someone thought you'd want to see.",
+              "display_url": "chatgpt.com/share/6a60b2eb…",
+              "end": 283,
+              "expanded_url": "https://chatgpt.com/share/6a60b2eb-0b64-83ee-9c76-7931ca1de063",
+              "start": 260,
+              "status": 200,
+              "title": "Check out this chat",
+              "unwound_url": "https://chatgpt.com/share/6a60b2eb-0b64-83ee-9c76-7931ca1de063",
+              "url": "https://t.co/Oi2PQoab2h"
+            },
+            {
+              "display_url": "pic.x.com/3ihncPMpve",
+              "end": 307,
+              "expanded_url": "https://x.com/DmitryRybin1/status/2079904005652893709/photo/1",
+              "media_key": "3_2079901888087306240",
+              "start": 284,
+              "url": "https://t.co/3ihncPMpve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079904005652893709",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2795,
+          "impression_count": 2450520,
+          "like_count": 7428,
+          "quote_count": 485,
+          "reply_count": 182,
+          "retweet_count": 644
+        },
+        "reply_settings": "everyone",
+        "text": "Dinitz-Garg-Goemans conjecture is false. This graph theory problem was open for ~30 years.\n\nThe graph below has fractional flow cost 58. Any unsplittable flow (with capacity violation &lt;=15) has cost at least 60.\n\nChat with GPT 5.6 Pro where this was found: https://t.co/Oi2PQoab2h https://t.co/3ihncPMpve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 571,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T09:00:53.000Z",
+        "description": "Cofounder $100M AI Startup in Shenzhen, Algorithm Discovery + Math (we’re hiring) | ML PhD CUHK, BSc. Math HSE | IMC🥇National Math Olympiad🥇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rybindmitry.github.io",
+                "end": 23,
+                "expanded_url": "https://rybindmitry.github.io",
+                "start": 0,
+                "url": "https://t.co/dDZ66kuBcP"
+              }
+            ]
+          }
+        },
+        "id": "1521776776380239873",
+        "location": "Shenzhen",
+        "name": "Dmitry Rybin",
+        "pinned_tweet_id": "2079904005652893709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844986377836036098/fWU-0lRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5269,
+          "following_count": 250,
+          "like_count": 42442,
+          "listed_count": 56,
+          "media_count": 156,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/dDZ66kuBcP",
+        "username": "DmitryRybin1",
+        "verified": false
+      }
+    ]
+  }
+}

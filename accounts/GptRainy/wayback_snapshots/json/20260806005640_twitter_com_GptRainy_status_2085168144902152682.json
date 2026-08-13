@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2085168144902152682",
+    "created_at": "2026-08-06T00:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T01:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085168144902152682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/for_4ngel/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/for_4ngel/status/2084898543056396369",
+          "start": 25,
+          "url": "https://t.co/tKaM7CjnWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085168144902152682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084898543056396369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种情况下可以口服（不是舌下含服）纳洛酮快速缓解 https://t.co/tKaM7CjnWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084898424319885312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8MEhZbwAAH6mB.jpg",
+        "width": 501
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084898424332419073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8MEhcbAAERDsw.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2085168144902152682",
+        "created_at": "2026-08-06T00:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085168144902152682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2084898543056396369",
+              "start": 25,
+              "url": "https://t.co/tKaM7CjnWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085168144902152682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084898543056396369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种情况下可以口服（不是舌下含服）纳洛酮快速缓解 https://t.co/tKaM7CjnWv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084898424319885312",
+            "3_2084898424332419073"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084898543056396369",
+        "created_at": "2026-08-05T07:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084898543056396369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxHZyZV0hU",
+              "end": 36,
+              "expanded_url": "https://x.com/for_4ngel/status/2084898543056396369/photo/1",
+              "media_key": "3_2084898424319885312",
+              "start": 13,
+              "url": "https://t.co/CxHZyZV0hU"
+            },
+            {
+              "display_url": "pic.x.com/CxHZyZV0hU",
+              "end": 36,
+              "expanded_url": "https://x.com/for_4ngel/status/2084898543056396369/photo/1",
+              "media_key": "3_2084898424332419073",
+              "start": 13,
+              "url": "https://t.co/CxHZyZV0hU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084898543056396369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1988,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享曲马多不好的体验。😅 https://t.co/CxHZyZV0hU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 584,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 480,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

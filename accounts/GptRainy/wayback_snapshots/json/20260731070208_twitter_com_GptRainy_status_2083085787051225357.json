@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2083078759499104475",
+    "created_at": "2026-07-31T07:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083085787051225357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963798848121495552",
+          "start": 0,
+          "username": "seois011011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083085787051225357",
+    "in_reply_to_user_id": "1963798848121495552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083078759499104475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seois011011 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2041,
+        "media_key": "3_2083078729400799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiVEVkbUAA6R9Q.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2083078759499104475",
+        "created_at": "2026-07-31T07:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083085787051225357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963798848121495552",
+              "start": 0,
+              "username": "seois011011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083085787051225357",
+        "in_reply_to_user_id": "1963798848121495552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083078759499104475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seois011011 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083078729400799232"
+          ]
+        },
+        "author_id": "1963798848121495552",
+        "conversation_id": "2083078759499104475",
+        "created_at": "2026-07-31T06:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083078759499104475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RM4JF0rDNc",
+              "end": 30,
+              "expanded_url": "https://x.com/seois011011/status/2083078759499104475/photo/1",
+              "media_key": "3_2083078729400799232",
+              "start": 7,
+              "url": "https://t.co/RM4JF0rDNc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083078759499104475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比较恶俗一张 https://t.co/RM4JF0rDNc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 587,
+          "like_count": 1076,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T02:58:38.000Z",
+        "description": "没有病｜没有性别｜没有立场｜没有职业｜没有信仰｜没有思想｜Really Human\n\n愿你美丽、理智、坚定、享受短暂而无限的荒芜时光。",
+        "id": "1963798848121495552",
+        "name": "Anuk🩸😌",
+        "pinned_tweet_id": "2056074964084961722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979933937024512001/prNpklXl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 6,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "seois011011",
+        "verified": false
+      }
+    ]
+  }
+}

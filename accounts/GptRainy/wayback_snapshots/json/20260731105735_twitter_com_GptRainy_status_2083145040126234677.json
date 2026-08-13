@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083145030676697088"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2083145040126234677",
+    "created_at": "2026-07-31T10:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083145040126234677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9o7Es0hHLw",
+          "end": 45,
+          "expanded_url": "https://x.com/GptRainy/status/2083145040126234677/photo/1",
+          "media_key": "3_2083145030676697088",
+          "start": 22,
+          "url": "https://t.co/9o7Es0hHLw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083145040126234677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘的用法说明，似乎是某种生活常用的东西! https://t.co/9o7Es0hHLw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2083145030676697088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjRXlEa0AALtBd.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083145030676697088"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2083145040126234677",
+        "created_at": "2026-07-31T10:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083145040126234677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9o7Es0hHLw",
+              "end": 45,
+              "expanded_url": "https://x.com/GptRainy/status/2083145040126234677/photo/1",
+              "media_key": "3_2083145030676697088",
+              "start": 22,
+              "url": "https://t.co/9o7Es0hHLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083145040126234677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘的用法说明，似乎是某种生活常用的东西! https://t.co/9o7Es0hHLw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 586,
+          "like_count": 1080,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      }
+    ]
+  }
+}

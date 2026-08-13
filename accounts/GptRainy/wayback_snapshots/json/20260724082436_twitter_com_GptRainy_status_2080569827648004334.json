@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2080569827648004334",
+    "created_at": "2026-07-24T08:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080569827648004334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "21814122",
+          "start": 3,
+          "username": "hampsonw"
+        },
+        {
+          "end": 75,
+          "id": "4398626122",
+          "start": 68,
+          "username": "OpenAI"
+        },
+        {
+          "end": 89,
+          "id": "1761273847041662976",
+          "start": 79,
+          "username": "datacurve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080569827648004334",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080365383987404807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hampsonw: What absolute domination of the efficient frontier by @OpenAI on @datacurve \nAnd by the way they are absolute legends for bei…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1633,
+        "media_key": "3_2080364100069302272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7wIHQbIAAvJqp.jpg",
+        "width": 2301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2080569827648004334",
+        "created_at": "2026-07-24T08:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080569827648004334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "21814122",
+              "start": 3,
+              "username": "hampsonw"
+            },
+            {
+              "end": 75,
+              "id": "4398626122",
+              "start": 68,
+              "username": "OpenAI"
+            },
+            {
+              "end": 89,
+              "id": "1761273847041662976",
+              "start": 79,
+              "username": "datacurve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080569827648004334",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080365383987404807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hampsonw: What absolute domination of the efficient frontier by @OpenAI on @datacurve \nAnd by the way they are absolute legends for bei…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080364100069302272"
+          ]
+        },
+        "author_id": "21814122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2080365383987404807",
+        "created_at": "2026-07-23T18:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080365383987404807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 61,
+              "id": "4398626122",
+              "start": 54,
+              "username": "OpenAI"
+            },
+            {
+              "end": 75,
+              "id": "1761273847041662976",
+              "start": 65,
+              "username": "datacurve"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcYb7JnZ9H",
+              "end": 307,
+              "expanded_url": "https://x.com/hampsonw/status/2080365383987404807/photo/1",
+              "media_key": "3_2080364100069302272",
+              "start": 284,
+              "url": "https://t.co/OcYb7JnZ9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080365383987404807",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 61,
+                "id": "4398626122",
+                "start": 54,
+                "username": "OpenAI"
+              },
+              {
+                "end": 75,
+                "id": "1761273847041662976",
+                "start": 65,
+                "username": "datacurve"
+              }
+            ]
+          },
+          "text": "What absolute domination of the efficient frontier by @OpenAI on @datacurve \nAnd by the way they are absolute legends for being the only game in town in the <$2 category and still pushing hard for excellent results at affordable prices. Completely alone in the entire bottom right quadrant"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1519,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "What absolute domination of the efficient frontier by @OpenAI on @datacurve \nAnd by the way they are absolute legends for being the only game in town in the &lt;$2 category and still pushing hard for excellent results at affordable prices. Completely alone in the entire bottom right https://t.co/OcYb7JnZ9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 579,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-24T23:53:57.000Z",
+        "description": "Father of twin boys.\nMotorcycles. Racing. Dogs. Investments. Fixed Income Portfolio Manager. CFA. Autodidact: https://t.co/e0ndAvVVvx alum",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "course.fast.ai",
+                "end": 133,
+                "expanded_url": "http://course.fast.ai",
+                "start": 110,
+                "url": "https://t.co/e0ndAvVVvx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classroom-connect.app",
+                "end": 23,
+                "expanded_url": "http://classroom-connect.app",
+                "start": 0,
+                "url": "https://t.co/Oj2xBZkZFX"
+              }
+            ]
+          }
+        },
+        "id": "21814122",
+        "location": "Portland, OR",
+        "name": "Will",
+        "pinned_tweet_id": "2014764216323080307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990974445994016769/NVYc9czW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1524,
+          "like_count": 3507,
+          "listed_count": 5,
+          "media_count": 107,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/Oj2xBZkZFX",
+        "username": "hampsonw",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2080378182469857576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5053623,
+          "following_count": 4,
+          "like_count": 2407,
+          "listed_count": 31040,
+          "media_count": 669,
+          "tweet_count": 2011
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:16:37.000Z",
+        "description": "Research and data to advance frontier models.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "datacurve.ai",
+                "end": 23,
+                "expanded_url": "http://datacurve.ai",
+                "start": 0,
+                "url": "https://t.co/FzagIxjItZ"
+              }
+            ]
+          }
+        },
+        "id": "1761273847041662976",
+        "location": "San Francisco",
+        "name": "Datacurve",
+        "pinned_tweet_id": "2079782806960689546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061635789512167424/_Z1Vc5jM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10124,
+          "following_count": 12,
+          "like_count": 157,
+          "listed_count": 110,
+          "media_count": 10,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/FzagIxjItZ",
+        "username": "datacurve",
+        "verified": true
+      }
+    ]
+  }
+}

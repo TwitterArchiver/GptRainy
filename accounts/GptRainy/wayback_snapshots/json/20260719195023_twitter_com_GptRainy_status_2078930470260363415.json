@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2078930470260363415",
+    "created_at": "2026-07-19T19:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078930470260363415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rreyue/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/rreyue/status/2078541711807246559",
+          "start": 9,
+          "url": "https://t.co/ZRmId01sjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078930470260363415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078541711807246559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "具体的人具体分析 https://t.co/ZRmId01sjs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2078930470260363415",
+        "created_at": "2026-07-19T19:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078930470260363415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rreyue/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/rreyue/status/2078541711807246559",
+              "start": 9,
+              "url": "https://t.co/ZRmId01sjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078930470260363415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078541711807246559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "具体的人具体分析 https://t.co/ZRmId01sjs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734920570406658048",
+        "conversation_id": "2078541711807246559",
+        "created_at": "2026-07-18T18:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078541711807246559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078541711807246559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 87995,
+          "like_count": 772,
+          "quote_count": 10,
+          "reply_count": 230,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "厌女的人为什么不把自己妈杀了，厌男的人为什么不把自己爸杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 562,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T12:58:00.000Z",
+        "description": "推特言行请勿带入现实与我谈论",
+        "id": "1734920570406658048",
+        "location": "贝加尔湖",
+        "name": "光明心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070960697325113344/-WGNM489_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 37,
+          "like_count": 3540,
+          "listed_count": 1,
+          "media_count": 506,
+          "tweet_count": 1755
+        },
+        "url": "",
+        "username": "rreyue",
+        "verified": false
+      }
+    ]
+  }
+}

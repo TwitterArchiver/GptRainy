@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082057287087366144"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2082057297661202710",
+    "created_at": "2026-07-28T10:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082057297661202710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWmurButJZ",
+          "end": 23,
+          "expanded_url": "https://x.com/GptRainy/status/2082057297661202710/photo/1",
+          "media_key": "3_2082057287087366144",
+          "start": 0,
+          "url": "https://t.co/fWmurButJZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082057297661202710",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/fWmurButJZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2082057287087366144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT0EkbbIAAkkww.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082057287087366144"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2082057297661202710",
+        "created_at": "2026-07-28T10:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082057297661202710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWmurButJZ",
+              "end": 23,
+              "expanded_url": "https://x.com/GptRainy/status/2082057297661202710/photo/1",
+              "media_key": "3_2082057287087366144",
+              "start": 0,
+              "url": "https://t.co/fWmurButJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082057297661202710",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fWmurButJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 579,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      }
+    ]
+  }
+}
