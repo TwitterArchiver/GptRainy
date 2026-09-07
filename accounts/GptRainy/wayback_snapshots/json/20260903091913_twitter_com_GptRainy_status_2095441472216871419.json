@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095441433566269440",
+        "3_2095441444945403904",
+        "3_2095441460749631489"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095441472216871419",
+    "created_at": "2026-09-03T09:19:13.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T10:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095441472216871419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LnKpEnydRD",
+          "end": 28,
+          "expanded_url": "https://x.com/GptRainy/status/2095441472216871419/photo/1",
+          "media_key": "3_2095441433566269440",
+          "start": 5,
+          "url": "https://t.co/LnKpEnydRD"
+        },
+        {
+          "display_url": "pic.x.com/LnKpEnydRD",
+          "end": 28,
+          "expanded_url": "https://x.com/GptRainy/status/2095441472216871419/photo/1",
+          "media_key": "3_2095441444945403904",
+          "start": 5,
+          "url": "https://t.co/LnKpEnydRD"
+        },
+        {
+          "display_url": "pic.x.com/LnKpEnydRD",
+          "end": 28,
+          "expanded_url": "https://x.com/GptRainy/status/2095441472216871419/photo/1",
+          "media_key": "3_2095441460749631489",
+          "start": 5,
+          "url": "https://t.co/LnKpEnydRD"
+        },
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/GptRainy/status/2095416453264720329",
+          "start": 29,
+          "url": "https://t.co/fYDxn56gPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095441472216871419",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095441433566269440"
+      },
+      {
+        "media_key": "3_2095441444945403904"
+      },
+      {
+        "media_key": "3_2095441460749631489"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095416453264720329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好米。。 https://t.co/LnKpEnydRD https://t.co/fYDxn56gPK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2095441433566269440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSA4bdaUAApLyK.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095441444945403904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSA5F2aIAAmK0k.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095441460749631489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSA6AubgAEWoUd.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095416443991187456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRqJ2CbYAAj_h6.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095441433566269440",
+            "3_2095441444945403904",
+            "3_2095441460749631489"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095441472216871419",
+        "created_at": "2026-09-03T09:19:13.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T10:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095441472216871419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnKpEnydRD",
+              "end": 28,
+              "expanded_url": "https://x.com/GptRainy/status/2095441472216871419/photo/1",
+              "media_key": "3_2095441433566269440",
+              "start": 5,
+              "url": "https://t.co/LnKpEnydRD"
+            },
+            {
+              "display_url": "pic.x.com/LnKpEnydRD",
+              "end": 28,
+              "expanded_url": "https://x.com/GptRainy/status/2095441472216871419/photo/1",
+              "media_key": "3_2095441444945403904",
+              "start": 5,
+              "url": "https://t.co/LnKpEnydRD"
+            },
+            {
+              "display_url": "pic.x.com/LnKpEnydRD",
+              "end": 28,
+              "expanded_url": "https://x.com/GptRainy/status/2095441472216871419/photo/1",
+              "media_key": "3_2095441460749631489",
+              "start": 5,
+              "url": "https://t.co/LnKpEnydRD"
+            },
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/GptRainy/status/2095416453264720329",
+              "start": 29,
+              "url": "https://t.co/fYDxn56gPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095441472216871419",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095441433566269440"
+          },
+          {
+            "media_key": "3_2095441444945403904"
+          },
+          {
+            "media_key": "3_2095441460749631489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095416453264720329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好米。。 https://t.co/LnKpEnydRD https://t.co/fYDxn56gPK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095416443991187456"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095416453264720329",
+        "created_at": "2026-09-03T07:39:48.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095416453264720329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPZmKXG6gt",
+              "end": 28,
+              "expanded_url": "https://x.com/GptRainy/status/2095416453264720329/photo/1",
+              "media_key": "3_2095416443991187456",
+              "start": 5,
+              "url": "https://t.co/dPZmKXG6gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095416453264720329",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095416443991187456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好漂亮🤤 https://t.co/dPZmKXG6gt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095441472216871419",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 612,
+          "like_count": 1601,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

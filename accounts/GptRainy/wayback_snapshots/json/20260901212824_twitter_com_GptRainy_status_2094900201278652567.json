@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094454216396062896",
+    "created_at": "2026-09-01T21:28:24.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T22:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094900201278652567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829075605964619776",
+          "start": 0,
+          "username": "yustwuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094900201278652567",
+    "in_reply_to_user_id": "1829075605964619776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094774256005734661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yustwuu 也有可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094454216396062896",
+        "created_at": "2026-09-01T21:28:24.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T22:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094900201278652567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829075605964619776",
+              "start": 0,
+              "username": "yustwuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094900201278652567",
+        "in_reply_to_user_id": "1829075605964619776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094774256005734661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yustwuu 也有可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829075605964619776",
+        "conversation_id": "2094454216396062896",
+        "created_at": "2026-09-01T13:07:56.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094774256005734661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094774256005734661",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094454216396062896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 可能直接打兽药吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094900201278652567",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 549,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T08:36:32.000Z",
+        "description": "",
+        "id": "1829075605964619776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094774256005734661",
+        "name": "健胃消食片",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965396535669362688/NAzL9xOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 498,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "yustwuu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094935320492179456"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094935327056212288",
+    "created_at": "2026-09-01T23:47:58.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T00:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094935327056212288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/29RGSnTXuA",
+          "end": 54,
+          "expanded_url": "https://x.com/GptRainy/status/2094935327056212288/photo/1",
+          "media_key": "3_2094935320492179456",
+          "start": 31,
+          "url": "https://t.co/29RGSnTXuA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094935327056212288",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094935320492179456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "韩国烟在物价高的时候还能维持20块，爆珠调教和包装也好，善哉 https://t.co/29RGSnTXuA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2094935320492179456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRK0kxVbAAAS9cM.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094935320492179456"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094935327056212288",
+        "created_at": "2026-09-01T23:47:58.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094935327056212288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29RGSnTXuA",
+              "end": 54,
+              "expanded_url": "https://x.com/GptRainy/status/2094935327056212288/photo/1",
+              "media_key": "3_2094935320492179456",
+              "start": 31,
+              "url": "https://t.co/29RGSnTXuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094935327056212288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094935320492179456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韩国烟在物价高的时候还能维持20块，爆珠调教和包装也好，善哉 https://t.co/29RGSnTXuA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094935327056212288",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 553,
+          "like_count": 1379,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

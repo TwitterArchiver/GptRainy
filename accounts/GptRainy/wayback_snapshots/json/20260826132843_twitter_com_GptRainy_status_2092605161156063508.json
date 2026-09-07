@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092605161156063508",
+    "created_at": "2026-08-26T13:28:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092605161156063508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906829343480938496",
+          "start": 3,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092605161156063508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092584094949687737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nevernessian: 所以我说incel的经验匮乏到什么程度呢——谈论离婚时，甚至不能给出、也毫不关心什么是具体的财产安排，什么是析产时真正的优劣势，只能直愣愣盯着一个“男的出了钱离婚时女要分”的模糊图景虚空抱怨为什么这么不公平。问题就是答案，答案就是问题，自己跟…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092605161156063508",
+        "created_at": "2026-08-26T13:28:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092605161156063508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906829343480938496",
+              "start": 3,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092605161156063508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092584094949687737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nevernessian: 所以我说incel的经验匮乏到什么程度呢——谈论离婚时，甚至不能给出、也毫不关心什么是具体的财产安排，什么是析产时真正的优劣势，只能直愣愣盯着一个“男的出了钱离婚时女要分”的模糊图景虚空抱怨为什么这么不公平。问题就是答案，答案就是问题，自己跟…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "conversation_id": "2092584094949687737",
+        "created_at": "2026-08-26T12:05:01.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092584094949687737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092584094949687737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "所以我说incel的经验匮乏到什么程度呢——谈论离婚时，甚至不能给出、也毫不关心什么是具体的财产安排，什么是析产时真正的优劣势，只能直愣愣盯着一个“男的出了钱离婚时女要分”的模糊图景虚空抱怨为什么这么不公平。问题就是答案，答案就是问题，自己跟自己玩挺欢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092605161156063508",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 546,
+          "like_count": 1163,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092599443061199348",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "2058549888393384391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/906829343480938496/1510981599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 94,
+          "like_count": 6333,
+          "listed_count": 7,
+          "media_count": 985,
+          "tweet_count": 7429
+        },
+        "url": "",
+        "username": "Nevernessian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2096516446570320181",
+    "created_at": "2026-09-06T08:30:46.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096516446570320181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1445400963632750596",
+          "start": 3,
+          "username": "Im_Just__Girl"
+        },
+        {
+          "end": 31,
+          "id": "1585145286598483968",
+          "start": 19,
+          "username": "lianyiganyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096516446570320181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096340518733308004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Im_Just__Girl: @lianyiganyu 这就是不及时治病阻断睾酮摄入雌激素的严重后果！！！引以为戒，尽早治疗。拖到被睾酮侵蚀成185、大只、天残谁也救不了，很容易造成严重性别焦虑死亡。那些阻止青少年跨性别自行获取药物治疗的反人类分子应该全家暴毙 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 479,
+        "media_key": "3_2096340512483815424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReyltbbsAA5Um2.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2096516446570320181",
+        "created_at": "2026-09-06T08:30:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096516446570320181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1445400963632750596",
+              "start": 3,
+              "username": "Im_Just__Girl"
+            },
+            {
+              "end": 31,
+              "id": "1585145286598483968",
+              "start": 19,
+              "username": "lianyiganyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096516446570320181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096340518733308004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Im_Just__Girl: @lianyiganyu 这就是不及时治病阻断睾酮摄入雌激素的严重后果！！！引以为戒，尽早治疗。拖到被睾酮侵蚀成185、大只、天残谁也救不了，很容易造成严重性别焦虑死亡。那些阻止青少年跨性别自行获取药物治疗的反人类分子应该全家暴毙 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096340512483815424"
+          ]
+        },
+        "author_id": "1445400963632750596",
+        "conversation_id": "2096285981322473640",
+        "created_at": "2026-09-05T20:51:42.000Z",
+        "display_text_range": [
+          13,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096340518733308004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585145286598483968",
+              "start": 0,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikfzC8nQfl",
+              "end": 139,
+              "expanded_url": "https://x.com/Im_Just__Girl/status/2096340518733308004/photo/1",
+              "media_key": "3_2096340512483815424",
+              "start": 116,
+              "url": "https://t.co/ikfzC8nQfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096340518733308004",
+        "in_reply_to_user_id": "1585145286598483968",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096340512483815424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 322,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096285981322473640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyiganyu 这就是不及时治病阻断睾酮摄入雌激素的严重后果！！！引以为戒，尽早治疗。拖到被睾酮侵蚀成185、大只、天残谁也救不了，很容易造成严重性别焦虑死亡。那些阻止青少年跨性别自行获取药物治疗的反人类分子应该全家暴毙 https://t.co/ikfzC8nQfl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/我的小猫叫卡尔🐱/msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096516446570320181",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 625,
+          "like_count": 1716,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧04|🌈|OD雌二醇|反生育主义，繁殖狂拉黑|terf暴毙",
+        "id": "1445400963632750596",
+        "is_identity_verified": false,
+        "location": "Girls Home",
+        "most_recent_tweet_id": "2096440990194405729",
+        "name": "Danielle",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445400963632750596/1756384462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 986,
+          "like_count": 14537,
+          "listed_count": 5,
+          "media_count": 160,
+          "tweet_count": 7756
+        },
+        "url": "",
+        "username": "Im_Just__Girl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "is_identity_verified": true,
+        "location": "武汉",
+        "most_recent_tweet_id": "2096285981322473640",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4185,
+          "following_count": 6,
+          "like_count": 68,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

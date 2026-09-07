@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095157010291691621",
+    "created_at": "2026-09-02T14:47:15.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095161637984751867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1114984083635953664",
+          "start": 0,
+          "username": "caitiskk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095161637984751867",
+    "in_reply_to_user_id": "1114984083635953664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095157010291691621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caitiskk 毛茸茸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095156997247455232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN-MDmb0AA58N0.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095157010291691621",
+        "created_at": "2026-09-02T14:47:15.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095161637984751867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1114984083635953664",
+              "start": 0,
+              "username": "caitiskk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095161637984751867",
+        "in_reply_to_user_id": "1114984083635953664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095157010291691621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caitiskk 毛茸茸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095156997247455232"
+          ]
+        },
+        "author_id": "1114984083635953664",
+        "conversation_id": "2095157010291691621",
+        "created_at": "2026-09-02T14:28:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095157010291691621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MH13SO9F23",
+              "end": 40,
+              "expanded_url": "https://x.com/caitiskk/status/2095157010291691621/photo/1",
+              "media_key": "3_2095156997247455232",
+              "start": 17,
+              "url": "https://t.co/MH13SO9F23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095157010291691621",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095156997247455232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然其来的大暴雨，小猫咪都湿透了 https://t.co/MH13SO9F23"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095161637984751867",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 596,
+          "like_count": 1540,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-07T20:11:35.000Z",
+        "description": "とんがり帽子のアトリエ的见习魔法师！魔法とは、世界をカラフルに染める奇跡だ！！",
+        "id": "1114984083635953664",
+        "is_identity_verified": false,
+        "location": "大号鱼板",
+        "most_recent_tweet_id": "2095157010291691621",
+        "name": "宽帽檐的可可",
+        "pinned_tweet_id": "2088993483575230475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1114984083635953664/1666929119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074677838817710080/k6ra-oli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 1861,
+          "like_count": 24407,
+          "listed_count": 8,
+          "media_count": 1518,
+          "tweet_count": 10378
+        },
+        "url": "",
+        "username": "caitiskk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

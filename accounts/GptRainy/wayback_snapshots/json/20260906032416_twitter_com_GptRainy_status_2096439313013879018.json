@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2096430952863986026",
+    "created_at": "2026-09-06T03:24:16.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096439313013879018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884745808605818880",
+          "start": 0,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096439313013879018",
+    "in_reply_to_user_id": "1884745808605818880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096430952863986026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunbohue40037 但是确实是对的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2111,
+        "media_key": "3_2096430947159695360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgE1s2W4AA0q3d.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2096430952863986026",
+        "created_at": "2026-09-06T03:24:16.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096439313013879018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096439313013879018",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096430952863986026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 但是确实是对的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096430947159695360"
+          ]
+        },
+        "author_id": "1884745808605818880",
+        "conversation_id": "2096430952863986026",
+        "created_at": "2026-09-06T02:51:03.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096430952863986026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBHYEc6EPl",
+              "end": 35,
+              "expanded_url": "https://x.com/Bunbohue40037/status/2096430952863986026/photo/1",
+              "media_key": "3_2096430947159695360",
+              "start": 12,
+              "url": "https://t.co/BBHYEc6EPl"
+            },
+            {
+              "display_url": "x.com/Tonycolaaa/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Tonycolaaa/status/2096417658447053195",
+              "start": 36,
+              "url": "https://t.co/5OtqUA8fBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096430952863986026",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096430947159695360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096417658447053195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次被外国网友发这个 https://t.co/BBHYEc6EPl https://t.co/5OtqUA8fBh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/我的小猫叫卡尔🐱/msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096439313013879018",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 624,
+          "like_count": 1700,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096430952863986026",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884745808605818880/1759586488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 600,
+          "like_count": 203939,
+          "listed_count": 6,
+          "media_count": 1607,
+          "tweet_count": 22776
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

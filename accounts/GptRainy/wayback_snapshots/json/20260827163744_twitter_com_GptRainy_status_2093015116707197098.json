@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092933860929733021",
+    "created_at": "2026-08-27T16:37:44.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093015116707197098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851254945984741376",
+          "start": 0,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093015116707197098",
+    "in_reply_to_user_id": "1851254945984741376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092933860929733021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastExeX01 哪怕是上海30块钱也能吃饱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092933860929733021",
+        "created_at": "2026-08-27T16:37:44.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093015116707197098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093015116707197098",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092933860929733021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 哪怕是上海30块钱也能吃饱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "conversation_id": "2092933860929733021",
+        "created_at": "2026-08-27T11:14:51.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092933860929733021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092933860929733021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1682,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得中推圈在讨论大学一个月该给多少钱之前，先明确一个前提条件：在中国哪里的大学？ \n一顿饭，在我住的乡镇县城，找个平价馆子四五块钱能吃撑，十几块钱能吃的很好，自己做饭还能更便宜。\n在距离我不到五十公里的市区和经济特区，上面那个数字，后面就得加上个0。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/历史/哲学/语言学/电影/摇滚/双相/0d/请和我交朋友/欢迎PM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093015116707197098",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 558,
+          "like_count": 1192,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍🌈🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸🇲🇽🇰🇷🇰🇿│现代主义、进步和理性│穆斯塔法凯末尔帕夏万岁万万岁！",
+        "id": "1851254945984741376",
+        "is_identity_verified": false,
+        "location": "在伊兹密尔的山岗上",
+        "most_recent_tweet_id": "2092942884773470208",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2087758096370409944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851254945984741376/1780829822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063881024455741440/McWFMVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 525,
+          "like_count": 24105,
+          "listed_count": 6,
+          "media_count": 1183,
+          "tweet_count": 10291
+        },
+        "url": "",
+        "username": "LastExeX01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

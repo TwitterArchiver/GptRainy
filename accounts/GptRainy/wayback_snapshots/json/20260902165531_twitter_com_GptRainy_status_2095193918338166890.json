@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095193918338166890",
+    "created_at": "2026-09-02T16:55:31.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:55:12.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095193836591178118",
+      "2095193918338166890"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095193918338166890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么身份证要写性别和民族，难道身份证要写喜欢可口可乐还是百事可乐，喜欢咸汤圆还是甜汤圆吗，扁平足，脚臭，残疾吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095193836591178118",
+        "created_at": "2026-09-02T16:55:12.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:55:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095193836591178118",
+          "2095193918338166890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095193836591178118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么身份正要写性别和民族，难道身份证要写喜欢可口可乐还是百事可乐，喜欢咸汤圆还是甜汤圆吗，扁平足，脚臭，残疾吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095193918338166890",
+        "created_at": "2026-09-02T16:55:31.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:55:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095193836591178118",
+          "2095193918338166890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095193918338166890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么身份证要写性别和民族，难道身份证要写喜欢可口可乐还是百事可乐，喜欢咸汤圆还是甜汤圆吗，扁平足，脚臭，残疾吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095193918338166890",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 615,
+          "like_count": 1568,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

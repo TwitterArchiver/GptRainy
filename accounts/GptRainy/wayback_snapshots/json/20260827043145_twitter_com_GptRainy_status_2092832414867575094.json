@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2091172856160035021",
+    "created_at": "2026-08-27T04:31:45.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092832414867575094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092832414867575094",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091172856160035021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 拉我嘴里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2091172856160035021",
+        "created_at": "2026-08-27T04:31:45.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092832414867575094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092832414867575094",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091172856160035021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 拉我嘴里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2091172856160035021",
+        "created_at": "2026-08-22T14:37:15.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091172856160035021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091172856160035021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1737,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "便秘时通过灌肠解决真的好吗，频繁这么做身体怕是会形成依赖和肠道损伤吧，但几天都拉不出后通过灌肠排出真的很爽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092832414867575094",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 551,
+          "like_count": 1171,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "姓名：夜鸟 | 个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/美学 | 品牌偏好：麦当劳/Apple",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2092827718077558943",
+        "name": "HongSword",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1786584787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088853611782737920/CuymVfe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 482,
+          "like_count": 39221,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 9137
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "sword_1003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

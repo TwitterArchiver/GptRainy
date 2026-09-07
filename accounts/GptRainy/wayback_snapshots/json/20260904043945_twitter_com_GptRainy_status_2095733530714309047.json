@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095717717969887741",
+    "created_at": "2026-09-04T04:39:45.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095733530714309047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913923272489730048",
+          "start": 0,
+          "username": "yukine1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095733530714309047",
+    "in_reply_to_user_id": "1913923272489730048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095731607571464612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukine1949 是的，还有齐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095717717969887741",
+        "created_at": "2026-09-04T04:39:45.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095733530714309047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913923272489730048",
+              "start": 0,
+              "username": "yukine1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095733530714309047",
+        "in_reply_to_user_id": "1913923272489730048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095731607571464612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukine1949 是的，还有齐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913923272489730048",
+        "conversation_id": "2095717717969887741",
+        "created_at": "2026-09-04T04:32:06.000Z",
+        "display_text_range": [
+          10,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095731607571464612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095731607571464612",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095717717969887741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 说起来，明清山东是简称“东省”的，后来为了避免与东北三省混淆，再加上后来出现韵目代日的写法用于电报，韵目中就有“一东”，所以才改为鲁省。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/我的小猫叫卡尔🐱/msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095733530714309047",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 623,
+          "like_count": 1634,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-20T11:50:58.000Z",
+        "description": "雪の音かも/左寄り/MtX/百合好き/文学人類学/東シナ海の歴史人類学\n¿Qué culpa tengo yo de tener la sangre roja y el corazón a la izquierda?\n東アジア海域を超える連帯こそ求めるべし",
+        "id": "1913923272489730048",
+        "is_identity_verified": false,
+        "location": "至るべき処｜原账号:摩诃思莎杜何歌",
+        "most_recent_tweet_id": "2095731607571464612",
+        "name": "花岡ゆきね",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913923272489730048/1745151422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913925002556321792/aVG3lgNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 821,
+          "like_count": 13383,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "yukine1949",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

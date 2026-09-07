@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095054923855704561",
+    "created_at": "2026-09-02T07:43:12.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095054923855704561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043550397252665344",
+          "start": 3,
+          "username": "Akihilyii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095054923855704561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094855724753158238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akihilyii: 好想跟…一个…只会喜欢我的人..谈恋爱….长长久久的...平淡淡的恋爱..稳稳的幸福.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095054923855704561",
+        "created_at": "2026-09-02T07:43:12.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095054923855704561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043550397252665344",
+              "start": 3,
+              "username": "Akihilyii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095054923855704561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094855724753158238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akihilyii: 好想跟…一个…只会喜欢我的人..谈恋爱….长长久久的...平淡淡的恋爱..稳稳的幸福.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043550397252665344",
+        "conversation_id": "2094855724753158238",
+        "created_at": "2026-09-01T18:31:39.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T19:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094855724753158238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094855724753158238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6390,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "好想跟…一个…只会喜欢我的人..谈恋爱….长长久久的...平淡淡的恋爱..稳稳的幸福.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/ASD/LLM重度依赖/19yo/communist/全域解放/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095054923855704561",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 565,
+          "like_count": 1485,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 881
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T04:43:55.000Z",
+        "description": "我对你彻底不抱期望了",
+        "id": "2043550397252665344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094855724753158238",
+        "name": "Mako",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043550397252665344/1787758941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092638735666180096/-LyTaPLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 1,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Akihilyii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095043159155782098",
+    "created_at": "2026-09-02T07:14:22.000Z",
+    "display_text_range": [
+      12,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095047667525009491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1310330776148377604",
+          "start": 0,
+          "username": "_Adbuzese_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095047667525009491",
+    "in_reply_to_user_id": "1310330776148377604",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095043159155782098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Adbuzese_ Я не ходил в школу четыре года"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095043159155782098",
+        "created_at": "2026-09-02T07:14:22.000Z",
+        "display_text_range": [
+          12,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095047667525009491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1310330776148377604",
+              "start": 0,
+              "username": "_Adbuzese_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095047667525009491",
+        "in_reply_to_user_id": "1310330776148377604",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095043159155782098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Adbuzese_ Я не ходил в школу четыре года"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310330776148377604",
+        "conversation_id": "2095043159155782098",
+        "created_at": "2026-09-02T06:56:27.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095043159155782098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095043159155782098",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Как у вас началась учеба, друзья? В школах, колледжах и университетах?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/ASD/LLM重度依赖/19yo/communist/全域解放/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095047667525009491",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 565,
+          "like_count": 1459,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-27T21:29:56.000Z",
+        "description": "Картавый блогер по визуальным новеллам и просто твиттерских шиз",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Adbuzese",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@Adbuzese",
+                "start": 0,
+                "url": "https://t.co/YGMLa1s3HJ"
+              }
+            ]
+          }
+        },
+        "id": "1310330776148377604",
+        "is_identity_verified": false,
+        "location": "Вязники/Москвабад",
+        "most_recent_tweet_id": "2095047140707848437",
+        "name": "ArbuzChan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310330776148377604/1740671075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081398831283916800/EDi0_WAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5277,
+          "following_count": 397,
+          "like_count": 54698,
+          "listed_count": 36,
+          "media_count": 1272,
+          "tweet_count": 5584
+        },
+        "url": "https://t.co/YGMLa1s3HJ",
+        "username": "_Adbuzese_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095818056253706651",
+    "created_at": "2026-09-04T10:39:40.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095824106570863017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672895761996972033",
+          "start": 0,
+          "username": "WilliamPAdH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095824106570863017",
+    "in_reply_to_user_id": "1672895761996972033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095823894863024374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamPAdH 啊？加里宁大街吗这也不像吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095818056253706651",
+        "created_at": "2026-09-04T10:39:40.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095824106570863017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672895761996972033",
+              "start": 0,
+              "username": "WilliamPAdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095824106570863017",
+        "in_reply_to_user_id": "1672895761996972033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095823894863024374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamPAdH 啊？加里宁大街吗这也不像吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672895761996972033",
+        "conversation_id": "2095818056253706651",
+        "created_at": "2026-09-04T10:38:49.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095823894863024374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095823894863024374",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095818056253706651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 好看喵，是勃列日涅夫式"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/我的小猫叫卡尔🐱/msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095824106570863017",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 623,
+          "like_count": 1655,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T09:13:42.000Z",
+        "description": "疯狂宇宙大狸花",
+        "id": "1672895761996972033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095823894863024374",
+        "name": "William Ivanenko的2号（推友寻回中）",
+        "pinned_tweet_id": "2095092206117724374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672895761996972033/1787402231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091142532889518080/Nk-LeePV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 213,
+          "like_count": 2204,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "WilliamPAdH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094404934871744853",
+    "created_at": "2026-09-02T01:23:26.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T02:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094959350699930112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683727359000846338",
+          "start": 0,
+          "username": "iamnotferrari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094959350699930112",
+    "in_reply_to_user_id": "1683727359000846338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094813465349415077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamnotferrari 🤣有没有可能我根本不用上班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094404934871744853",
+        "created_at": "2026-09-02T01:23:26.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094959350699930112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683727359000846338",
+              "start": 0,
+              "username": "iamnotferrari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094959350699930112",
+        "in_reply_to_user_id": "1683727359000846338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094813465349415077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamnotferrari 🤣有没有可能我根本不用上班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683727359000846338",
+        "conversation_id": "2094404934871744853",
+        "created_at": "2026-09-01T15:43:44.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094813465349415077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094813465349415077",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094404934871744853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 筛掉的就是你这样的人🤣🫵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/全域解放/CS Dev💻/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094959350699930112",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 562,
+          "like_count": 1411,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-25T06:34:32.000Z",
+        "description": "i dont really post so dont randomly judge me like i am a burner account\nCN",
+        "id": "1683727359000846338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094814085087191219",
+        "name": "i am not ferrari",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768119796187738112/DBCfGaUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "iamnotferrari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095160411222077559",
+    "created_at": "2026-09-02T14:42:22.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095160411222077559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MzSgtPepper/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/MzSgtPepper/status/2094842028731609135",
+          "start": 6,
+          "url": "https://t.co/QzMbDeOBpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095160411222077559",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094842028731609135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑的。。 https://t.co/QzMbDeOBpw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095160411222077559",
+        "created_at": "2026-09-02T14:42:22.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095160411222077559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MzSgtPepper/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/MzSgtPepper/status/2094842028731609135",
+              "start": 6,
+              "url": "https://t.co/QzMbDeOBpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095160411222077559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094842028731609135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的。。 https://t.co/QzMbDeOBpw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "805519456210325504",
+        "conversation_id": "2094842028731609135",
+        "created_at": "2026-09-01T17:37:14.000Z",
+        "display_text_range": [
+          0,
+          265
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094842028731609135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094842028731609135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1236,
+          "impression_count": 374000,
+          "like_count": 55068,
+          "quote_count": 57,
+          "reply_count": 78,
+          "retweet_count": 9321
+        },
+        "reply_settings": "everyone",
+        "text": "RFK Jr testified in his divorce proceedings that he was too brain damaged to work so therefore couldn’t pay alimony. \n\nHe is now the Secretary of Health and Human Services. Our food is poisoned and measles is on the rise. \n\nThanks for your attention to this matter."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095160411222077559",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 595,
+          "like_count": 1536,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-12-04T21:09:39.000Z",
+        "description": "And in the end, the love you take is equal to the love you. I ignore DMs.",
+        "id": "805519456210325504",
+        "is_identity_verified": false,
+        "location": "Pepperland",
+        "most_recent_tweet_id": "2094909188472480203",
+        "name": "Sgt Pepper",
+        "pinned_tweet_id": "2072717923014373632",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/805519456210325504/1780242036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092444315922702336/f5b27rfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43172,
+          "following_count": 24873,
+          "like_count": 108097,
+          "listed_count": 15,
+          "media_count": 9343,
+          "tweet_count": 59210
+        },
+        "url": "",
+        "username": "MzSgtPepper",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

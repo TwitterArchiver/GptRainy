@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094300581221502977",
+        "3_2094300654357655552"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094300726499652067",
+    "created_at": "2026-08-31T05:46:18.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T06:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094300726499652067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eJgI9DrAi8",
+          "end": 53,
+          "expanded_url": "https://x.com/GptRainy/status/2094300726499652067/photo/1",
+          "media_key": "3_2094300581221502977",
+          "start": 30,
+          "url": "https://t.co/eJgI9DrAi8"
+        },
+        {
+          "display_url": "pic.x.com/eJgI9DrAi8",
+          "end": 53,
+          "expanded_url": "https://x.com/GptRainy/status/2094300726499652067/photo/1",
+          "media_key": "3_2094300654357655552",
+          "start": 30,
+          "url": "https://t.co/eJgI9DrAi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094300726499652067",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094300581221502977"
+      },
+      {
+        "media_key": "3_2094300654357655552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我到哪里哪里下暴雨啊啊啊\n不过雨中的城市还挺好看的🐱 https://t.co/eJgI9DrAi8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094300581221502977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBzSFSaEAEx8GY.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2094300654357655552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBzWVvbMAAyUDn.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094300581221502977",
+            "3_2094300654357655552"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094300726499652067",
+        "created_at": "2026-08-31T05:46:18.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094300726499652067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJgI9DrAi8",
+              "end": 53,
+              "expanded_url": "https://x.com/GptRainy/status/2094300726499652067/photo/1",
+              "media_key": "3_2094300581221502977",
+              "start": 30,
+              "url": "https://t.co/eJgI9DrAi8"
+            },
+            {
+              "display_url": "pic.x.com/eJgI9DrAi8",
+              "end": 53,
+              "expanded_url": "https://x.com/GptRainy/status/2094300726499652067/photo/1",
+              "media_key": "3_2094300654357655552",
+              "start": 30,
+              "url": "https://t.co/eJgI9DrAi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094300726499652067",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094300581221502977"
+          },
+          {
+            "media_key": "3_2094300654357655552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我到哪里哪里下暴雨啊啊啊\n不过雨中的城市还挺好看的🐱 https://t.co/eJgI9DrAi8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷🇰🇷/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094300726499652067",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 540,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

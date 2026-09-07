@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095043951548092455",
+    "created_at": "2026-09-02T07:13:44.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095047506099068937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969310423322411010",
+          "start": 0,
+          "username": "XiaoTian258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095047506099068937",
+    "in_reply_to_user_id": "1969310423322411010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095043951548092455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoTian258 cc和omp哪个好用呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_2095043925673418752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMXWbKaoAAlesA.jpg",
+        "width": 1417
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095043951548092455",
+        "created_at": "2026-09-02T07:13:44.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095047506099068937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969310423322411010",
+              "start": 0,
+              "username": "XiaoTian258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095047506099068937",
+        "in_reply_to_user_id": "1969310423322411010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095043951548092455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoTian258 cc和omp哪个好用呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095043925673418752"
+          ]
+        },
+        "author_id": "1969310423322411010",
+        "conversation_id": "2095043951548092455",
+        "created_at": "2026-09-02T06:59:36.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095043951548092455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZyVPD8rkG",
+              "end": 41,
+              "expanded_url": "https://x.com/XiaoTian258/status/2095043951548092455/photo/1",
+              "media_key": "3_2095043925673418752",
+              "start": 18,
+              "url": "https://t.co/5ZyVPD8rkG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095043951548092455",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095043925673418752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又回到cc的怀抱了, 很安心的感觉 https://t.co/5ZyVPD8rkG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/ASD/LLM重度依赖/19yo/communist/全域解放/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095047506099068937",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 565,
+          "like_count": 1459,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-20T07:59:37.000Z",
+        "description": "法律相关从业者, AI+法律 让AI赋能行业\nTAG: AI/金融/Web3\n座右铭: 不宜妄自菲薄",
+        "id": "1969310423322411010",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095045234694738390",
+        "name": "XTian",
+        "pinned_tweet_id": "2086833262694113430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969310423322411010/1785119493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081534525830782976/3uwmCYqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 371,
+          "like_count": 4738,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 3435
+        },
+        "url": "",
+        "username": "XiaoTian258",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

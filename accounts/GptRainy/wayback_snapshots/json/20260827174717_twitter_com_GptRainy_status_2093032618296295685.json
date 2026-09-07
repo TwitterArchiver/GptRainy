@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2093032419712442704",
+    "created_at": "2026-08-27T17:47:17.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093032618296295685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1732763258325762048",
+          "start": 0,
+          "username": "AmeAsukaLangley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093032618296295685",
+    "in_reply_to_user_id": "1732763258325762048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093032419712442704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeAsukaLangley 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2093032419712442704",
+        "created_at": "2026-08-27T17:47:17.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093032618296295685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093032618296295685",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093032419712442704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2093032419712442704",
+        "created_at": "2026-08-27T17:46:30.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093032419712442704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093032419712442704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是不上进真的不是我的问题啊...我要是有爹妈给我的人生铺路告诉我只要这样那样然后就可以有个稳定的生活的话我绝对会照做的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友/欢迎PM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093032618296295685",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 536,
+          "like_count": 1201,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2093032419712442704",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 387,
+          "like_count": 33598,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3078
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

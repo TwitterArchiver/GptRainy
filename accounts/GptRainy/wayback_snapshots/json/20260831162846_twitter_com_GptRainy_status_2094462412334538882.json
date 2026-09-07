@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094300726499652067",
+    "created_at": "2026-08-31T16:28:46.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094462412334538882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408875648211292161",
+          "start": 0,
+          "username": "_SeeLe_VoLLereI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094462412334538882",
+    "in_reply_to_user_id": "1408875648211292161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094458322229645464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SeeLe_VoLLereI 小雨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094300726499652067",
+        "created_at": "2026-08-31T16:28:46.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094462412334538882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408875648211292161",
+              "start": 0,
+              "username": "_SeeLe_VoLLereI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094462412334538882",
+        "in_reply_to_user_id": "1408875648211292161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094458322229645464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SeeLe_VoLLereI 小雨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408875648211292161",
+        "conversation_id": "2094300726499652067",
+        "created_at": "2026-08-31T16:12:31.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094458322229645464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094458322229645464",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094300726499652067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 和ID配合的很好（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094462412334538882",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 542,
+          "like_count": 1317,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T19:51:53.000Z",
+        "description": "算是友跨吧，🏳‍🌈🏳‍⚧支持性少数平权，反对极端民族主义、极端跨。喜欢打CS、涩涩贴贴。有时键政。好姬友@LilyBouquet__，喜欢kig的姐姐@Akirayu17，涩仆人@ssxiaojin，小猫@kashubosan1，负能里号@Dark__Seele，知识启蒙姐姐@Emma20131621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "LilyBouquet__"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "Akirayu17"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "ssxiaojin"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "kashubosan1"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Dark__Seele"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Emma20131621"
+              }
+            ]
+          }
+        },
+        "id": "1408875648211292161",
+        "is_identity_verified": false,
+        "location": "现实中无法存在的乌托邦",
+        "most_recent_tweet_id": "2094461056169209903",
+        "name": "Seele",
+        "pinned_tweet_id": "1602697613177892864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408875648211292161/1662209759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034839096741498880/Puq4LuLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4017,
+          "following_count": 1900,
+          "like_count": 111106,
+          "listed_count": 12,
+          "media_count": 2223,
+          "tweet_count": 16903
+        },
+        "url": "",
+        "username": "_SeeLe_VoLLereI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

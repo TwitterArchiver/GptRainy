@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2087009047211839594",
+    "created_at": "2026-08-27T12:50:48.000Z",
+    "display_text_range": [
+      39,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092958004056588358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2056547558462480384",
+          "start": 0,
+          "username": "Eliserette"
+        },
+        {
+          "end": 23,
+          "id": "1558967960621940739",
+          "start": 12,
+          "username": "jamyunfeng"
+        },
+        {
+          "end": 38,
+          "id": "2014293353269997568",
+          "start": 24,
+          "username": "paperly_forge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092958004056588358",
+    "in_reply_to_user_id": "2056547558462480384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087398081428095431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eliserette @jamyunfeng @paperly_forge 🤣你bio写的你自己看过吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2087009047211839594",
+        "created_at": "2026-08-27T12:50:48.000Z",
+        "display_text_range": [
+          39,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092958004056588358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2056547558462480384",
+              "start": 0,
+              "username": "Eliserette"
+            },
+            {
+              "end": 23,
+              "id": "1558967960621940739",
+              "start": 12,
+              "username": "jamyunfeng"
+            },
+            {
+              "end": 38,
+              "id": "2014293353269997568",
+              "start": 24,
+              "username": "paperly_forge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092958004056588358",
+        "in_reply_to_user_id": "2056547558462480384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087398081428095431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eliserette @jamyunfeng @paperly_forge 🤣你bio写的你自己看过吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056547558462480384",
+        "conversation_id": "2087009047211839594",
+        "created_at": "2026-08-12T04:37:39.000Z",
+        "display_text_range": [
+          27,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087398081428095431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558967960621940739",
+              "start": 0,
+              "username": "jamyunfeng"
+            },
+            {
+              "end": 26,
+              "id": "2014293353269997568",
+              "start": 12,
+              "username": "paperly_forge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087398081428095431",
+        "in_reply_to_user_id": "1558967960621940739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087009047211839594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamyunfeng @paperly_forge 该死，违背自然规律的出生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/历史/哲学/语言学/电影/摇滚/双相/0d/请和我交朋友/欢迎PM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092958004056588358",
+        "name": "小雨🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 558,
+          "like_count": 1177,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T01:28:57.000Z",
+        "description": "右派，反跨，反LGBT，性别本质主义，福音派新教徒，基督教保守主义者，奥地利学派，哈耶克信徒，女性主义者",
+        "id": "2056547558462480384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092933160929816580",
+        "name": "𝑬𝑳𝑰𝑺𝑬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056547558462480384/1787512800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091616501157826560/wMTCN7UW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Eliserette",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-15T00:05:18.000Z",
+        "description": "CHN高中鼪，丢嘞老牟，\n跨🏳️‍⚧️，无证含糖hrt 2026/08/14 地下党，LGBT友好🏳️‍🌈🏳️‍⚧️\n全名：云iClaude；牢二次元，无用的心理委员，会点电脑\n老北京的，原先内蒙古birth，遣送到浙江金华上学（大市内游荡）\n国语很差🇹🇼，英语特别好🇺🇸，被人骂崇洋媚外（坏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bmyf.uk",
+                "end": 23,
+                "expanded_url": "http://www.bmyf.uk",
+                "start": 0,
+                "url": "https://t.co/CKvL4MTPIm"
+              }
+            ]
+          }
+        },
+        "id": "1558967960621940739",
+        "is_identity_verified": true,
+        "location": "Zhejiang, mainland China",
+        "most_recent_tweet_id": "2092937351937069266",
+        "name": "iC1aude🏳️‍⚧️",
+        "pinned_tweet_id": "2086507630781141211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558967960621940739/1775530594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087902323125436416/tYlmuQPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 99,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/CKvL4MTPIm",
+        "username": "jamyunfeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T11:05:38.000Z",
+        "description": "生产日期2011.7.10的一只mtf🍥喵\nHRT26.5.29 ISTJ\n176.5 68kg脸丑麻了喵   姐姐@QY_xier\n已有对象@SYFSASN\n计算机爱好者化学爱好者\n人很好说话的喵常驻义乌可以找我面基喵\n欢迎互fo和聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "QY_xier"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "SYFSASN"
+              }
+            ]
+          }
+        },
+        "id": "2014293353269997568",
+        "is_identity_verified": true,
+        "location": "中国大陆 浙江",
+        "most_recent_tweet_id": "2091439668277698942",
+        "name": "🍥星に祈りを🏳️‍⚧️",
+        "pinned_tweet_id": "2086164249353822506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014293353269997568/1786211904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086638845916041216/1CoZSOmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 259,
+          "like_count": 1296,
+          "listed_count": 7,
+          "media_count": 47,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "paperly_forge",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

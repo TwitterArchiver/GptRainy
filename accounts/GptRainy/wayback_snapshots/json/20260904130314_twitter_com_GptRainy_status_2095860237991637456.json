@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095860237991637456",
+    "created_at": "2026-09-04T13:03:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095860237991637456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095860237991637456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095791664275276057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 對你溫柔、對你細膩、共情男人（共情你）被你視為是好品質；而共情女人的人就去打女權去了，她們在乎的話題也只會被你打成「男女對立」。把「不男女對立」作為褒獎，就是說「對性別矛盾視而不見的才是好女人」、「不支持女性反抗男性中心的性別秩序才是好女…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095860237991637456",
+        "created_at": "2026-09-04T13:03:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095860237991637456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095860237991637456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095791664275276057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 對你溫柔、對你細膩、共情男人（共情你）被你視為是好品質；而共情女人的人就去打女權去了，她們在乎的話題也只會被你打成「男女對立」。把「不男女對立」作為褒獎，就是說「對性別矛盾視而不見的才是好女人」、「不支持女性反抗男性中心的性別秩序才是好女…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2095791664275276057",
+        "created_at": "2026-09-04T08:30:45.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095791664275276057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/galaxy1025850/…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/galaxy1025850/status/2056053373552803993",
+              "start": 123,
+              "url": "https://t.co/925KRJXU0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095791664275276057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056053373552803993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "對你溫柔、對你細膩、共情男人（共情你）被你視為是好品質；而共情女人的人就去打女權去了，她們在乎的話題也只會被你打成「男女對立」。把「不男女對立」作為褒獎，就是說「對性別矛盾視而不見的才是好女人」、「不支持女性反抗男性中心的性別秩序才是好女人」。 https://t.co/925KRJXU0e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/我的小猫叫卡尔🐱/msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095860237991637456",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 622,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "永愛@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095859402117165273",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2093991202240799012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489468526826082312/1788430856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095337808907079681/-TWxj_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 211,
+          "like_count": 17792,
+          "listed_count": 3,
+          "media_count": 549,
+          "tweet_count": 13194
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

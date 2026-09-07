@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094989069407469568",
+        "3_2094989088231403520",
+        "3_2094989107797823488",
+        "3_2094989124927442944"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094989140819365987",
+    "created_at": "2026-09-02T03:21:48.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094989140819365987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lyNFefpf8i",
+          "end": 57,
+          "expanded_url": "https://x.com/GptRainy/status/2094989140819365987/photo/1",
+          "media_key": "3_2094989069407469568",
+          "start": 34,
+          "url": "https://t.co/lyNFefpf8i"
+        },
+        {
+          "display_url": "pic.x.com/lyNFefpf8i",
+          "end": 57,
+          "expanded_url": "https://x.com/GptRainy/status/2094989140819365987/photo/1",
+          "media_key": "3_2094989088231403520",
+          "start": 34,
+          "url": "https://t.co/lyNFefpf8i"
+        },
+        {
+          "display_url": "pic.x.com/lyNFefpf8i",
+          "end": 57,
+          "expanded_url": "https://x.com/GptRainy/status/2094989140819365987/photo/1",
+          "media_key": "3_2094989107797823488",
+          "start": 34,
+          "url": "https://t.co/lyNFefpf8i"
+        },
+        {
+          "display_url": "pic.x.com/lyNFefpf8i",
+          "end": 57,
+          "expanded_url": "https://x.com/GptRainy/status/2094989140819365987/photo/1",
+          "media_key": "3_2094989124927442944",
+          "start": 34,
+          "url": "https://t.co/lyNFefpf8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094989140819365987",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094989069407469568"
+      },
+      {
+        "media_key": "3_2094989088231403520"
+      },
+      {
+        "media_key": "3_2094989107797823488"
+      },
+      {
+        "media_key": "3_2094989124927442944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偶遇公山的敬老活动\n唱的还是很有年代感的trot\n\n和中国吃席好像 https://t.co/lyNFefpf8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094989069407469568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLldXpbwAAhF_8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094989088231403520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLledxaMAAWWmk.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2094989107797823488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLlfmqaEAA38uN.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2094989124927442944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLlgmebUAAtnMH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094989069407469568",
+            "3_2094989088231403520",
+            "3_2094989107797823488",
+            "3_2094989124927442944"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094989140819365987",
+        "created_at": "2026-09-02T03:21:48.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094989140819365987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyNFefpf8i",
+              "end": 57,
+              "expanded_url": "https://x.com/GptRainy/status/2094989140819365987/photo/1",
+              "media_key": "3_2094989069407469568",
+              "start": 34,
+              "url": "https://t.co/lyNFefpf8i"
+            },
+            {
+              "display_url": "pic.x.com/lyNFefpf8i",
+              "end": 57,
+              "expanded_url": "https://x.com/GptRainy/status/2094989140819365987/photo/1",
+              "media_key": "3_2094989088231403520",
+              "start": 34,
+              "url": "https://t.co/lyNFefpf8i"
+            },
+            {
+              "display_url": "pic.x.com/lyNFefpf8i",
+              "end": 57,
+              "expanded_url": "https://x.com/GptRainy/status/2094989140819365987/photo/1",
+              "media_key": "3_2094989107797823488",
+              "start": 34,
+              "url": "https://t.co/lyNFefpf8i"
+            },
+            {
+              "display_url": "pic.x.com/lyNFefpf8i",
+              "end": 57,
+              "expanded_url": "https://x.com/GptRainy/status/2094989140819365987/photo/1",
+              "media_key": "3_2094989124927442944",
+              "start": 34,
+              "url": "https://t.co/lyNFefpf8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094989140819365987",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094989069407469568"
+          },
+          {
+            "media_key": "3_2094989088231403520"
+          },
+          {
+            "media_key": "3_2094989107797823488"
+          },
+          {
+            "media_key": "3_2094989124927442944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶遇公山的敬老活动\n唱的还是很有年代感的trot\n\n和中国吃席好像 https://t.co/lyNFefpf8i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/全域解放/CS Dev💻/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094989140819365987",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 562,
+          "like_count": 1418,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

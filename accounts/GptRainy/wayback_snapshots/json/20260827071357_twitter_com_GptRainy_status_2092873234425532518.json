@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092557927290654790",
+    "created_at": "2026-08-27T07:13:57.000Z",
+    "display_text_range": [
+      24,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092873234425532518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956073529449046017",
+          "start": 0,
+          "username": "ethrlmind"
+        },
+        {
+          "end": 23,
+          "id": "291287276",
+          "start": 11,
+          "username": "adamndsmith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092873234425532518",
+    "in_reply_to_user_id": "1956073529449046017",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092653636681633928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethrlmind @adamndsmith Do you think homeless people don't deserve plush toys?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092557927290654790",
+        "created_at": "2026-08-27T07:13:57.000Z",
+        "display_text_range": [
+          24,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092873234425532518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956073529449046017",
+              "start": 0,
+              "username": "ethrlmind"
+            },
+            {
+              "end": 23,
+              "id": "291287276",
+              "start": 11,
+              "username": "adamndsmith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092873234425532518",
+        "in_reply_to_user_id": "1956073529449046017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092653636681633928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethrlmind @adamndsmith Do you think homeless people don't deserve plush toys?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956073529449046017",
+        "conversation_id": "2092557927290654790",
+        "created_at": "2026-08-26T16:41:21.000Z",
+        "display_text_range": [
+          13,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092653636681633928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "291287276",
+              "start": 0,
+              "username": "adamndsmith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092653636681633928",
+        "in_reply_to_user_id": "291287276",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11994,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092557927290654790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adamndsmith Do you think a $50 Mario plush is actually a wise financial decision for someone in this situation or are you joking"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092873234425532518",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 552,
+          "like_count": 1176,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T19:20:56.000Z",
+        "description": "I build hyperscale datacenters and slop AI apps",
+        "id": "1956073529449046017",
+        "is_identity_verified": false,
+        "location": "Washington, DC",
+        "most_recent_tweet_id": "2092845242877673617",
+        "name": "Ethereal Developer",
+        "pinned_tweet_id": "2018954673882030308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956073529449046017/1769285721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016256575640403970/nVXONwrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 327,
+          "like_count": 4817,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 1733
+        },
+        "url": "",
+        "username": "ethrlmind",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-01T19:08:50.000Z",
+        "description": "Researcher and writer | Follow for politics and tech news | Subscribe to my Substack | Formerly @contextnewsroom @independent | Signal: adam.314 | he/him",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "contextnewsroom"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "independent"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wealthofnotions.substack.com",
+                "end": 23,
+                "expanded_url": "http://wealthofnotions.substack.com",
+                "start": 0,
+                "url": "https://t.co/AyiPTGqeDP"
+              }
+            ]
+          }
+        },
+        "id": "291287276",
+        "is_identity_verified": false,
+        "location": "UK",
+        "most_recent_tweet_id": "2092870715821224105",
+        "name": "Adam Smith",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291287276/1577018366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711764776152363008/UtmcEao-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18303,
+          "following_count": 1925,
+          "like_count": 2658,
+          "listed_count": 179,
+          "media_count": 1284,
+          "tweet_count": 4803
+        },
+        "url": "https://t.co/AyiPTGqeDP",
+        "username": "adamndsmith",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

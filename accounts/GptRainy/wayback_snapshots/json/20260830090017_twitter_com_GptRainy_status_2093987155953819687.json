@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2093987155953819687",
+    "created_at": "2026-08-30T09:00:17.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093987155953819687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Himiko_1314/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Himiko_1314/status/2092589362391462125",
+          "start": 6,
+          "url": "https://t.co/d8EG3YEMYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093987155953819687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092589362391462125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我笑抽了 https://t.co/d8EG3YEMYu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1621,
+        "media_key": "3_2092589353973493761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpe7jBasAENL7Y.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2093987155953819687",
+        "created_at": "2026-08-30T09:00:17.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093987155953819687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Himiko_1314/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Himiko_1314/status/2092589362391462125",
+              "start": 6,
+              "url": "https://t.co/d8EG3YEMYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093987155953819687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092589362391462125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我笑抽了 https://t.co/d8EG3YEMYu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092589353973493761"
+          ]
+        },
+        "author_id": "2031381077814816777",
+        "conversation_id": "2092589362391462125",
+        "created_at": "2026-08-26T12:25:57.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092589362391462125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tinN5Jzagr",
+              "end": 34,
+              "expanded_url": "https://x.com/697zy/status/2092589362391462125/photo/1",
+              "media_key": "3_2092589353973493761",
+              "start": 11,
+              "url": "https://t.co/tinN5Jzagr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092589362391462125",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092589353973493761"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 109028,
+          "like_count": 1725,
+          "quote_count": 9,
+          "reply_count": 257,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "根本就没有这些部门😭 https://t.co/tinN5Jzagr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093987155953819687",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 534,
+          "like_count": 1257,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T14:46:14.000Z",
+        "description": "安卓支没有一个是无辜的\n支持马列⭕严父伟大领袖邓公图腊畜，真正的自由派才应该支持邓公。如果一个人不反🐱，那他还是人吗？\n境外自由派/境内反动派/邓卫兵",
+        "id": "2031381077814816777",
+        "is_identity_verified": false,
+        "location": "敌联盟",
+        "most_recent_tweet_id": "2093986800075497819",
+        "name": "渡我杯子",
+        "pinned_tweet_id": "2092844727389356349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031381077814816777/1787764626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090074833048776704/m5gLnjVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 56,
+          "like_count": 1677,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 1294
+        },
+        "url": "",
+        "username": "Himiko_1314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

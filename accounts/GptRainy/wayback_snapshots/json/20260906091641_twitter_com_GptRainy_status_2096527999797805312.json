@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096527986044588032"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2096527999797805312",
+    "created_at": "2026-09-06T09:16:41.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096527999797805312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jf4l1ID6Jy",
+          "end": 53,
+          "expanded_url": "https://x.com/GptRainy/status/2096527999797805312/photo/1",
+          "media_key": "3_2096527986044588032",
+          "start": 30,
+          "url": "https://t.co/jf4l1ID6Jy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096527999797805312",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096527986044588032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舊 朝鮮銀行 群山支店\n1922年竣工\n现为群山近代建筑馆 https://t.co/jf4l1ID6Jy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2096527986044588032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhdGG3aUAAKLo0.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096527986044588032"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2096527999797805312",
+        "created_at": "2026-09-06T09:16:41.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096527999797805312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jf4l1ID6Jy",
+              "end": 53,
+              "expanded_url": "https://x.com/GptRainy/status/2096527999797805312/photo/1",
+              "media_key": "3_2096527986044588032",
+              "start": 30,
+              "url": "https://t.co/jf4l1ID6Jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096527999797805312",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096527986044588032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舊 朝鮮銀行 群山支店\n1922年竣工\n现为群山近代建筑馆 https://t.co/jf4l1ID6Jy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/LLM重度依赖🖥️/19yo/communist/VOCALOID🎶/计科/历史/诗歌/哲学/语言学/交通/城市规划/我很无聊快来找我聊天🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong, People's Republic of China",
+        "most_recent_tweet_id": "2096527999797805312",
+        "name": "小雨🍥",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 626,
+          "like_count": 1720,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

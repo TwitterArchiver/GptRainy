@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095157406741549056"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095157415310471507",
+    "created_at": "2026-09-02T14:30:28.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095157415310471507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BDNZiuMgyz",
+          "end": 44,
+          "expanded_url": "https://x.com/GptRainy/status/2095157415310471507/photo/1",
+          "media_key": "3_2095157406741549056",
+          "start": 21,
+          "url": "https://t.co/BDNZiuMgyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095157415310471507",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095157406741549056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无论多小的城市都有love hotel吗 https://t.co/BDNZiuMgyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095157406741549056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN-j5Fb0AA5W28.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095157406741549056"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095157415310471507",
+        "created_at": "2026-09-02T14:30:28.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095157415310471507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDNZiuMgyz",
+              "end": 44,
+              "expanded_url": "https://x.com/GptRainy/status/2095157415310471507/photo/1",
+              "media_key": "3_2095157406741549056",
+              "start": 21,
+              "url": "https://t.co/BDNZiuMgyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095157415310471507",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095157406741549056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论多小的城市都有love hotel吗 https://t.co/BDNZiuMgyz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095157415310471507",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 595,
+          "like_count": 1536,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

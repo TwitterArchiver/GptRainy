@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092604982755561590",
+    "created_at": "2026-08-26T13:28:01.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092604982755561590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054196065172344832",
+          "start": 3,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092604982755561590",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069493204240744550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GptRainy: 【置顶&amp;自我介绍ver1.0】\n\n欢迎随时DM~超级无聊的小雨在此😇\nいつでもDMしてね〜超暇な雨ちゃんが待ってるよ😇、\n\n原6k粉账号被封，在此查看我的推文存档👇\n前垢、BANされちゃったの……ツイートのアーカイブはこっちで見てね♡\nhttps:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2069491009973805056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhPG-NaYAAaPml.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2069491535214006272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhPli4b0AAXYuV.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092604982755561590",
+        "created_at": "2026-08-26T13:28:01.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092604982755561590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054196065172344832",
+              "start": 3,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092604982755561590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069493204240744550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GptRainy: 【置顶&amp;自我介绍ver1.0】\n\n欢迎随时DM~超级无聊的小雨在此😇\nいつでもDMしてね〜超暇な雨ちゃんが待ってるよ😇、\n\n原6k粉账号被封，在此查看我的推文存档👇\n前垢、BANされちゃったの……ツイートのアーカイブはこっちで見てね♡\nhttps:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069491009973805056",
+            "3_2069491535214006272"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069493204240744550",
+        "created_at": "2026-06-23T18:50:03.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:46:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069492331733258502",
+          "2069493204240744550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 166,
+              "start": 152,
+              "tag": "闘病垢さんと仲良くなりたい"
+            }
+          ],
+          "urls": [
+            {
+              "description": "amecandy_x · 本地推文存档 收录 @amecandy_x 与 @cedar0s 的公开记录 存档地址：github.com/Ce-daros/amecandy_x_archive 项目地址：github.com/sjshb57/IncandescenceReader 本项目基于 GPL 3.0 协议开源，任何使用或分发均须遵守该协议。",
+              "display_url": "archive.angelkawaii.xyz",
+              "end": 145,
+              "expanded_url": "http://archive.angelkawaii.xyz",
+              "start": 122,
+              "status": 200,
+              "title": "白炽阅读器 · IncandescenceReader",
+              "unwound_url": "https://archive.angelkawaii.xyz/",
+              "url": "https://t.co/F5VoxWY4Mw"
+            },
+            {
+              "display_url": "pic.x.com/2bWwm4WkCO",
+              "end": 190,
+              "expanded_url": "https://x.com/GptRainy/status/2069493204240744550/photo/1",
+              "media_key": "3_2069491009973805056",
+              "start": 167,
+              "url": "https://t.co/2bWwm4WkCO"
+            },
+            {
+              "display_url": "pic.x.com/2bWwm4WkCO",
+              "end": 190,
+              "expanded_url": "https://x.com/GptRainy/status/2069493204240744550/photo/1",
+              "media_key": "3_2069491535214006272",
+              "start": 167,
+              "url": "https://t.co/2bWwm4WkCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069493204240744550",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2069491009973805056"
+          },
+          {
+            "media_key": "3_2069491535214006272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 162,
+                "start": 148,
+                "tag": "闘病垢さんと仲良くなりたい"
+              },
+              {
+                "end": 175,
+                "start": 163,
+                "tag": "闘病垢さんと繋がりたい"
+              },
+              {
+                "end": 180,
+                "start": 176,
+                "tag": "闘病垢"
+              },
+              {
+                "end": 193,
+                "start": 181,
+                "tag": "病み垢さんと繋がりたい"
+              },
+              {
+                "end": 207,
+                "start": 194,
+                "tag": "病み垢さんと仲良くしたい"
+              },
+              {
+                "end": 215,
+                "start": 208,
+                "tag": "私のトリセツ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "archive.angelkawaii.xyz",
+                "end": 141,
+                "expanded_url": "http://archive.angelkawaii.xyz",
+                "start": 118,
+                "url": "https://t.co/93UcE9rhx7"
+              }
+            ]
+          },
+          "text": "【置顶&自我介绍ver1.0】\n\n欢迎随时DM~超级无聊的小雨在此😇\nいつでもDMしてね〜超暇な雨ちゃんが待ってるよ😇、\n\n原6k粉账号被封，在此查看我的推文存档👇\n前垢、BANされちゃったの……ツイートのアーカイブはこっちで見てね♡\nhttps://t.co/93UcE9rhx7\n\n---\n\n#闘病垢さんと仲良くなりたい\n#闘病垢さんと繋がりたい\n#闘病垢 #病み垢さんと繋がりたい\n#病み垢さんと仲良くしたい #私のトリセツ"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7598,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【置顶&amp;自我介绍ver1.0】\n\n欢迎随时DM~超级无聊的小雨在此😇\nいつでもDMしてね〜超暇な雨ちゃんが待ってるよ😇、\n\n原6k粉账号被封，在此查看我的推文存档👇\n前垢、BANされちゃったの……ツイートのアーカイブはこっちで見てね♡\nhttps://t.co/F5VoxWY4Mw\n\n---\n\n#闘病垢さんと仲良くなりたい https://t.co/2bWwm4WkCO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092604982755561590",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 546,
+          "like_count": 1160,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

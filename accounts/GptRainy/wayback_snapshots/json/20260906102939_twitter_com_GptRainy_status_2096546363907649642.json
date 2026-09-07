@@ -1,0 +1,627 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1354881137114402818",
+          "name": "HasanAbi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Fox News",
+          "id": "1065657279150665728",
+          "name": "Fox News"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1354881137114402818",
+          "name": "HasanAbi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fox News",
+          "id": "1065657279150665728",
+          "name": "Fox News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1354881137114402818",
+          "name": "HasanAbi"
+        }
+      }
+    ],
+    "conversation_id": "2096546363907649642",
+    "created_at": "2026-09-06T10:29:39.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096546363907649642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HasanabiProd/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/HasanabiProd/status/2095209803073138958",
+          "start": 18,
+          "url": "https://t.co/dDgpZHAl95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096546363907649642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095209803073138958",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hasan piker是好男孩吗🥺 https://t.co/dDgpZHAl95"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 609,
+        "media_key": "3_2095209799092969472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROuNhzaoAAOzNA.jpg",
+        "width": 488
+      },
+      {
+        "height": 750,
+        "media_key": "3_2095209798971052036",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROuNhWWUAQ6i9r.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          }
+        ],
+        "conversation_id": "2096546363907649642",
+        "created_at": "2026-09-06T10:29:39.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096546363907649642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HasanabiProd/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/HasanabiProd/status/2095209803073138958",
+              "start": 18,
+              "url": "https://t.co/dDgpZHAl95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096546363907649642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095209803073138958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hasan piker是好男孩吗🥺 https://t.co/dDgpZHAl95"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095209799092969472",
+            "3_2095209798971052036"
+          ]
+        },
+        "author_id": "1455987434068447236",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          }
+        ],
+        "conversation_id": "2095209803073138958",
+        "created_at": "2026-09-02T17:58:38.000Z",
+        "display_text_range": [
+          0,
+          192
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095209803073138958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6F54XsucsE",
+              "end": 216,
+              "expanded_url": "https://x.com/HasanabiProd/status/2095209803073138958/photo/1",
+              "media_key": "3_2095209799092969472",
+              "start": 193,
+              "url": "https://t.co/6F54XsucsE"
+            },
+            {
+              "display_url": "pic.x.com/6F54XsucsE",
+              "end": 216,
+              "expanded_url": "https://x.com/HasanabiProd/status/2095209803073138958/photo/1",
+              "media_key": "3_2095209798971052036",
+              "start": 193,
+              "url": "https://t.co/6F54XsucsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095209803073138958",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095209799092969472"
+          },
+          {
+            "media_key": "3_2095209798971052036"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1348,
+          "impression_count": 3059551,
+          "like_count": 39645,
+          "quote_count": 498,
+          "reply_count": 255,
+          "retweet_count": 1684
+        },
+        "reply_settings": "everyone",
+        "text": "Hasan Piker has officially surpassed “Transgender” as the most mentioned culture war issue on Fox News for the month of August.\n\n348 mentions of Trans/Transgender \n\n398 mentions of Hasan Piker https://t.co/6F54XsucsE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/LLM重度依赖🖥️/19yo/communist/VOCALOID🎶/计科/历史/诗歌/哲学/语言学/交通/城市规划/我很无聊快来找我聊天🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2096546363907649642",
+        "name": "小雨🍥",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 626,
+          "like_count": 1722,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T19:57:16.000Z",
+        "description": "I edit @hasanthehun videos. I am not Hasan Piker (parody). Fan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "hasanthehun"
+              }
+            ]
+          }
+        },
+        "id": "1455987434068447236",
+        "is_identity_verified": false,
+        "location": "Hasan’s Dungeon ",
+        "most_recent_tweet_id": "2095314937023172760",
+        "name": "Hasanabi Productions (fan account)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455987434068447236/1646520284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649144254092935168/snYM6RWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33614,
+          "following_count": 372,
+          "like_count": 19232,
+          "listed_count": 155,
+          "media_count": 999,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "HasanabiProd",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

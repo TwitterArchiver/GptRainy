@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092295522837299224",
+    "created_at": "2026-08-25T16:58:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092295522837299224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "875546338401931265",
+          "start": 3,
+          "username": "RosuGrigore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092295522837299224",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091992079278698632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RosuGrigore: Matching logic is complete without μ, incomplete with μ!\n\nIn passing, we also solved two open problems in hybrid logic: th…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2091987580183011328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQg7ns9WYAAvyIV.jpg",
+        "width": 1567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092295522837299224",
+        "created_at": "2026-08-25T16:58:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092295522837299224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "875546338401931265",
+              "start": 3,
+              "username": "RosuGrigore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092295522837299224",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091992079278698632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RosuGrigore: Matching logic is complete without μ, incomplete with μ!\n\nIn passing, we also solved two open problems in hybrid logic: th…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091987580183011328"
+          ]
+        },
+        "author_id": "875546338401931265",
+        "conversation_id": "2091992077106090271",
+        "created_at": "2026-08-24T20:52:33.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T21:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091992079278698632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ujf0UutWgo",
+              "end": 302,
+              "expanded_url": "https://x.com/RosuGrigore/status/2091992079278698632/photo/1",
+              "media_key": "3_2091987580183011328",
+              "start": 279,
+              "url": "https://t.co/Ujf0UutWgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091992079278698632",
+        "in_reply_to_user_id": "875546338401931265",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091987580183011328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Matching logic is complete without μ, incomplete with μ!\n\nIn passing, we also solved two open problems in hybrid logic: the nominal-free fragment is complete; with nominals only, incomplete.  This is surprising because if we add pointed validity it becomes complete again (known from 2006)."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 8603,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091992077106090271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Matching logic is complete without μ, incomplete with μ!\n\nIn passing, we also solved two open problems in hybrid logic: the nominal-free fragment is complete; with nominals only, incomplete.  This is surprising because if we add pointed validity it becomes complete again (known https://t.co/Ujf0UutWgo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092295522837299224",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 548,
+          "like_count": 1152,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-16T02:51:28.000Z",
+        "description": "Professor UIUC @siebelschool | Creator K Framework | Founder @fastxyz @rv_inc | Formerly @NASA. Logic, semantics, verification.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "siebelschool"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "fastxyz"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "rv_inc"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "username": "NASA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fsl.cs.illinois.edu/grosu",
+                "end": 23,
+                "expanded_url": "http://fsl.cs.illinois.edu/grosu",
+                "start": 0,
+                "url": "https://t.co/HuOrhGN7ak"
+              }
+            ]
+          }
+        },
+        "id": "875546338401931265",
+        "is_identity_verified": true,
+        "location": "Champaign, IL",
+        "most_recent_tweet_id": "2092227059149935048",
+        "name": "Grigore Rosu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/875546338401931265/1771941920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062130052662259713/0rJq4bR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14810,
+          "following_count": 947,
+          "like_count": 5505,
+          "listed_count": 98,
+          "media_count": 178,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/HuOrhGN7ak",
+        "username": "RosuGrigore",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

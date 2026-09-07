@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095052322661629952",
+        "3_2095052340781019136"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095052359454110088",
+    "created_at": "2026-09-02T07:33:01.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095052359454110088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9DIOMU9H9z",
+          "end": 55,
+          "expanded_url": "https://x.com/GptRainy/status/2095052359454110088/photo/1",
+          "media_key": "3_2095052322661629952",
+          "start": 32,
+          "url": "https://t.co/9DIOMU9H9z"
+        },
+        {
+          "display_url": "pic.x.com/9DIOMU9H9z",
+          "end": 55,
+          "expanded_url": "https://x.com/GptRainy/status/2095052359454110088/photo/1",
+          "media_key": "3_2095052340781019136",
+          "start": 32,
+          "url": "https://t.co/9DIOMU9H9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095052359454110088",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095052322661629952"
+      },
+      {
+        "media_key": "3_2095052340781019136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯，公州新城区稍微好一些了，但是电线杆还是能看得出是小城市（） https://t.co/9DIOMU9H9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095052322661629952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMe_MYagAA__vv.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095052340781019136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMfAP4acAAqhWh.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095052322661629952",
+            "3_2095052340781019136"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095052359454110088",
+        "created_at": "2026-09-02T07:33:01.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095052359454110088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DIOMU9H9z",
+              "end": 55,
+              "expanded_url": "https://x.com/GptRainy/status/2095052359454110088/photo/1",
+              "media_key": "3_2095052322661629952",
+              "start": 32,
+              "url": "https://t.co/9DIOMU9H9z"
+            },
+            {
+              "display_url": "pic.x.com/9DIOMU9H9z",
+              "end": 55,
+              "expanded_url": "https://x.com/GptRainy/status/2095052359454110088/photo/1",
+              "media_key": "3_2095052340781019136",
+              "start": 32,
+              "url": "https://t.co/9DIOMU9H9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095052359454110088",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095052322661629952"
+          },
+          {
+            "media_key": "3_2095052340781019136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，公州新城区稍微好一些了，但是电线杆还是能看得出是小城市（） https://t.co/9DIOMU9H9z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/ASD/LLM重度依赖/19yo/communist/全域解放/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095052359454110088",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 564,
+          "like_count": 1481,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

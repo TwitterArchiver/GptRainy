@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2087198532176605280",
+    "created_at": "2026-08-12T06:24:17.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087424918040560094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087424918040560094",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087198532176605280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 我也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "3_2087197298078191616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPc24lgbEAAyZj5.png",
+        "width": 557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2087198532176605280",
+        "created_at": "2026-08-12T06:24:17.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087424918040560094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087424918040560094",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087198532176605280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087197298078191616"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2087198532176605280",
+        "created_at": "2026-08-11T15:24:43.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:24:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087198389972934880",
+          "2087198532176605280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXqqYacNCs",
+              "end": 171,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2087198532176605280/photo/1",
+              "media_key": "3_2087197298078191616",
+              "start": 148,
+              "url": "https://t.co/BXqqYacNCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087198532176605280",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087197298078191616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "可以说这段童年经历是狐的计算机启蒙了(\n在没有任何人能问与有限的文档支持下搞这个,不仅长知识还磨心性喵\n一桶可乐一包烟,一个整合修三天\n现在是真的好时代了喵,现代化启动器有啥问题都能自动修复,mod冲突会直截了当地写出来哪两个不能一起加\n再不济还能call Codex\n几乎不会有玩不上的情况了\n但是感觉这MC玩着没有以前有味道了TwT"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 837,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以说这段童年经历是狐的计算机启蒙了(\n在没有任何人能问与有限的文档支持下搞这个,不仅长知识还磨心性喵\n一桶可乐一包烟,一个整合修三天\n现在是真的好时代了喵,现代化启动器有啥问题都能自动修复,mod冲突会直截了当地写出来哪两个不能一起加\n再不济还能call Codex\n几乎不会有玩不上的情况了 https://t.co/BXqqYacNCs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2087424918040560094",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 564,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087201103914131688",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1528,
+          "like_count": 22823,
+          "listed_count": 7,
+          "media_count": 823,
+          "tweet_count": 7319
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

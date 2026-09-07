@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092306262235254787",
+    "created_at": "2026-08-25T17:41:00.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092306262235254787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tenfif5/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Tenfif5/status/2089783358163390588",
+          "start": 9,
+          "url": "https://t.co/tFHn1qqnwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092306262235254787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089783358163390588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男大笑传之吵吵变 https://t.co/tFHn1qqnwL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092306262235254787",
+        "created_at": "2026-08-25T17:41:00.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092306262235254787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tenfif5/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Tenfif5/status/2089783358163390588",
+              "start": 9,
+              "url": "https://t.co/tFHn1qqnwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092306262235254787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089783358163390588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男大笑传之吵吵变 https://t.co/tFHn1qqnwL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038377517120163840",
+        "conversation_id": "2089783358163390588",
+        "created_at": "2026-08-18T18:35:53.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089783358163390588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089783358163390588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 534201,
+          "like_count": 12290,
+          "quote_count": 37,
+          "reply_count": 969,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "中国是真他妈完蛋了，一帮傻逼在公司底下闹事，大部分都是未成年，甚至能他妈看到小学生。还他妈有脸说女生无脑追星 至少追星也没伤害到这个圈子外的人，人家圈子内的事和你们这帮傻逼有啥关系？以为自己老正义了？这他妈跟几十年前那些小混混有什么区别？还有说ltp的，那帮喜欢时代峰峻的有几个成年的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092306262235254787",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 548,
+          "like_count": 1152,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T22:08:37.000Z",
+        "description": "你们骂我有什么用呢，我只是一个阿帕吃女孩",
+        "id": "2038377517120163840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092305722600272042",
+        "name": "孙笑川",
+        "pinned_tweet_id": "2090364374045372471",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038377517120163840/1787270040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082038545695559680/YL1D92II_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 5,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "Tenfif5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

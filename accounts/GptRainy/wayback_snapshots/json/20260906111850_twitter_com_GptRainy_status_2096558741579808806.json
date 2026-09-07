@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2096558741579808806",
+    "created_at": "2026-09-06T11:18:50.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096558741579808806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shrinkviolet77…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shrinkviolet77/status/2096558051692318749",
+          "start": 13,
+          "url": "https://t.co/XZ2BzRYIHf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096558741579808806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096558051692318749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小共同体，你在哪，，，😭 https://t.co/XZ2BzRYIHf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2096558741579808806",
+        "created_at": "2026-09-06T11:18:50.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096558741579808806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shrinkviolet77…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shrinkviolet77/status/2096558051692318749",
+              "start": 13,
+              "url": "https://t.co/XZ2BzRYIHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096558741579808806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096558051692318749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小共同体，你在哪，，，😭 https://t.co/XZ2BzRYIHf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420962557897035781",
+        "conversation_id": "2096558051692318749",
+        "created_at": "2026-09-06T11:16:06.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096558051692318749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096558051692318749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不明白为什么有人会认为靠宗族能对抗原子化。以前宗族有控制力是因为人口流动性低，现代社会人口流动性极强，并且人际关系会快速变化，人都分散到各个地方了宗族还能干啥。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/LLM重度依赖🖥️/19yo/communist/VOCALOID🎶/计科/历史/诗歌/哲学/语言学/交通/城市规划/我很无聊快来找我聊天🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2096558741579808806",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 630,
+          "like_count": 1724,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "不辨寒暑，不识春秋，不分虚实，不知死活。\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096558051692318749",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 125,
+          "like_count": 46456,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 17022
+        },
+        "url": "",
+        "username": "shrinkviolet77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

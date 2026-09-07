@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2088202197448495229",
+    "created_at": "2026-08-14T09:52:55.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088202197448495229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088202197448495229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卒業歌 韓文\n\n學友들！ 다 일어나！\n맡아라 天下의 興亡！\n\n들어！ 온 귀엔 大衆의 歎息！\n보라！ 해마다 國土의 淪喪！\n\n우리 選擇，「戰」이냐 「降」이냐？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2088202197448495229",
+        "created_at": "2026-08-14T09:52:55.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088202197448495229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088202197448495229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卒業歌 韓文\n\n學友들！ 다 일어나！\n맡아라 天下의 興亡！\n\n들어！ 온 귀엔 大衆의 歎息！\n보라！ 해마다 國土의 淪喪！\n\n우리 選擇，「戰」이냐 「降」이냐？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2088202197448495229",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 558,
+          "like_count": 1131,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

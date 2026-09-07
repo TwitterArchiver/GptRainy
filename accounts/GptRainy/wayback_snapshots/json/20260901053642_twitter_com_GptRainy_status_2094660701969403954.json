@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094454216396062896",
+    "created_at": "2026-09-01T05:36:42.000Z",
+    "display_text_range": [
+      29,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094660701969403954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882099914886537220",
+          "start": 0,
+          "username": "kkaawaayii"
+        },
+        {
+          "end": 28,
+          "id": "2093710985827848193",
+          "start": 12,
+          "username": "yamazakiisuzu_N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094660701969403954",
+    "in_reply_to_user_id": "1882099914886537220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094615128922870156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkaawaayii @yamazakiisuzu_N 一千年前普通人都很难活吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094454216396062896",
+        "created_at": "2026-09-01T05:36:42.000Z",
+        "display_text_range": [
+          29,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094660701969403954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882099914886537220",
+              "start": 0,
+              "username": "kkaawaayii"
+            },
+            {
+              "end": 28,
+              "id": "2093710985827848193",
+              "start": 12,
+              "username": "yamazakiisuzu_N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094660701969403954",
+        "in_reply_to_user_id": "1882099914886537220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094615128922870156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkaawaayii @yamazakiisuzu_N 一千年前普通人都很难活吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882099914886537220",
+        "conversation_id": "2094454216396062896",
+        "created_at": "2026-09-01T02:35:37.000Z",
+        "display_text_range": [
+          27,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094615128922870156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            },
+            {
+              "end": 26,
+              "id": "2093710985827848193",
+              "start": 10,
+              "username": "yamazakiisuzu_N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094615128922870156",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094467867265921043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy @yamazakiisuzu_N 中国的环境已经让很多跨生不如死了，曹县的跨比一千年前的跨还难过活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094660701969403954",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 550,
+          "like_count": 1341,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-22T16:16:26.000Z",
+        "description": "11岁的抑郁症，23岁才治好。03年丨深圳打工人丨169cm58kg丨12岁跳楼丨2026.5.4开药治焦虑抑郁丨5.18CPA丨6.7hrt丨想和MTF贴贴",
+        "id": "1882099914886537220",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094651317113495901",
+        "name": "剧中人🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882099914886537220/1785137785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067469478430912512/L2nGDei1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 97,
+          "like_count": 12037,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 1186
+        },
+        "url": "",
+        "username": "kkaawaayii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T14:43:57.000Z",
+        "description": "重新开始吧……",
+        "id": "2093710985827848193",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2094660385618166056",
+        "name": "✞山崎いすず✞",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093710985827848193/1788162518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093711492566904832/TvwoUe1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 58,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "yamazakiisuzu_N",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

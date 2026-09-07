@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094014121847222272",
+        "3_2094014142273495040"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094014162359988586",
+    "created_at": "2026-08-30T10:47:35.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T11:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094014162359988586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMrkUiIV7I",
+          "end": 23,
+          "expanded_url": "https://x.com/GptRainy/status/2094014162359988586/photo/1",
+          "media_key": "3_2094014121847222272",
+          "start": 0,
+          "url": "https://t.co/PMrkUiIV7I"
+        },
+        {
+          "display_url": "pic.x.com/PMrkUiIV7I",
+          "end": 23,
+          "expanded_url": "https://x.com/GptRainy/status/2094014162359988586/photo/1",
+          "media_key": "3_2094014142273495040",
+          "start": 0,
+          "url": "https://t.co/PMrkUiIV7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094014162359988586",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094014121847222272"
+      },
+      {
+        "media_key": "3_2094014142273495040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/PMrkUiIV7I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094014121847222272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9uv89a8AADfPT.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094014142273495040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9uxJDbIAAtvi9.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094014121847222272",
+            "3_2094014142273495040"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094014162359988586",
+        "created_at": "2026-08-30T10:47:35.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094014162359988586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMrkUiIV7I",
+              "end": 23,
+              "expanded_url": "https://x.com/GptRainy/status/2094014162359988586/photo/1",
+              "media_key": "3_2094014121847222272",
+              "start": 0,
+              "url": "https://t.co/PMrkUiIV7I"
+            },
+            {
+              "display_url": "pic.x.com/PMrkUiIV7I",
+              "end": 23,
+              "expanded_url": "https://x.com/GptRainy/status/2094014162359988586/photo/1",
+              "media_key": "3_2094014142273495040",
+              "start": 0,
+              "url": "https://t.co/PMrkUiIV7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094014162359988586",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094014121847222272"
+          },
+          {
+            "media_key": "3_2094014142273495040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PMrkUiIV7I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094014162359988586",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 534,
+          "like_count": 1260,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

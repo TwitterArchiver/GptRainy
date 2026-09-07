@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094538631264538808",
+    "created_at": "2026-08-31T21:32:25.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T22:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094538825070735644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1838228945008984064",
+          "start": 0,
+          "username": "Mimimim1216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094538825070735644",
+    "in_reply_to_user_id": "1838228945008984064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094538631264538808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimimim1216 何のためですか🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094538631264538808",
+        "created_at": "2026-08-31T21:32:25.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T22:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094538825070735644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1838228945008984064",
+              "start": 0,
+              "username": "Mimimim1216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094538825070735644",
+        "in_reply_to_user_id": "1838228945008984064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094538631264538808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimimim1216 何のためですか🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838228945008984064",
+        "conversation_id": "2094538631264538808",
+        "created_at": "2026-08-31T21:31:38.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T22:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094538631264538808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094538631264538808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吐き気と嗚咽でめっちゃくるしかった\nしにたい"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094538825070735644",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 547,
+          "like_count": 1335,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-23T14:48:58.000Z",
+        "description": "やみあか 中3 不安定 無言フォローでお迎え🎀\n通院￤不登校！！\nサブ垢あります 金欠😭😭\n@Mimimimimia1612 ↩︎鍵垢･愚痴垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "Mimimimimia1612"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2ZXMKJN32EQCH?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/HswzNyjtLJ"
+              }
+            ]
+          }
+        },
+        "id": "1838228945008984064",
+        "is_identity_verified": false,
+        "location": "♡",
+        "most_recent_tweet_id": "2094538631264538808",
+        "name": "しろいろ",
+        "pinned_tweet_id": "2009568858701762654",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838228945008984064/1767385877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054041700495224832/iaRlequ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 1256,
+          "like_count": 20696,
+          "listed_count": 47,
+          "media_count": 205,
+          "tweet_count": 5938
+        },
+        "url": "https://t.co/HswzNyjtLJ",
+        "username": "Mimimim1216",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

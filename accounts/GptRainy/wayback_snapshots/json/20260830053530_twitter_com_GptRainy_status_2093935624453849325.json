@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Sci-fi & Fantasy",
+          "id": "859533542962757633",
+          "name": "Sci-fi & fantasy books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sci-fi & Fantasy",
+          "id": "859533542962757633",
+          "name": "Sci-fi & fantasy books"
+        }
+      }
+    ],
+    "conversation_id": "2093935624453849325",
+    "created_at": "2026-08-30T05:35:30.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093935624453849325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/emollick/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/emollick/status/2093819069552021740",
+          "start": 5,
+          "url": "https://t.co/8JPXamDEL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093935624453849325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093819069552021740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叶公好龙 https://t.co/8JPXamDEL5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Sci-fi & Fantasy",
+              "id": "859533542962757633",
+              "name": "Sci-fi & fantasy books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi & Fantasy",
+              "id": "859533542962757633",
+              "name": "Sci-fi & fantasy books"
+            }
+          }
+        ],
+        "conversation_id": "2093935624453849325",
+        "created_at": "2026-08-30T05:35:30.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093935624453849325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/emollick/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/emollick/status/2093819069552021740",
+              "start": 5,
+              "url": "https://t.co/8JPXamDEL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093935624453849325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093819069552021740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叶公好龙 https://t.co/8JPXamDEL5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39125788",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Sci-fi & Fantasy",
+              "id": "859533542962757633",
+              "name": "Sci-fi & fantasy books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi & Fantasy",
+              "id": "859533542962757633",
+              "name": "Sci-fi & fantasy books"
+            }
+          }
+        ],
+        "conversation_id": "2093819069552021740",
+        "created_at": "2026-08-29T21:52:22.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T22:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093819069552021740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093819069552021740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 35020,
+          "like_count": 446,
+          "quote_count": 12,
+          "reply_count": 46,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Was just skimming through the webpages of some of my favorite hard science fiction authors and wow the majority of them hate LLMs: a surprising number of them because they think it is a useless stochastic parrot, some because of IP￼, and a minority because of existential risk."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093935624453849325",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 534,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-05-10T22:33:52.000Z",
+        "description": "Professor @Wharton studying AI.\nNew book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K\nSubstack: https://t.co/UIBhxu4bgq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "Wharton"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "co-existence.ai",
+                "end": 113,
+                "expanded_url": "https://co-existence.ai/",
+                "start": 90,
+                "url": "https://t.co/hsDYf1xU9K"
+              },
+              {
+                "display_url": "oneusefulthing.org",
+                "end": 147,
+                "expanded_url": "https://www.oneusefulthing.org/",
+                "start": 124,
+                "url": "https://t.co/UIBhxu4bgq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+                "end": 23,
+                "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+                "start": 0,
+                "url": "https://t.co/uItckI9ujc"
+              }
+            ]
+          }
+        },
+        "id": "39125788",
+        "is_identity_verified": false,
+        "location": "Philadelphia, PA",
+        "most_recent_tweet_id": "2093855819997880443",
+        "name": "Ethan Mollick",
+        "pinned_tweet_id": "2062645525111771521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39125788/1784742782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379062,
+          "following_count": 593,
+          "like_count": 7295,
+          "listed_count": 9457,
+          "media_count": 14515,
+          "tweet_count": 36681
+        },
+        "url": "https://t.co/uItckI9ujc",
+        "username": "emollick",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

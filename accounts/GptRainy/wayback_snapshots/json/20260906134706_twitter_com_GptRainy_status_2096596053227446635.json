@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096596044876599296"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096596053227446635",
+    "created_at": "2026-09-06T13:47:06.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:46:42.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096595952597708991",
+      "2096596053227446635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bf2dkkNClv",
+          "end": 54,
+          "expanded_url": "https://x.com/GptRainy/status/2096596053227446635/photo/1",
+          "media_key": "3_2096596044876599296",
+          "start": 31,
+          "url": "https://t.co/bf2dkkNClv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096596053227446635",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096596044876599296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚餐🍚\n虽然他家主要是做生牛肉拌饭的但是不敢吃啊啊怕寄生虫😨 https://t.co/bf2dkkNClv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2096595944406188032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRia5zfbAAAdEiH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096596044876599296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRia_pxb0AAMZrF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096595944406188032"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096595952597708991",
+        "created_at": "2026-09-06T13:46:42.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:46:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096595952597708991",
+          "2096596053227446635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lq3kLqbbip",
+              "end": 51,
+              "expanded_url": "https://x.com/GptRainy/status/2096595952597708991/photo/1",
+              "media_key": "3_2096595944406188032",
+              "start": 28,
+              "url": "https://t.co/Lq3kLqbbip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096595952597708991",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096595944406188032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚餐是牛肉拌饭\n他家主要是做生牛肉拌饭的但是不敢吃啊啊 https://t.co/Lq3kLqbbip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096596044876599296"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096596053227446635",
+        "created_at": "2026-09-06T13:47:06.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:46:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096595952597708991",
+          "2096596053227446635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bf2dkkNClv",
+              "end": 54,
+              "expanded_url": "https://x.com/GptRainy/status/2096596053227446635/photo/1",
+              "media_key": "3_2096596044876599296",
+              "start": 31,
+              "url": "https://t.co/bf2dkkNClv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096596053227446635",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096596044876599296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚餐🍚\n虽然他家主要是做生牛肉拌饭的但是不敢吃啊啊怕寄生虫😨 https://t.co/bf2dkkNClv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM重度依赖🖥️/19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2096596053227446635",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 637,
+          "like_count": 1738,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

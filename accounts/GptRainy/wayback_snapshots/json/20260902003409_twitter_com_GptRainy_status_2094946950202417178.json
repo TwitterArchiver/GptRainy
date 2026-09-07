@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094946950202417178",
+    "created_at": "2026-09-02T00:34:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T01:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094946950202417178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "839686401209724929",
+          "start": 3,
+          "username": "momimak13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094946950202417178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 404
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094667191870452164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momimak13: ｢それやったら、関東大震災ではこう言うことがあったのを今からちゃんと覚えとき。朝鮮人と間違われて地方から出てきてた日本人もぎょうさん殺されてるんや｣と言われた。\n\n中学生の私にはあまりにも衝撃的で、その話を父がしてくれた時の淡々とした物言いや何とな…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094946950202417178",
+        "created_at": "2026-09-02T00:34:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094946950202417178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "839686401209724929",
+              "start": 3,
+              "username": "momimak13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094946950202417178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 404
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094667191870452164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momimak13: ｢それやったら、関東大震災ではこう言うことがあったのを今からちゃんと覚えとき。朝鮮人と間違われて地方から出てきてた日本人もぎょうさん殺されてるんや｣と言われた。\n\n中学生の私にはあまりにも衝撃的で、その話を父がしてくれた時の淡々とした物言いや何とな…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "839686401209724929",
+        "conversation_id": "2094667188506640602",
+        "created_at": "2026-09-01T06:02:30.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094667191870452164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094667191870452164",
+        "in_reply_to_user_id": "839686401209724929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 467936,
+          "like_count": 3657,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 404
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094667190255657248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "｢それやったら、関東大震災ではこう言うことがあったのを今からちゃんと覚えとき。朝鮮人と間違われて地方から出てきてた日本人もぎょうさん殺されてるんや｣と言われた。\n\n中学生の私にはあまりにも衝撃的で、その話を父がしてくれた時の淡々とした物言いや何となく冷めた表情をよく覚えてる。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094946950202417178",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 554,
+          "like_count": 1402,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-09T03:56:53.000Z",
+        "description": "帰化済の在日コリアン三世。そう、私が文鳥ババアだよ♥️\n維新とトランスヘイターとネトウヨとCRACとシオニストは死ぬほど嫌い。顔が強い。難波文男くんが言うところの三大邪悪のうちの一人らしい。で、CRAC界隈からは悪の権化らしい。\n\n #トランス差別に反対します",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 117,
+                "tag": "トランス差別に反対します"
+              }
+            ]
+          }
+        },
+        "id": "839686401209724929",
+        "is_identity_verified": false,
+        "location": "関西",
+        "most_recent_tweet_id": "2094920380138103244",
+        "name": "なんなし",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/839686401209724929/1715681114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067948677910675456/4fDrfbIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4194,
+          "following_count": 3394,
+          "like_count": 433771,
+          "listed_count": 35,
+          "media_count": 7519,
+          "tweet_count": 224934
+        },
+        "url": "",
+        "username": "momimak13",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

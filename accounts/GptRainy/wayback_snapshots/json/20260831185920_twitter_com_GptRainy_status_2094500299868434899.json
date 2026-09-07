@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094414827187818876",
+    "created_at": "2026-08-31T18:59:20.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T19:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094500299868434899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672895761996972033",
+          "start": 0,
+          "username": "WilliamPAdH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094500299868434899",
+    "in_reply_to_user_id": "1672895761996972033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094414827187818876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamPAdH 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094414827187818876",
+        "created_at": "2026-08-31T18:59:20.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094500299868434899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672895761996972033",
+              "start": 0,
+              "username": "WilliamPAdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094500299868434899",
+        "in_reply_to_user_id": "1672895761996972033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094414827187818876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamPAdH 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672895761996972033",
+        "conversation_id": "2094414827187818876",
+        "created_at": "2026-08-31T13:19:41.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094414827187818876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2090031021400186942",
+              "start": 5,
+              "url": "https://t.co/Yvtptagyy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094414827187818876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090031021400186942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "远离山东 https://t.co/Yvtptagyy5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094500299868434899",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 542,
+          "like_count": 1325,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T09:13:42.000Z",
+        "description": "疯狂宇宙大狸花",
+        "id": "1672895761996972033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094459856614764983",
+        "name": "William Ivanenko的2号（推友寻回中）",
+        "pinned_tweet_id": "2092651435871596701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672895761996972033/1787402231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091142532889518080/Nk-LeePV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 175,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "WilliamPAdH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

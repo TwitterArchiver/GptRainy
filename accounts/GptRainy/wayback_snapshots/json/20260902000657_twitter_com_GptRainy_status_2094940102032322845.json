@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094940102032322845",
+    "created_at": "2026-09-02T00:06:57.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T01:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094940102032322845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TSimehpo/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/TSimehpo/status/2053212780548022583",
+          "start": 8,
+          "url": "https://t.co/Z4KHu51feq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094940102032322845",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053212780548022583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和尼采坐一桌去 https://t.co/Z4KHu51feq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094940102032322845",
+        "created_at": "2026-09-02T00:06:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094940102032322845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TSimehpo/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/TSimehpo/status/2053212780548022583",
+              "start": 8,
+              "url": "https://t.co/Z4KHu51feq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094940102032322845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053212780548022583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和尼采坐一桌去 https://t.co/Z4KHu51feq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051761383197339648",
+        "conversation_id": "2052691933030690842",
+        "created_at": "2026-05-09T20:37:28.000Z",
+        "display_text_range": [
+          20,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-09T21:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053212780548022583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            },
+            {
+              "end": 19,
+              "id": "1672461374180450305",
+              "start": 12,
+              "username": "6mhzph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053212780548022583",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2555,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052691933030690842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike @6mhzph 为什么要OD呢…如果人人都能被爱包围的话…是不是就不会再有人OD了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094940102032322845",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 555,
+          "like_count": 1399,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待世界的小麦面包🍞 uwu | 日常碎碎念 | 友跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+V67rq5yhFGoyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+V67rq5yhFGoyMzJl",
+                "start": 0,
+                "url": "https://t.co/B23angvb5w"
+              }
+            ]
+          }
+        },
+        "id": "2051761383197339648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094904165743173934",
+        "name": "小麦面包",
+        "pinned_tweet_id": "2092508560844546479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051761383197339648/1780107537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 663,
+          "like_count": 9420,
+          "listed_count": 6,
+          "media_count": 159,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/B23angvb5w",
+        "username": "TSimehpo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2092014427923190256",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 63,
+          "like_count": 866,
+          "listed_count": 8,
+          "media_count": 87,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

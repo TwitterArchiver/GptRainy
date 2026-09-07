@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094789336504160340",
+    "created_at": "2026-09-01T22:00:12.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T23:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094908207647072260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "296593919",
+          "start": 0,
+          "username": "vikingmute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094908207647072260",
+    "in_reply_to_user_id": "296593919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094789336504160340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vikingmute 没有任何用处"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094789336504160340",
+        "created_at": "2026-09-01T22:00:12.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T23:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094908207647072260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "296593919",
+              "start": 0,
+              "username": "vikingmute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094908207647072260",
+        "in_reply_to_user_id": "296593919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094789336504160340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vikingmute 没有任何用处"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "296593919",
+        "conversation_id": "2094789336504160340",
+        "created_at": "2026-09-01T14:07:51.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094789336504160340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094789336504160340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9230,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-5.6 Sol Ultra 的最佳场景是什么？大项目重构还是新项目多模块同时实现？用了几次，耗时间，耗 token，过渡思考，不知道啥场景适用。\n\n感觉 Sol High 就够了，出计划，让 Luna Max 或者任何干活 agent 实现就挺完美。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094908207647072260",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 551,
+          "like_count": 1363,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyship.cn",
+                "end": 47,
+                "expanded_url": "http://tinyship.cn",
+                "start": 24,
+                "url": "https://t.co/o0BI6W8DRb"
+              },
+              {
+                "display_url": "easycv.cn",
+                "end": 120,
+                "expanded_url": "http://easycv.cn",
+                "start": 97,
+                "url": "https://t.co/xMu5JFIGnr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2094789336504160340",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296593919/1461731223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67886,
+          "following_count": 279,
+          "like_count": 1303,
+          "listed_count": 737,
+          "media_count": 1812,
+          "tweet_count": 3730
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

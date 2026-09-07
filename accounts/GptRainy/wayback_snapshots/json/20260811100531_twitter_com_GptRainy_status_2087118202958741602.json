@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2087118202958741602",
+    "created_at": "2026-08-11T10:05:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087118202958741602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1836078160653246464",
+          "start": 3,
+          "username": "Hesamation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087118202958741602",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086826255341469838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hesamation: WAIT A MINUE, so Claude is not only the most expensive frontier model, but Claude Code is also the most token-hungry harnes…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_2086826250757148672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXlayhXEAAVCXu.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2087118202958741602",
+        "created_at": "2026-08-11T10:05:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087118202958741602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1836078160653246464",
+              "start": 3,
+              "username": "Hesamation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087118202958741602",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086826255341469838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hesamation: WAIT A MINUE, so Claude is not only the most expensive frontier model, but Claude Code is also the most token-hungry harnes…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086826250757148672"
+          ]
+        },
+        "author_id": "1836078160653246464",
+        "conversation_id": "2086826255341469838",
+        "created_at": "2026-08-10T14:45:25.000Z",
+        "display_text_range": [
+          0,
+          187
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086826255341469838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGSO4q4gis",
+              "end": 211,
+              "expanded_url": "https://x.com/Hesamation/status/2086826255341469838/photo/1",
+              "media_key": "3_2086826250757148672",
+              "start": 188,
+              "url": "https://t.co/rGSO4q4gis"
+            },
+            {
+              "display_url": "x.com/composio/statu…",
+              "end": 235,
+              "expanded_url": "https://twitter.com/composio/status/2086814488162972027",
+              "start": 212,
+              "url": "https://t.co/f7zoVn7Dgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086826255341469838",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086826250757148672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 571,
+          "impression_count": 177639,
+          "like_count": 2032,
+          "quote_count": 32,
+          "reply_count": 72,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086814488162972027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "WAIT A MINUE, so Claude is not only the most expensive frontier model, but Claude Code is also the most token-hungry harness?\n\nthe Claude Code enterprise bills are starting to make sense. https://t.co/rGSO4q4gis https://t.co/f7zoVn7Dgb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2087118202958741602",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 564,
+          "like_count": 1127,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T16:22:16.000Z",
+        "description": "apes made fire, then GPUs, then ASI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/hesamation",
+                "end": 23,
+                "expanded_url": "https://huggingface.co/hesamation",
+                "start": 0,
+                "url": "https://t.co/fcO0XORXf8"
+              }
+            ]
+          }
+        },
+        "id": "1836078160653246464",
+        "is_identity_verified": false,
+        "location": "the loss landscape",
+        "most_recent_tweet_id": "2087094057747046747",
+        "name": "ℏεsam",
+        "pinned_tweet_id": "2038632112664830200",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836078160653246464/1784491120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978647680357134336/ioMmfkXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83919,
+          "following_count": 494,
+          "like_count": 14808,
+          "listed_count": 1200,
+          "media_count": 3277,
+          "tweet_count": 7194
+        },
+        "url": "https://t.co/fcO0XORXf8",
+        "username": "Hesamation",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

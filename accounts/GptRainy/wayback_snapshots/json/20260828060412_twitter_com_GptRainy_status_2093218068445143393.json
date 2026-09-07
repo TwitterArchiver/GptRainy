@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2093218068445143393",
+    "created_at": "2026-08-28T06:04:12.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T07:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093218068445143393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914028453174796293",
+          "start": 3,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093218068445143393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093216367017095175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajisai1207_: 从敌人的视角描述我的账户，这说来是个有趣的想法。然而真正在社交网络上看成敌人的，视角里不会有什么AI编出的繁复人设，不过是众多涌动的无名恶意里的一团。\n根本无意看见你，你的言行，你自以为有个性色彩的标签，不是模糊的黑，难道还是五颜六色的黑吗。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2093218068445143393",
+        "created_at": "2026-08-28T06:04:12.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093218068445143393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914028453174796293",
+              "start": 3,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093218068445143393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093216367017095175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajisai1207_: 从敌人的视角描述我的账户，这说来是个有趣的想法。然而真正在社交网络上看成敌人的，视角里不会有什么AI编出的繁复人设，不过是众多涌动的无名恶意里的一团。\n根本无意看见你，你的言行，你自以为有个性色彩的标签，不是模糊的黑，难道还是五颜六色的黑吗。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914028453174796293",
+        "conversation_id": "2093216367017095175",
+        "created_at": "2026-08-28T05:57:26.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093216367017095175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093216367017095175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从敌人的视角描述我的账户，这说来是个有趣的想法。然而真正在社交网络上看成敌人的，视角里不会有什么AI编出的繁复人设，不过是众多涌动的无名恶意里的一团。\n根本无意看见你，你的言行，你自以为有个性色彩的标签，不是模糊的黑，难道还是五颜六色的黑吗。\n能被清楚惦记的，是赛博宠物，不算敌人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友/欢迎PM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093218068445143393",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 536,
+          "like_count": 1201,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "is_identity_verified": false,
+        "location": "地下室",
+        "most_recent_tweet_id": "2093216367017095175",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/914028453174796293/1770879656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 1030,
+          "like_count": 17610,
+          "listed_count": 14,
+          "media_count": 770,
+          "tweet_count": 7757
+        },
+        "url": "",
+        "username": "Ajisai1207_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

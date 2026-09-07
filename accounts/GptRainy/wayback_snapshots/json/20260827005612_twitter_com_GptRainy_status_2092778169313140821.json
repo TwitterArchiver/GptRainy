@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092778169313140821",
+    "created_at": "2026-08-27T00:56:12.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092778169313140821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2092668396093767811",
+          "start": 11,
+          "url": "https://t.co/BdNSMkAmAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092778169313140821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092668396093767811",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "李➗没活可以咬打火机 https://t.co/BdNSMkAmAB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32949,
+        "height": 720,
+        "media_key": "13_2092580438065725440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092580438065725440/img/ToHdvkogD1UweXar.jpg",
+        "public_metrics": {
+          "view_count": 25874
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092580438065725440/vid/avc1/480x270/IvlOMHaP2cIfdh6G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092580438065725440/vid/avc1/640x360/jYnL3rnJp27dNpa7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092580438065725440/vid/avc1/1280x720/_gjXI3cxCDPeK97o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092580438065725440/pl/amMgkR68hUdlhYni.m3u8?v=69a"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2092580437960859648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpW0kSWoAA6zEG.jpg",
+        "width": 672
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2092580438141263872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpW0k9XYAAz4gn.jpg",
+        "width": 673
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2092580438124453888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpW0k5W4AAC0E9.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092778169313140821",
+        "created_at": "2026-08-27T00:56:12.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092778169313140821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2092668396093767811",
+              "start": 11,
+              "url": "https://t.co/BdNSMkAmAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092778169313140821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092668396093767811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李➗没活可以咬打火机 https://t.co/BdNSMkAmAB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092580438065725440",
+            "3_2092580437960859648",
+            "3_2092580438141263872",
+            "3_2092580438124453888"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092668396093767811",
+        "created_at": "2026-08-26T17:40:00.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092668396093767811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPhm5Tjf0C",
+              "end": 156,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092668396093767811/video/1",
+              "media_key": "13_2092580438065725440",
+              "start": 133,
+              "url": "https://t.co/wPhm5Tjf0C"
+            },
+            {
+              "display_url": "pic.x.com/wPhm5Tjf0C",
+              "end": 156,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092668396093767811/video/1",
+              "media_key": "3_2092580437960859648",
+              "start": 133,
+              "url": "https://t.co/wPhm5Tjf0C"
+            },
+            {
+              "display_url": "pic.x.com/wPhm5Tjf0C",
+              "end": 156,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092668396093767811/video/1",
+              "media_key": "3_2092580438141263872",
+              "start": 133,
+              "url": "https://t.co/wPhm5Tjf0C"
+            },
+            {
+              "display_url": "pic.x.com/wPhm5Tjf0C",
+              "end": 156,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092668396093767811/video/1",
+              "media_key": "3_2092580438124453888",
+              "start": 133,
+              "url": "https://t.co/wPhm5Tjf0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092668396093767811",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092580438065725440"
+          },
+          {
+            "media_key": "3_2092580437960859648"
+          },
+          {
+            "media_key": "3_2092580438141263872"
+          },
+          {
+            "media_key": "3_2092580438124453888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 46346,
+          "like_count": 404,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "8月23日，一名广东网友发布视频“你见过凌晨的麦当劳吗”，视频记录了凌晨两点半在麦当劳内趴在桌上或卡座中休息的打工人。\n视频内容获数万浏览与点赞，但随后被平台删除，且未收到任何官方提示。\n网友为规避审查，紧急澄清该视频拍摄于美国，对平台无提示处理表达了疑惑与不满。 https://t.co/wPhm5Tjf0C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092778169313140821",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 551,
+          "like_count": 1168,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2092771576391295023",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256293,
+          "following_count": 1081,
+          "like_count": 10241,
+          "listed_count": 8887,
+          "media_count": 52763,
+          "tweet_count": 60075
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

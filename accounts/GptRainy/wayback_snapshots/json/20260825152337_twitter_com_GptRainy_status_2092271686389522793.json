@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092271686389522793",
+    "created_at": "2026-08-25T15:23:37.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T16:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092271686389522793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/utashimoshi/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/utashimoshi/status/2092166794207498693",
+          "start": 4,
+          "url": "https://t.co/hKRR9285h9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092271686389522793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092166794207498693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/hKRR9285h9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092271686389522793",
+        "created_at": "2026-08-25T15:23:37.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092271686389522793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/utashimoshi/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/utashimoshi/status/2092166794207498693",
+              "start": 4,
+              "url": "https://t.co/hKRR9285h9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092271686389522793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092166794207498693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/hKRR9285h9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117281463710277633",
+        "conversation_id": "2092166794207498693",
+        "created_at": "2026-08-25T08:26:48.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092166794207498693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092166794207498693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3875,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ai似乎有一套健全人立场，用户向ai倾诉时，ai倾向于帮助用户尽快恢复为一个高产，合规，适应社会的个体，也可以说难听点，帮助用户尽快恢复为这个社会的螺丝，它不问你想不想回去，它默认你想"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092271686389522793",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 546,
+          "like_count": 1151,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-14T04:20:33.000Z",
+        "description": "有个很可爱的人，正在读我的简介/童话作者/infj",
+        "id": "1117281463710277633",
+        "is_identity_verified": false,
+        "location": "御花会",
+        "most_recent_tweet_id": "2092235939099865486",
+        "name": "诗霜子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117281463710277633/1691853085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821847256791969799/JHZDhShS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24675,
+          "following_count": 1840,
+          "like_count": 89270,
+          "listed_count": 49,
+          "media_count": 2227,
+          "tweet_count": 48488
+        },
+        "url": "",
+        "username": "utashimoshi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

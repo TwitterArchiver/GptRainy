@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094950827995926805",
+    "created_at": "2026-09-02T00:49:34.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T01:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094950827995926805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gengzishunli/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/gengzishunli/status/2094580484210831725",
+          "start": 11,
+          "url": "https://t.co/DYrnhmtAs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094950827995926805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094580484210831725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃一口把太平洋喝干了 https://t.co/DYrnhmtAs1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9195,
+        "height": 960,
+        "media_key": "13_2094580471401488384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094580471401488384/img/Ml2M3YO9e-WX2tyJ.jpg",
+        "public_metrics": {
+          "view_count": 109719
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094580471401488384/vid/avc1/320x426/ySijShmZPXJxVYfq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094580471401488384/vid/avc1/480x640/DY4WYFPnsK724kST.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094580471401488384/vid/avc1/720x960/GnJKqgB1_yfJfmJq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094580471401488384/pl/BK20yBXVI-WPYzZB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094950827995926805",
+        "created_at": "2026-09-02T00:49:34.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094950827995926805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gengzishunli/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/gengzishunli/status/2094580484210831725",
+              "start": 11,
+              "url": "https://t.co/DYrnhmtAs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094950827995926805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094580484210831725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃一口把太平洋喝干了 https://t.co/DYrnhmtAs1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094580471401488384"
+          ]
+        },
+        "author_id": "918716499254132736",
+        "conversation_id": "2094580484210831725",
+        "created_at": "2026-09-01T00:17:57.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094580484210831725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eay62Ts5dA",
+              "end": 75,
+              "expanded_url": "https://x.com/gengzishunli/status/2094580484210831725/video/1",
+              "media_key": "13_2094580471401488384",
+              "start": 52,
+              "url": "https://t.co/eay62Ts5dA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094580484210831725",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094580471401488384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 181618,
+          "like_count": 1560,
+          "quote_count": 22,
+          "reply_count": 115,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "海外的朋友如果想吃月饼了，其实可以这么搞下，反正不就吃个形状，这种感觉比真正的月饼还好吃，起码不甜腻！ https://t.co/eay62Ts5dA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094950827995926805",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 555,
+          "like_count": 1404,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-13T05:54:17.000Z",
+        "description": "有啥发啥 | 美股韭菜日记 | 科技圈吃瓜群众 | 段子搬运工 | 日常碎碎念 | 突发奇想专业户 | 养生理智但管不住嘴 | AI工具探索中 | 好看的剧/电影/纪录片 | 偶尔怀旧金曲 | meme收藏家 | 热点慢半拍但一定要唠!",
+        "id": "918716499254132736",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2094949417954759033",
+        "name": "阿离啊哩哩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918716499254132736/1589036668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049935213028048896/cOC68CPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8475,
+          "following_count": 7908,
+          "like_count": 6933,
+          "listed_count": 11,
+          "media_count": 614,
+          "tweet_count": 8643
+        },
+        "url": "",
+        "username": "gengzishunli",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

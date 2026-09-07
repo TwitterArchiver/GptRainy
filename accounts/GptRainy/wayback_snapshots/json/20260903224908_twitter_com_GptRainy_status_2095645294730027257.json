@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095645284495929344"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095645294730027257",
+    "created_at": "2026-09-03T22:49:08.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T23:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095645294730027257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UwKbuB6j3l",
+          "end": 27,
+          "expanded_url": "https://x.com/GptRainy/status/2095645294730027257/photo/1",
+          "media_key": "3_2095645284495929344",
+          "start": 4,
+          "url": "https://t.co/UwKbuB6j3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095645294730027257",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095645284495929344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早餐🤤 https://t.co/UwKbuB6j3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095645284495929344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRU6SHWaMAA2roL.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095645284495929344"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095645294730027257",
+        "created_at": "2026-09-03T22:49:08.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T23:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095645294730027257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwKbuB6j3l",
+              "end": 27,
+              "expanded_url": "https://x.com/GptRainy/status/2095645294730027257/photo/1",
+              "media_key": "3_2095645284495929344",
+              "start": 4,
+              "url": "https://t.co/UwKbuB6j3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095645294730027257",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095645284495929344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早餐🤤 https://t.co/UwKbuB6j3l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/我的小猫叫卡尔🐱/msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095645294730027257",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 615,
+          "like_count": 1624,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

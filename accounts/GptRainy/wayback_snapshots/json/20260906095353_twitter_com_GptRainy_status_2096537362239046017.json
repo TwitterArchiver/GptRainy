@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096537327120318464",
+        "3_2096537337828450304",
+        "3_2096537348913893376"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2096537362239046017",
+    "created_at": "2026-09-06T09:53:53.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096537362239046017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TqJZmJQQ2u",
+          "end": 33,
+          "expanded_url": "https://x.com/GptRainy/status/2096537362239046017/photo/1",
+          "media_key": "3_2096537327120318464",
+          "start": 10,
+          "url": "https://t.co/TqJZmJQQ2u"
+        },
+        {
+          "display_url": "pic.x.com/TqJZmJQQ2u",
+          "end": 33,
+          "expanded_url": "https://x.com/GptRainy/status/2096537362239046017/photo/1",
+          "media_key": "3_2096537337828450304",
+          "start": 10,
+          "url": "https://t.co/TqJZmJQQ2u"
+        },
+        {
+          "display_url": "pic.x.com/TqJZmJQQ2u",
+          "end": 33,
+          "expanded_url": "https://x.com/GptRainy/status/2096537362239046017/photo/1",
+          "media_key": "3_2096537348913893376",
+          "start": 10,
+          "url": "https://t.co/TqJZmJQQ2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096537362239046017",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096537327120318464"
+      },
+      {
+        "media_key": "3_2096537337828450304"
+      },
+      {
+        "media_key": "3_2096537348913893376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫儿这个黑芝麻汤圆 https://t.co/TqJZmJQQ2u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096537327120318464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhll1FagAAK1gX.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096537337828450304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhlmc-boAAl5Ni.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096537348913893376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhlnGRaEAAyqXy.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096537327120318464",
+            "3_2096537337828450304",
+            "3_2096537348913893376"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2096537362239046017",
+        "created_at": "2026-09-06T09:53:53.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096537362239046017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqJZmJQQ2u",
+              "end": 33,
+              "expanded_url": "https://x.com/GptRainy/status/2096537362239046017/photo/1",
+              "media_key": "3_2096537327120318464",
+              "start": 10,
+              "url": "https://t.co/TqJZmJQQ2u"
+            },
+            {
+              "display_url": "pic.x.com/TqJZmJQQ2u",
+              "end": 33,
+              "expanded_url": "https://x.com/GptRainy/status/2096537362239046017/photo/1",
+              "media_key": "3_2096537337828450304",
+              "start": 10,
+              "url": "https://t.co/TqJZmJQQ2u"
+            },
+            {
+              "display_url": "pic.x.com/TqJZmJQQ2u",
+              "end": 33,
+              "expanded_url": "https://x.com/GptRainy/status/2096537362239046017/photo/1",
+              "media_key": "3_2096537348913893376",
+              "start": 10,
+              "url": "https://t.co/TqJZmJQQ2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096537362239046017",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096537327120318464"
+          },
+          {
+            "media_key": "3_2096537337828450304"
+          },
+          {
+            "media_key": "3_2096537348913893376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫儿这个黑芝麻汤圆 https://t.co/TqJZmJQQ2u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/LLM重度依赖🖥️/19yo/communist/VOCALOID🎶/计科/历史/诗歌/哲学/语言学/交通/城市规划/我很无聊快来找我聊天🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2096537362239046017",
+        "name": "小雨🍥",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 626,
+          "like_count": 1722,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

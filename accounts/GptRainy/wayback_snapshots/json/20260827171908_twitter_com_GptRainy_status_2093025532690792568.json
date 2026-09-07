@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2087211676856877286",
+    "created_at": "2026-08-27T17:19:08.000Z",
+    "display_text_range": [
+      15,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093025532690792568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093025532690792568",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087211676856877286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 宝宝可以互关吗！我也是山东的（济南）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2087211676856877286",
+        "created_at": "2026-08-27T17:19:08.000Z",
+        "display_text_range": [
+          15,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093025532690792568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093025532690792568",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087211676856877286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 宝宝可以互关吗！我也是山东的（济南）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008233761763409920",
+        "conversation_id": "2087211676856877286",
+        "created_at": "2026-08-11T16:16:56.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087211676856877286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087211676856877286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有时候觉得我好没正事。明明有雅思、科研、竞赛还有生意等等一堆事，但一个都不想动\n最近半个月在坚定不移的全国可飞，山东省神秘小城市->济南->深圳->香港（上了一周水课，感觉也是去玩的）->广州->佛山->中山->珠海->广州->重庆...\n倒是真挺开心，平时现实中完全找不到人玩的我这半个月面积了十几个推上和其他地方的网友（虽然最想见的人没见到😭 哎，再见吧，也算我的初恋了，不想见我就不打扰你了）\n怎么说呢，这件事在我看来好像还挺有意义的。虽然全国可飞不能给我的未来带来多少立竿见影的物质价值，但我几乎笃定以后再飞绝没有今天的感受了\n在这次出来之前，我几乎搞不懂生活的意义。我的家在山东一座四线城市，学校在河北的一座四线城市，我每天都要跟当地人没有理想、只有平平淡淡的生活撞个满怀。久而久之，我不知道生活如果就是这样，想那么多、做那么多是为了什么。跟着大部分同学划水游过四年光阴，末了捡个不多不少几千的工资在不大不小的城市过不好不坏的生活。甚至我妈也是这么想的，天天让我回来考个公，凭借一点背景优势混口饭吃应该饿不着\n但当我来到粤国和其邻邦香港的繁华，见到真正活跃的经济和社会，见到忙于奔走但眼里有希望、好像还有点梦想的人们...见到了很多比我厉害的多、热烈的多的人\n我好像又看到了儿时誓要做出一番事业的自己。那时的我肯定想不到，我居然就这么在那个小县城读完了初高中，成为了普普通通的大学生，卷来卷去还是为了一点点绩点和碎银几两。。\n夜半时分，山城的灯光依旧辉煌。我猛然意识到人的生命是有限的，能用来燃烧、热烈绽放光芒的更是只有寥寥几年，一旦错过便不会再有...\n\n哎。感悟还有很多吧。先晚安吧。如果我写的这点牢骚烦到了你，那真的非常抱歉...另外你🐖被重庆菜弄肠胃炎了正在发骚，语言确实不甚流畅，还请见谅..."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4116,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候觉得我好没正事。明明有雅思、科研、竞赛还有生意等等一堆事，但一个都不想动\n最近半个月在坚定不移的全国可飞，山东省神秘小城市-&gt;济南-&gt;深圳-&gt;香港（上了一周水课，感觉也是去玩的）-&gt;广州-&gt;佛山-&gt;中山-&gt;珠海-&gt;广州-&gt;重庆..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/历史学/社会学/人类学/哲学/语言学/电影/VOCALOID/双相/0d/请和我交朋友/欢迎PM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093025532690792568",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 537,
+          "like_count": 1199,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "🐖 20 y.o. \n🥴准大三计科摆烂人，喜欢折腾ai，云和各种好玩的玩意\npan，非常友跨\n欢迎互 fo💫，发现被我莫名奇妙fo了就是暗恋你😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "is_identity_verified": false,
+        "location": "在你家厨房偷吃大白菜",
+        "most_recent_tweet_id": "2093014155758612676",
+        "name": "galaxy",
+        "pinned_tweet_id": "2061990483363312002",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1034,
+          "like_count": 2947,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2094730237489955265",
+    "created_at": "2026-09-01T10:48:34.000Z",
+    "display_text_range": [
+      7,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094739182967197711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1999621714125463552",
+          "start": 0,
+          "username": "uz1qf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094739182967197711",
+    "in_reply_to_user_id": "1999621714125463552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094730237489955265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uz1qf 感触悪くなかったなら期待できそう！受かってるといいね〜😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2094730237489955265",
+        "created_at": "2026-09-01T10:48:34.000Z",
+        "display_text_range": [
+          7,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094739182967197711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1999621714125463552",
+              "start": 0,
+              "username": "uz1qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094739182967197711",
+        "in_reply_to_user_id": "1999621714125463552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094730237489955265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uz1qf 感触悪くなかったなら期待できそう！受かってるといいね〜😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999621714125463552",
+        "conversation_id": "2094730237489955265",
+        "created_at": "2026-09-01T10:13:01.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094730237489955265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094730237489955265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受かるといいな〜\n感触悪くはなかったし"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "travelling in 🇰🇷/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺/目标是看遍全世界/msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094739182967197711",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 548,
+          "like_count": 1347,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-12T23:26:02.000Z",
+        "description": "酒カスで警察のお世話になった30の男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/13a4ak7b9hc4sj…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/13a4ak7b9hc4sj8?t=YMdYWn&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Go5KsSMO0e"
+              }
+            ]
+          }
+        },
+        "id": "1999621714125463552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094730237489955265",
+        "name": "ななし",
+        "pinned_tweet_id": "2023299055661838842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 188,
+          "like_count": 41003,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/Go5KsSMO0e",
+        "username": "uz1qf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2093890003743191351",
+    "created_at": "2026-08-30T02:34:14.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T03:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093890003743191351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SAVEAMERICzi/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/SAVEAMERICzi/status/2093658406196326626",
+          "start": 17,
+          "url": "https://t.co/DicJSxZfz4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093890003743191351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093658406196326626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前面忘了，后面忘了，总之红都女皇 https://t.co/DicJSxZfz4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20758,
+        "height": 540,
+        "media_key": "13_2093658355139051520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093658355139051520/img/1od7j6MCmRkruE-w.jpg",
+        "public_metrics": {
+          "view_count": 402038
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093658355139051520/vid/avc1/480x270/fkJ-rRgDyv4EuLf5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093658355139051520/vid/avc1/640x360/R9VGtU_ZBwz1DAAg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093658355139051520/vid/avc1/960x540/Iq4OxNnXHrwlsnO_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093658355139051520/pl/JzFlJd07WurPGc5Z.m3u8?v=620"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2093890003743191351",
+        "created_at": "2026-08-30T02:34:14.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093890003743191351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SAVEAMERICzi/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/SAVEAMERICzi/status/2093658406196326626",
+              "start": 17,
+              "url": "https://t.co/DicJSxZfz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093890003743191351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093658406196326626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前面忘了，后面忘了，总之红都女皇 https://t.co/DicJSxZfz4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093658355139051520"
+          ]
+        },
+        "author_id": "2088900754346004480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2093658406196326626",
+        "created_at": "2026-08-29T11:13:56.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093658406196326626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eUYCfi9OKz",
+              "end": 199,
+              "expanded_url": "https://x.com/SAVEAMERICzi/status/2093658406196326626/video/1",
+              "media_key": "13_2093658355139051520",
+              "start": 176,
+              "url": "https://t.co/eUYCfi9OKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093658406196326626",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093658355139051520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 688780,
+          "like_count": 922,
+          "quote_count": 65,
+          "reply_count": 735,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🚨MAJOR UPDATE: CONGRESS WOMAN AOC HAS JUST CONFIRMED SHE WILL BE RUNNING FOR PRESIDENT IN 2028\n\nWHEN ASKED WHAT HER SECRET TO WINNING WAS, SHE SMILED, BLUSHED AND REPLIED \"Q\" https://t.co/eUYCfi9OKz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/19yo/communist/总体解放/CS Dev💻/历史/诗歌/哲学/语言/交通/城市规划/建筑/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093890003743191351",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 532,
+          "like_count": 1231,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T08:10:14.000Z",
+        "description": "",
+        "id": "2088900754346004480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093764392936521779",
+        "name": "SAVE AMERICA",
+        "pinned_tweet_id": "2093658406196326626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088900754346004480/1786868117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088902347212664833/TXZFeLHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 45,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "SAVEAMERICzi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

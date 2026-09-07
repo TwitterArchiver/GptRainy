@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092878001528852480"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2092878017072890227",
+    "created_at": "2026-08-27T07:32:57.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092878017072890227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zPabf84NzP",
+          "end": 45,
+          "expanded_url": "https://x.com/GptRainy/status/2092878017072890227/photo/1",
+          "media_key": "3_2092878001528852480",
+          "start": 22,
+          "url": "https://t.co/zPabf84NzP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092878017072890227",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092878001528852480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "☕\n小城市还是好呀，悠闲很多，首尔要挤死了 https://t.co/zPabf84NzP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092878001528852480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtldC9bUAAM_TC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092878001528852480"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2092878017072890227",
+        "created_at": "2026-08-27T07:32:57.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092878017072890227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPabf84NzP",
+              "end": 45,
+              "expanded_url": "https://x.com/GptRainy/status/2092878017072890227/photo/1",
+              "media_key": "3_2092878001528852480",
+              "start": 22,
+              "url": "https://t.co/zPabf84NzP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092878017072890227",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092878001528852480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☕\n小城市还是好呀，悠闲很多，首尔要挤死了 https://t.co/zPabf84NzP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "宁静且永远安乐的天堂；",
+        "most_recent_tweet_id": "2092878017072890227",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 552,
+          "like_count": 1176,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

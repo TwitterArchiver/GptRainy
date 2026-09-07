@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2095177407552434226",
+    "created_at": "2026-09-02T15:54:51.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095178650081742984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1310330776148377604",
+          "start": 0,
+          "username": "_Adbuzese_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095178650081742984",
+    "in_reply_to_user_id": "1310330776148377604",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095177407552434226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Adbuzese_ Мио."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2095177407552434226",
+        "created_at": "2026-09-02T15:54:51.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095178650081742984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1310330776148377604",
+              "start": 0,
+              "username": "_Adbuzese_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095178650081742984",
+        "in_reply_to_user_id": "1310330776148377604",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095177407552434226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Adbuzese_ Мио."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310330776148377604",
+        "conversation_id": "2095177407552434226",
+        "created_at": "2026-09-02T15:49:55.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095177407552434226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095177407552434226",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Надеюсь, я однажды стану интернациональным блогером. Осталось набить огромное влияние и подписчиков в русском, японском и китайском твиттере 🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/Visited: 🇯🇵🇲🇴🇭🇰🇷🇺msk你还我6k粉大号😭。/Transfem/友顺性别/友男/ASD/LLM重度依赖/19yo/communist/全域解放🌈/计科/历史/诗歌/哲学/语言学/交通/城市规划/VOCALOID/双相/0d/请和我交朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095178650081742984",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 614,
+          "like_count": 1562,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 899
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-27T21:29:56.000Z",
+        "description": "Картавый блогер по визуальным новеллам и просто твиттерских шиз",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Adbuzese",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@Adbuzese",
+                "start": 0,
+                "url": "https://t.co/YGMLa1s3HJ"
+              }
+            ]
+          }
+        },
+        "id": "1310330776148377604",
+        "is_identity_verified": false,
+        "location": "Вязники/Москвабад",
+        "most_recent_tweet_id": "2095177612096065963",
+        "name": "ArbuzChan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310330776148377604/1740671075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081398831283916800/EDi0_WAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5347,
+          "following_count": 402,
+          "like_count": 54926,
+          "listed_count": 36,
+          "media_count": 1274,
+          "tweet_count": 5624
+        },
+        "url": "https://t.co/YGMLa1s3HJ",
+        "username": "_Adbuzese_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
