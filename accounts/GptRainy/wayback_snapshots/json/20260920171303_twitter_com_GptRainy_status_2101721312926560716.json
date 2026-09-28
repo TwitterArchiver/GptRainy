@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044311827",
+          "name": "World Bank"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2101721312926560716",
+    "created_at": "2026-09-20T17:13:03.000Z",
+    "display_text_range": [
+      0,
+      183
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T18:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101721312926560716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Visualizations for Share of graduates by field, female (%)",
+          "display_url": "genderdata.worldbank.org/en/indicator/s…",
+          "end": 183,
+          "expanded_url": "https://genderdata.worldbank.org/en/indicator/se-ter-grad-fe-zs",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2101721313874505729/A40QdURx?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2101721313874505729/A40QdURx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 160,
+          "status": 200,
+          "title": "Share of graduates by field, female (%) | World Bank Gender Data Portal",
+          "unwound_url": "https://genderdata.worldbank.org/en/indicator/se-ter-grad-fe-zs",
+          "url": "https://t.co/cbW38zep9u"
+        },
+        {
+          "display_url": "x.com/princess_01011…",
+          "end": 207,
+          "expanded_url": "https://twitter.com/princess_01011/status/2101620366305358060",
+          "start": 184,
+          "url": "https://t.co/PPKVj5BBAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101721312926560716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101620366305358060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同意前半段和后半段，但是伊朗数据有误。World Bank Gender Data Portal 使用 UNESCO UIS 数据，目前列出的伊朗数据是 2022 年 STEM 高等教育毕业生中女性占 33.3%。全球 UNESCO 给出的女性 STEM 毕业生平均值约为 35%。也就是说，伊朗甚至略低于全球平均水平。https://t.co/cbW38zep9u https://t.co/PPKVj5BBAr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044311827",
+              "name": "World Bank"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2101721312926560716",
+        "created_at": "2026-09-20T17:13:03.000Z",
+        "display_text_range": [
+          0,
+          183
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101721312926560716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Visualizations for Share of graduates by field, female (%)",
+              "display_url": "genderdata.worldbank.org/en/indicator/s…",
+              "end": 183,
+              "expanded_url": "https://genderdata.worldbank.org/en/indicator/se-ter-grad-fe-zs",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2101721313874505729/A40QdURx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101721313874505729/A40QdURx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 160,
+              "status": 200,
+              "title": "Share of graduates by field, female (%) | World Bank Gender Data Portal",
+              "unwound_url": "https://genderdata.worldbank.org/en/indicator/se-ter-grad-fe-zs",
+              "url": "https://t.co/cbW38zep9u"
+            },
+            {
+              "display_url": "x.com/princess_01011…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/princess_01011/status/2101620366305358060",
+              "start": 184,
+              "url": "https://t.co/PPKVj5BBAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101721312926560716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101620366305358060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同意前半段和后半段，但是伊朗数据有误。World Bank Gender Data Portal 使用 UNESCO UIS 数据，目前列出的伊朗数据是 2022 年 STEM 高等教育毕业生中女性占 33.3%。全球 UNESCO 给出的女性 STEM 毕业生平均值约为 35%。也就是说，伊朗甚至略低于全球平均水平。https://t.co/cbW38zep9u https://t.co/PPKVj5BBAr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079399533856079872",
+        "conversation_id": "2101620366305358060",
+        "created_at": "2026-09-20T10:31:56.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101620366305358060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101620366305358060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "鼓励女孩学理工科，但为了stem比例＝女性地位的信念而去学就没必要了。女性stem比例低是因为长期的资源倾斜和歧视性印象没错，但在不同国家这种失衡的表现不一样。东亚女性在文社科比例大，而伊朗女性在stem领域反而更多，被限制的是接近权力的法律，政治。\n这两种是一体两面的，因为在他们眼里的香饽饽不同，对待女性进入学科的限制也不同\n没必要为了这种信念去做殉道者，让本就喜欢stem的女性不要被女生学不好理科的观念阻拦就可以了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4118,
+          "like_count": 97,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "鼓励女孩学理工科，但为了stem比例＝女性地位的信念而去学就没必要了。女性stem比例低是因为长期的资源倾斜和歧视性印象没错，但在不同国家这种失衡的表现不一样。东亚女性在文社科比例大，而伊朗女性在stem领域反而更多，被限制的是接近权力的法律，政治。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist🇵🇸🇺🇦/VOCALOID🎶/药物药理/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2101721312926560716",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 664,
+          "like_count": 2167,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "她/她们/囡囡   🏳️‍🌈女同 友跨顺女  希望可以捂热你…",
+        "id": "2079399533856079872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101702036576489579",
+        "name": "公主病",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 428,
+          "like_count": 4235,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

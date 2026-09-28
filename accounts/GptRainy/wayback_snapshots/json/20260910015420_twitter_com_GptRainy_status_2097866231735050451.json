@@ -1,0 +1,760 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1354881137114402818",
+          "name": "HasanAbi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1526278121527205889",
+          "name": "2022 United States midterm elections"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "38",
+          "name": "Political Race"
+        },
+        "entity": {
+          "id": "1526278121527205889",
+          "name": "2022 United States midterm elections"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1354881137114402818",
+          "name": "HasanAbi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1354881137114402818",
+          "name": "HasanAbi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518940645343125504",
+          "name": "United States political events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1526278121527205889",
+          "name": "2022 United States midterm elections"
+        }
+      }
+    ],
+    "conversation_id": "2097866231735050451",
+    "created_at": "2026-09-10T01:54:20.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T02:54:05.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097866167507673410",
+      "2097866231735050451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HasanabiProd/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/HasanabiProd/status/2097850329836441978",
+          "start": 5,
+          "url": "https://t.co/ecMa3DClXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097866231735050451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097850329836441978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好男孩🥹 https://t.co/ecMa3DClXD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2097850269459742720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0PtIcbAAAW9Fl.jpg",
+        "width": 529
+      },
+      {
+        "height": 1332,
+        "media_key": "3_2097850269308440579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0PtH4WUAMCCiH.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940645343125504",
+              "name": "United States political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          }
+        ],
+        "conversation_id": "2097866167507673410",
+        "created_at": "2026-09-10T01:54:05.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:54:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097866167507673410",
+          "2097866231735050451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HasanabiProd/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/HasanabiProd/status/2097850329836441978",
+              "start": 4,
+              "url": "https://t.co/ecMa3DClXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097866167507673410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097850329836441978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀🥹 https://t.co/ecMa3DClXD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940645343125504",
+              "name": "United States political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          }
+        ],
+        "conversation_id": "2097866231735050451",
+        "created_at": "2026-09-10T01:54:20.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:54:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097866167507673410",
+          "2097866231735050451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HasanabiProd/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/HasanabiProd/status/2097850329836441978",
+              "start": 5,
+              "url": "https://t.co/ecMa3DClXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097866231735050451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097850329836441978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好男孩🥹 https://t.co/ecMa3DClXD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097850269459742720",
+            "3_2097850269308440579"
+          ]
+        },
+        "author_id": "1455987434068447236",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354881137114402818",
+              "name": "HasanAbi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940645343125504",
+              "name": "United States political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1526278121527205889",
+              "name": "2022 United States midterm elections"
+            }
+          }
+        ],
+        "conversation_id": "2097850329836441978",
+        "created_at": "2026-09-10T00:51:09.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:50:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097850274043842669",
+          "2097850329836441978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMWdDJH2KU",
+              "end": 142,
+              "expanded_url": "https://x.com/HasanabiProd/status/2097850329836441978/photo/1",
+              "media_key": "3_2097850269459742720",
+              "start": 119,
+              "url": "https://t.co/VMWdDJH2KU"
+            },
+            {
+              "display_url": "pic.x.com/VMWdDJH2KU",
+              "end": 142,
+              "expanded_url": "https://x.com/HasanabiProd/status/2097850329836441978/photo/1",
+              "media_key": "3_2097850269308440579",
+              "start": 119,
+              "url": "https://t.co/VMWdDJH2KU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097850329836441978",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097850269459742720"
+          },
+          {
+            "media_key": "3_2097850269308440579"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 18613,
+          "like_count": 2070,
+          "quote_count": 16,
+          "reply_count": 24,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "Searches for “Hasan Piker shirtless” have gone up over 5000% since his appearance at the Republican Midterm convention https://t.co/VMWdDJH2KU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097866231735050451",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 630,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T19:57:16.000Z",
+        "description": "I edit @hasanthehun videos. I am not Hasan Piker (parody). Fan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "hasanthehun"
+              }
+            ]
+          }
+        },
+        "id": "1455987434068447236",
+        "is_identity_verified": false,
+        "location": "Hasan’s Dungeon ",
+        "most_recent_tweet_id": "2097850329836441978",
+        "name": "Hasanabi Productions (fan account)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455987434068447236/1646520284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649144254092935168/snYM6RWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33690,
+          "following_count": 373,
+          "like_count": 19444,
+          "listed_count": 155,
+          "media_count": 1012,
+          "tweet_count": 1196
+        },
+        "url": "",
+        "username": "HasanabiProd",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

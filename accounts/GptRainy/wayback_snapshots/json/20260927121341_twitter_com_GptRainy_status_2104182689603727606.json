@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104182635958562816"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2104182689603727606",
+    "created_at": "2026-09-27T12:13:41.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104182689603727606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQGn273hRh",
+          "end": 40,
+          "expanded_url": "https://x.com/GptRainy/status/2104182689603727606/photo/1",
+          "media_key": "3_2104182635958562816",
+          "start": 17,
+          "url": "https://t.co/RQGn273hRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104182689603727606",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104182635958562816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界上维护最好的codex项目！ https://t.co/RQGn273hRh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_2104182635958562816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOO9X7a8AAIdzK.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104182635958562816"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2104182689603727606",
+        "created_at": "2026-09-27T12:13:41.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104182689603727606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQGn273hRh",
+              "end": 40,
+              "expanded_url": "https://x.com/GptRainy/status/2104182689603727606/photo/1",
+              "media_key": "3_2104182635958562816",
+              "start": 17,
+              "url": "https://t.co/RQGn273hRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104182689603727606",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104182635958562816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上维护最好的codex项目！ https://t.co/RQGn273hRh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "19 · t-girl · socialist · 🇵🇸🇺🇦\nProud Shandongese｜LLM dev｜Traveler｜Transit nerd｜Smoker🚬｜VOCALOID lover｜Cat mom🐈\n\nAbundance for all. Accelerate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyeZj"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2104182689603727606",
+        "name": "小雨🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 748,
+          "like_count": 2281,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 1272
+        },
+        "url": "https://t.co/LS2oOiyeZj",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

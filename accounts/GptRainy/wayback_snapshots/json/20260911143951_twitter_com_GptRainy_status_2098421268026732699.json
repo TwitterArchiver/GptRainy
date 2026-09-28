@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098421268026732699",
+    "created_at": "2026-09-11T14:39:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098421268026732699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699572411442601984",
+          "start": 3,
+          "username": "subbpunkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098421268026732699",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5212
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098127555622551830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @subbpunkk: Indonesian queer folk and especially trans women are going through a horrific, state-sanctioned genocide in the form of brut…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098421268026732699",
+        "created_at": "2026-09-11T14:39:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098421268026732699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699572411442601984",
+              "start": 3,
+              "username": "subbpunkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098421268026732699",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5212
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098127555622551830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @subbpunkk: Indonesian queer folk and especially trans women are going through a horrific, state-sanctioned genocide in the form of brut…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699572411442601984",
+        "conversation_id": "2098127555622551830",
+        "created_at": "2026-09-10T19:12:45.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098127555622551830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aquariooonn/st…",
+              "end": 296,
+              "expanded_url": "https://twitter.com/aquariooonn/status/2083063328344297619",
+              "start": 273,
+              "url": "https://t.co/GKHcP0a8kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098127555622551830",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 496,
+          "impression_count": 107042,
+          "like_count": 12067,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 5212
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083063328344297619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Indonesian queer folk and especially trans women are going through a horrific, state-sanctioned genocide in the form of brutal street violence and the criminalization of queer identities as I type this. PLEASE SPREAD THE WORD!!! The crimes happening there are unspeakable. https://t.co/GKHcP0a8kd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098421268026732699",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 641,
+          "like_count": 1919,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T23:57:04.000Z",
+        "description": "fallen angel . she/her . engaged . nb . ΘΔ . furry . anarchist . musician . 29 . abolish prisons . blm . free palestine . acab . 💊💉8/31/23 . audhd . MDNF🔞",
+        "id": "1699572411442601984",
+        "is_identity_verified": false,
+        "location": "virgo . pfp by me",
+        "most_recent_tweet_id": "2098373137003905157",
+        "name": "🍉⸸⛥pupppunkk⛧⸸ at gay",
+        "pinned_tweet_id": "1820591680212406502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699572411442601984/1719357399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093234261226569728/gXZNPm9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 5060,
+          "like_count": 193923,
+          "listed_count": 14,
+          "media_count": 2155,
+          "tweet_count": 46321
+        },
+        "url": "",
+        "username": "subbpunkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

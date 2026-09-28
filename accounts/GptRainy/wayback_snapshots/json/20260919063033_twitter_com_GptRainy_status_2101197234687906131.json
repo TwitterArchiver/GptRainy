@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2101197234687906131",
+    "created_at": "2026-09-19T06:30:33.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101197234687906131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1794222795754532864",
+          "start": 3,
+          "username": "MordredP_0501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101197234687906131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097920798027812898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @MordredP_0501: 你们知道吗，其实顺直男想进女厕所是可以直接进的，想偷拍也是可以直接偷拍的，这个世界上绝大多数的强奸和偷拍犯罪本来就是未经任何伪装的顺直男干的，所以我不知道你们到底是怎么了😹😹😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2101197234687906131",
+        "created_at": "2026-09-19T06:30:33.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101197234687906131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1794222795754532864",
+              "start": 3,
+              "username": "MordredP_0501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101197234687906131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097920798027812898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @MordredP_0501: 你们知道吗，其实顺直男想进女厕所是可以直接进的，想偷拍也是可以直接偷拍的，这个世界上绝大多数的强奸和偷拍犯罪本来就是未经任何伪装的顺直男干的，所以我不知道你们到底是怎么了😹😹😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794222795754532864",
+        "conversation_id": "2097920793242222690",
+        "created_at": "2026-09-10T05:31:10.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097920798027812898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097920798027812898",
+        "in_reply_to_user_id": "1794222795754532864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 34669,
+          "like_count": 145,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097920796853452870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "你们知道吗，其实顺直男想进女厕所是可以直接进的，想偷拍也是可以直接偷拍的，这个世界上绝大多数的强奸和偷拍犯罪本来就是未经任何伪装的顺直男干的，所以我不知道你们到底是怎么了😹😹😹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2101197234687906131",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 657,
+          "like_count": 2120,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T04:23:53.000Z",
+        "description": "=WMY｜中文/ENG/日本語本当苦手｜local mentally ill dead dove acc｜i have a phd in incestology｜PM/TypeMoon/ASOIAF/Arknights/WH40K｜permanent resident of RienShio nation",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/users/ASwallow…",
+                "end": 23,
+                "expanded_url": "https://archiveofourown.org/users/ASwallow323",
+                "start": 0,
+                "url": "https://t.co/jcnpLRxGsM"
+              }
+            ]
+          }
+        },
+        "id": "1794222795754532864",
+        "is_identity_verified": false,
+        "location": "Shiomi Yoru's Womb",
+        "most_recent_tweet_id": "2100839983989026914",
+        "name": "无名燕（蜘蛛之家版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794222795754532864/1743317705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929683595343679491/M6FvJDoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 1338,
+          "like_count": 256947,
+          "listed_count": 1,
+          "media_count": 797,
+          "tweet_count": 18124
+        },
+        "url": "https://t.co/jcnpLRxGsM",
+        "username": "MordredP_0501",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

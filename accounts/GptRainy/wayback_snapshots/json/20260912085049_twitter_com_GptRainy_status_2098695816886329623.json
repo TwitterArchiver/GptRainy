@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098145534162935809"
+      ],
+      "media_source_tweet_id": [
+        "2098145878162698747"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098695816886329623",
+    "created_at": "2026-09-12T08:50:49.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098695816886329623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2058433394019618816",
+          "start": 3,
+          "username": "lgbtq_refugees2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/upC8mRfRzl",
+          "end": 85,
+          "expanded_url": "https://x.com/lgbtq_refugees2/status/2098145878162698747/video/1",
+          "media_key": "13_2098145534162935809",
+          "start": 62,
+          "url": "https://t.co/upC8mRfRzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098695816886329623",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2098145534162935809"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1293
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098145878162698747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lgbtq_refugees2: Please don't get tired us 🏳️‍🌈🏳️‍🌈🌈🏳️‍⚧️ https://t.co/upC8mRfRzl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44223,
+        "height": 720,
+        "media_key": "13_2098145534162935809",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098145534162935809/img/1tEKrKQuR0b8Kw6H.jpg",
+        "public_metrics": {
+          "view_count": 93646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098145534162935809/vid/avc1/480x270/Ndnhh_MAwnzJqovd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098145534162935809/vid/avc1/640x360/dbyXN10uJ-0G2wxG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098145534162935809/vid/avc1/1280x720/iOcLstb6s3_tQnj6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098145534162935809/pl/cp8Jwq-fEAwBF6Hl.m3u8?v=81f"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098145534162935809"
+          ],
+          "media_source_tweet_id": [
+            "2098145878162698747"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098695816886329623",
+        "created_at": "2026-09-12T08:50:49.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098695816886329623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2058433394019618816",
+              "start": 3,
+              "username": "lgbtq_refugees2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/upC8mRfRzl",
+              "end": 85,
+              "expanded_url": "https://x.com/lgbtq_refugees2/status/2098145878162698747/video/1",
+              "media_key": "13_2098145534162935809",
+              "start": 62,
+              "url": "https://t.co/upC8mRfRzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098695816886329623",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098145534162935809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098145878162698747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lgbtq_refugees2: Please don't get tired us 🏳️‍🌈🏳️‍🌈🌈🏳️‍⚧️ https://t.co/upC8mRfRzl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098145534162935809"
+          ]
+        },
+        "author_id": "2058433394019618816",
+        "conversation_id": "2098145878162698747",
+        "created_at": "2026-09-10T20:25:33.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T21:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098145878162698747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/upC8mRfRzl",
+              "end": 64,
+              "expanded_url": "https://x.com/lgbtq_refugees2/status/2098145878162698747/video/1",
+              "media_key": "13_2098145534162935809",
+              "start": 41,
+              "url": "https://t.co/upC8mRfRzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098145878162698747",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098145534162935809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 284269,
+          "like_count": 3477,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 1293
+        },
+        "reply_settings": "everyone",
+        "text": "Please don't get tired us 🏳️‍🌈🏳️‍🌈🌈🏳️‍⚧️ https://t.co/upC8mRfRzl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098695816886329623",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 677,
+          "like_count": 1974,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-24T06:24:55.000Z",
+        "description": "🏳️‍🌈 LGBTQ+ refugee | Surviving with hope in a refugee camp | Fighting fear, hunger & discrimination , please stand with us  💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gofund.me/eeb70b41d",
+                "end": 23,
+                "expanded_url": "https://gofund.me/eeb70b41d",
+                "start": 0,
+                "url": "https://t.co/kd46njA0I2"
+              }
+            ]
+          }
+        },
+        "id": "2058433394019618816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098450451637105008",
+        "name": "frank 🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058433394019618816/1788511379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095794738423119875/cT8AeVDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 534,
+          "like_count": 1476,
+          "listed_count": 7,
+          "media_count": 154,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/kd46njA0I2",
+        "username": "lgbtq_refugees2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

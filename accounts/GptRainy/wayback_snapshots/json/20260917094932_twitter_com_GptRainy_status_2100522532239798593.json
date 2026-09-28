@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100522513541603328",
+        "3_2100522522106302465"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2100522532239798593",
+    "created_at": "2026-09-17T09:49:32.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:48:29.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100522268883648784",
+      "2100522532239798593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hmQOIXw8Rt",
+          "end": 42,
+          "expanded_url": "https://x.com/GptRainy/status/2100522532239798593/photo/1",
+          "media_key": "3_2100522513541603328",
+          "start": 19,
+          "url": "https://t.co/hmQOIXw8Rt"
+        },
+        {
+          "display_url": "pic.x.com/hmQOIXw8Rt",
+          "end": 42,
+          "expanded_url": "https://x.com/GptRainy/status/2100522532239798593/photo/1",
+          "media_key": "3_2100522522106302465",
+          "start": 19,
+          "url": "https://t.co/hmQOIXw8Rt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100522532239798593",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100522513541603328"
+      },
+      {
+        "media_key": "3_2100522522106302465"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烟鬼环节😉\n无燃烧加热电子烟，新奇哦 https://t.co/hmQOIXw8Rt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100522248469929984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaN2x7a4AAKZMo.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100522258037149696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaN3VkbEAApzTP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100522513541603328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaOGNZboAAa3qn.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100522522106302465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaOGtTakAEkqRJ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100522248469929984",
+            "3_2100522258037149696"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2100522268883648784",
+        "created_at": "2026-09-17T09:48:29.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:48:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100522268883648784",
+          "2100522532239798593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Fj6KTmmxH",
+              "end": 41,
+              "expanded_url": "https://x.com/GptRainy/status/2100522268883648784/photo/1",
+              "media_key": "3_2100522248469929984",
+              "start": 18,
+              "url": "https://t.co/4Fj6KTmmxH"
+            },
+            {
+              "display_url": "pic.x.com/4Fj6KTmmxH",
+              "end": 41,
+              "expanded_url": "https://x.com/GptRainy/status/2100522268883648784/photo/1",
+              "media_key": "3_2100522258037149696",
+              "start": 18,
+              "url": "https://t.co/4Fj6KTmmxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100522268883648784",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100522248469929984"
+          },
+          {
+            "media_key": "3_2100522258037149696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟鬼缓解\n无燃烧加热电子烟，新奇哦 https://t.co/4Fj6KTmmxH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100522513541603328",
+            "3_2100522522106302465"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2100522532239798593",
+        "created_at": "2026-09-17T09:49:32.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:48:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100522268883648784",
+          "2100522532239798593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmQOIXw8Rt",
+              "end": 42,
+              "expanded_url": "https://x.com/GptRainy/status/2100522532239798593/photo/1",
+              "media_key": "3_2100522513541603328",
+              "start": 19,
+              "url": "https://t.co/hmQOIXw8Rt"
+            },
+            {
+              "display_url": "pic.x.com/hmQOIXw8Rt",
+              "end": 42,
+              "expanded_url": "https://x.com/GptRainy/status/2100522532239798593/photo/1",
+              "media_key": "3_2100522522106302465",
+              "start": 19,
+              "url": "https://t.co/hmQOIXw8Rt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100522532239798593",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100522513541603328"
+          },
+          {
+            "media_key": "3_2100522522106302465"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟鬼环节😉\n无燃烧加热电子烟，新奇哦 https://t.co/hmQOIXw8Rt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2100522532239798593",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 671,
+          "like_count": 2086,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

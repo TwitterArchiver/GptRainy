@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2097692409387954479",
+    "created_at": "2026-09-09T14:23:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097692409387954479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "32153934",
+          "start": 3,
+          "username": "theBrianaMills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097692409387954479",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097446258361467082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theBrianaMills: I will repeat this and continue repeating it for as long as it takes for others to believe it: \n\nDisabled people deserv…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097692409387954479",
+        "created_at": "2026-09-09T14:23:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097692409387954479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "32153934",
+              "start": 3,
+              "username": "theBrianaMills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097692409387954479",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097446258361467082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theBrianaMills: I will repeat this and continue repeating it for as long as it takes for others to believe it: \n\nDisabled people deserv…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "32153934",
+        "conversation_id": "2097446258361467082",
+        "created_at": "2026-09-08T22:05:31.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T23:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097446258361467082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097446258361467082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 48996,
+          "like_count": 6484,
+          "quote_count": 20,
+          "reply_count": 56,
+          "retweet_count": 1353
+        },
+        "reply_settings": "everyone",
+        "text": "I will repeat this and continue repeating it for as long as it takes for others to believe it: \n\nDisabled people deserve to live even if we can't work."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097692409387954479",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 637,
+          "like_count": 1852,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-16T21:10:10.000Z",
+        "description": "Licensed Marriage and Family Therapist #134337. Not your therapist. Physically disabled. Bi. Specializing in disability, medical trauma, EMDR, and LGBT. She/Her",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "BrianaMills.com",
+                "end": 23,
+                "expanded_url": "http://BrianaMills.com",
+                "start": 0,
+                "url": "https://t.co/LyydyoaWN9"
+              }
+            ]
+          }
+        },
+        "id": "32153934",
+        "is_identity_verified": false,
+        "location": "Los Angeles, California",
+        "most_recent_tweet_id": "2097621758497214894",
+        "name": "Briana Mills, LMFT ♿️🏳️‍🌈🍉",
+        "pinned_tweet_id": "1989435767140286726",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32153934/1665889812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794911611247120384/maRSGbbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14393,
+          "following_count": 832,
+          "like_count": 185089,
+          "listed_count": 146,
+          "media_count": 1754,
+          "tweet_count": 72628
+        },
+        "url": "https://t.co/LyydyoaWN9",
+        "username": "theBrianaMills",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

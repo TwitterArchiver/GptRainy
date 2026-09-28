@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099661571882725376"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2099661580195733572",
+    "created_at": "2026-09-15T00:48:25.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T01:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099661580195733572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1u7Qw7EfCO",
+          "end": 49,
+          "expanded_url": "https://x.com/GptRainy/status/2099661580195733572/photo/1",
+          "media_key": "3_2099661571882725376",
+          "start": 26,
+          "url": "https://t.co/1u7Qw7EfCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099661580195733572",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099661571882725376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早啊，这个king能量饮料还挺好喝的，是紫色的☺️ https://t.co/1u7Qw7EfCO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099661571882725376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSN_EzybsAAjdmc.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099661571882725376"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2099661580195733572",
+        "created_at": "2026-09-15T00:48:25.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099661580195733572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1u7Qw7EfCO",
+              "end": 49,
+              "expanded_url": "https://x.com/GptRainy/status/2099661580195733572/photo/1",
+              "media_key": "3_2099661571882725376",
+              "start": 26,
+              "url": "https://t.co/1u7Qw7EfCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099661580195733572",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099661571882725376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早啊，这个king能量饮料还挺好喝的，是紫色的☺️ https://t.co/1u7Qw7EfCO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2099661580195733572",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 666,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

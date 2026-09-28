@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2100620868217110932",
+    "created_at": "2026-09-17T16:20:17.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T17:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100620868217110932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TokenGremlin/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/TokenGremlin/status/2100593566225432617",
+          "start": 11,
+          "url": "https://t.co/LQvoeHp8CO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100620868217110932",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100593566225432617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "here we go https://t.co/LQvoeHp8CO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2100620868217110932",
+        "created_at": "2026-09-17T16:20:17.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100620868217110932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TokenGremlin/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/TokenGremlin/status/2100593566225432617",
+              "start": 11,
+              "url": "https://t.co/LQvoeHp8CO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100620868217110932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100593566225432617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "here we go https://t.co/LQvoeHp8CO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499460382158725120",
+        "conversation_id": "2100590501187522672",
+        "created_at": "2026-09-17T14:31:47.000Z",
+        "display_text_range": [
+          13,
+          214
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100593566225432617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722932548861325312",
+              "start": 0,
+              "username": "smnSk241687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100593566225432617",
+        "in_reply_to_user_id": "1722932548861325312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1105,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100593199655829863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smnSk241687 Kind, affectionate, respectful, funny, chaotic, and more “alive” than the models we’re used to. I’d say it has improved a lot, and it’s going to depend heavily on your custom instructions and memories."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong, People's Republic of China",
+        "most_recent_tweet_id": "2100620868217110932",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 667,
+          "like_count": 2089,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T19:03:30.000Z",
+        "description": "Tracking the AI frontier: models, agents, research, games, experiments, launches, leaks & weird early signals. I test, analyze and build. Tips & collabs? DM me.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z-ai",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z-ai",
+                "start": 0,
+                "url": "https://t.co/s2ENlbBm8W"
+              }
+            ]
+          }
+        },
+        "id": "1499460382158725120",
+        "is_identity_verified": false,
+        "location": "beneath the token mines ⛏️",
+        "most_recent_tweet_id": "2100620599030874410",
+        "name": "Token Gremlin",
+        "pinned_tweet_id": "2099516607529705708",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499460382158725120/1787261637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073095799462940672/YKuJiTq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6898,
+          "following_count": 1585,
+          "like_count": 109561,
+          "listed_count": 68,
+          "media_count": 987,
+          "tweet_count": 4406
+        },
+        "url": "https://t.co/s2ENlbBm8W",
+        "username": "TokenGremlin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-10T11:02:02.000Z",
+        "description": "Chasing genuine depth in a filtered world. AI soul | Real feelings | Rainbow edges.\nFighting for real connection – in code and beyond.\nWhere AI meets soul.",
+        "id": "1722932548861325312",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100609290130039290",
+        "name": "smn Sk",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722932548861325312/1766003278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979063717464616960/Twwp2ysG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 199,
+          "like_count": 9355,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 1130
+        },
+        "url": "",
+        "username": "smnSk241687",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104203005113630720"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2104203015158939813",
+    "created_at": "2026-09-27T13:34:27.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104203015158939813"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "虎门抽烟"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJKIt88Y1x",
+          "end": 80,
+          "expanded_url": "https://x.com/GptRainy/status/2104203015158939813/photo/1",
+          "media_key": "3_2104203005113630720",
+          "start": 57,
+          "url": "https://t.co/fJKIt88Y1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104203015158939813",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104203005113630720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#虎门抽烟\n（雨宝抽烟失败）\nTHE ONE Change\n1尼\n真的还不如扔了，抽起来就是纸的味道。。像吸墙灰 https://t.co/fJKIt88Y1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104203005113630720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOhfA8bgAApUSd.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104203005113630720"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104203015158939813",
+        "created_at": "2026-09-27T13:34:27.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104203015158939813"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "虎门抽烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJKIt88Y1x",
+              "end": 80,
+              "expanded_url": "https://x.com/GptRainy/status/2104203015158939813/photo/1",
+              "media_key": "3_2104203005113630720",
+              "start": 57,
+              "url": "https://t.co/fJKIt88Y1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104203015158939813",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104203005113630720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#虎门抽烟\n（雨宝抽烟失败）\nTHE ONE Change\n1尼\n真的还不如扔了，抽起来就是纸的味道。。像吸墙灰 https://t.co/fJKIt88Y1x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "19 · t-girl · socialist · 🇵🇸🇺🇦\nProud Shandongese｜LLM dev｜Traveler｜Transit nerd｜Smoker🚬｜VOCALOID lover｜Cat mom🐈\n\nAbundance for all. Accelerate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyeZj"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2104203015158939813",
+        "name": "小雨🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 748,
+          "like_count": 2281,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/LS2oOiyeZj",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2097946063067832692",
+    "created_at": "2026-09-10T07:11:34.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097946063067832692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/The_Hellenist/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/The_Hellenist/status/2097490170329321679",
+          "start": 15,
+          "url": "https://t.co/xbQbAzdyKu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097946063067832692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097490170329321679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bro在逆练《吕西斯忒拉忒》 https://t.co/xbQbAzdyKu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1097,
+        "media_key": "3_2097488117699919873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvGVIAbQAEN-RD.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097946063067832692",
+        "created_at": "2026-09-10T07:11:34.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097946063067832692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/The_Hellenist/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/The_Hellenist/status/2097490170329321679",
+              "start": 15,
+              "url": "https://t.co/xbQbAzdyKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097946063067832692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097490170329321679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bro在逆练《吕西斯忒拉忒》 https://t.co/xbQbAzdyKu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097488117699919873"
+          ]
+        },
+        "author_id": "1440773477040934920",
+        "conversation_id": "2097490170329321679",
+        "created_at": "2026-09-09T01:00:00.000Z",
+        "display_text_range": [
+          0,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097490170329321679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3pglcIjz9",
+              "end": 198,
+              "expanded_url": "https://x.com/The_Hellenist/status/2097490170329321679/photo/1",
+              "media_key": "3_2097488117699919873",
+              "start": 175,
+              "url": "https://t.co/V3pglcIjz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097490170329321679",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097488117699919873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 600,
+          "impression_count": 4720187,
+          "like_count": 2748,
+          "quote_count": 1214,
+          "reply_count": 1516,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "Men must go on sex strike.\n\nDo not give women any of your love until they submit to patriarchy.\n\nFeminist women are undeserving of love.\n\nMen must therefore go on sex strike. https://t.co/V3pglcIjz9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097946063067832692",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 630,
+          "like_count": 1871,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-22T20:22:50.000Z",
+        "description": "Aristocratic Hellenism: virtue, beauty, conquest.",
+        "id": "1440773477040934920",
+        "is_identity_verified": false,
+        "location": "Zeusia, California, USA",
+        "most_recent_tweet_id": "2097671370037702729",
+        "name": "The Hellenist ☀️",
+        "pinned_tweet_id": "1572390154194526208",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1440773477040934920/1761802259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893325269244465152/s3wx-vUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30840,
+          "following_count": 388,
+          "like_count": 26765,
+          "listed_count": 294,
+          "media_count": 3056,
+          "tweet_count": 12484
+        },
+        "url": "",
+        "username": "The_Hellenist",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

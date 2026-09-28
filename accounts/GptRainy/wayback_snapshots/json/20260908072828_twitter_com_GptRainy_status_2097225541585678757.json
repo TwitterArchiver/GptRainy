@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097225485193527297",
+        "3_2097225497411510272",
+        "3_2097225511382757376",
+        "3_2097225527287525376"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2097225541585678757",
+    "created_at": "2026-09-08T07:28:28.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T08:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097225541585678757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/skOqTvsrpN",
+          "end": 74,
+          "expanded_url": "https://x.com/GptRainy/status/2097225541585678757/photo/1",
+          "media_key": "3_2097225485193527297",
+          "start": 51,
+          "url": "https://t.co/skOqTvsrpN"
+        },
+        {
+          "display_url": "pic.x.com/skOqTvsrpN",
+          "end": 74,
+          "expanded_url": "https://x.com/GptRainy/status/2097225541585678757/photo/1",
+          "media_key": "3_2097225497411510272",
+          "start": 51,
+          "url": "https://t.co/skOqTvsrpN"
+        },
+        {
+          "display_url": "pic.x.com/skOqTvsrpN",
+          "end": 74,
+          "expanded_url": "https://x.com/GptRainy/status/2097225541585678757/photo/1",
+          "media_key": "3_2097225511382757376",
+          "start": 51,
+          "url": "https://t.co/skOqTvsrpN"
+        },
+        {
+          "display_url": "pic.x.com/skOqTvsrpN",
+          "end": 74,
+          "expanded_url": "https://x.com/GptRainy/status/2097225541585678757/photo/1",
+          "media_key": "3_2097225527287525376",
+          "start": 51,
+          "url": "https://t.co/skOqTvsrpN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097225541585678757",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097225485193527297"
+      },
+      {
+        "media_key": "3_2097225497411510272"
+      },
+      {
+        "media_key": "3_2097225511382757376"
+      },
+      {
+        "media_key": "3_2097225527287525376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从左到右，从上到下\n\n1. 全日大厦245\n2. 518时钟塔\n3. 民主之钟\n4.旧 全罗南道厅舍 https://t.co/skOqTvsrpN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097225485193527297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrXd5rbQAE6jlP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097225497411510272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrXenMa4AATXUM.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2097225511382757376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrXfbPbMAAy0-A.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097225527287525376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrXgWfasAATUzH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097225485193527297",
+            "3_2097225497411510272",
+            "3_2097225511382757376",
+            "3_2097225527287525376"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097225541585678757",
+        "created_at": "2026-09-08T07:28:28.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097225541585678757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skOqTvsrpN",
+              "end": 74,
+              "expanded_url": "https://x.com/GptRainy/status/2097225541585678757/photo/1",
+              "media_key": "3_2097225485193527297",
+              "start": 51,
+              "url": "https://t.co/skOqTvsrpN"
+            },
+            {
+              "display_url": "pic.x.com/skOqTvsrpN",
+              "end": 74,
+              "expanded_url": "https://x.com/GptRainy/status/2097225541585678757/photo/1",
+              "media_key": "3_2097225497411510272",
+              "start": 51,
+              "url": "https://t.co/skOqTvsrpN"
+            },
+            {
+              "display_url": "pic.x.com/skOqTvsrpN",
+              "end": 74,
+              "expanded_url": "https://x.com/GptRainy/status/2097225541585678757/photo/1",
+              "media_key": "3_2097225511382757376",
+              "start": 51,
+              "url": "https://t.co/skOqTvsrpN"
+            },
+            {
+              "display_url": "pic.x.com/skOqTvsrpN",
+              "end": 74,
+              "expanded_url": "https://x.com/GptRainy/status/2097225541585678757/photo/1",
+              "media_key": "3_2097225527287525376",
+              "start": 51,
+              "url": "https://t.co/skOqTvsrpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097225541585678757",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097225485193527297"
+          },
+          {
+            "media_key": "3_2097225497411510272"
+          },
+          {
+            "media_key": "3_2097225511382757376"
+          },
+          {
+            "media_key": "3_2097225527287525376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从左到右，从上到下\n\n1. 全日大厦245\n2. 518时钟塔\n3. 民主之钟\n4.旧 全罗南道厅舍 https://t.co/skOqTvsrpN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong, People's Republic of China",
+        "most_recent_tweet_id": "2097225541585678757",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 645,
+          "like_count": 1770,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

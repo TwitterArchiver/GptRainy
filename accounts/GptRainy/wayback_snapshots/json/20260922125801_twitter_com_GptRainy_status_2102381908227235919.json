@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089731543006613504",
+          "name": "test (us,en)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089732538029793280",
+          "name": "test (other,en)"
+        }
+      }
+    ],
+    "conversation_id": "2102381908227235919",
+    "created_at": "2026-09-22T12:58:01.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T13:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102381908227235919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "35516339",
+          "start": 3,
+          "username": "AbdulElSayed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102381908227235919",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 385
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102140156878962756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AbdulElSayed: As Health Director for Wayne County, we put vending machines with free Narcan and fentanyl test strips in 100 locations.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53633,
+        "height": 720,
+        "media_key": "13_2102139326783975424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102139326783975424/img/R8K8Ia6ILLq797zZ.jpg",
+        "public_metrics": {
+          "view_count": 12606
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102139326783975424/vid/avc1/510x270/oRFp16JfXjD53ugF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102139326783975424/vid/avc1/682x360/x64TtdPJWZgPRZ8Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102139326783975424/vid/avc1/1364x720/nULCA-aHHiaFalJg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102139326783975424/pl/Qj8FsfeWBId_le-u.m3u8"
+          }
+        ],
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2102381908227235919",
+        "created_at": "2026-09-22T12:58:01.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102381908227235919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "35516339",
+              "start": 3,
+              "username": "AbdulElSayed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102381908227235919",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 385
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102140156878962756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AbdulElSayed: As Health Director for Wayne County, we put vending machines with free Narcan and fentanyl test strips in 100 locations.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102139326783975424"
+          ]
+        },
+        "author_id": "35516339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2102140156878962756",
+        "created_at": "2026-09-21T20:57:23.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102140156878962756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ap5Lt1cuQr",
+              "end": 302,
+              "expanded_url": "https://x.com/AbdulElSayed/status/2102140156878962756/video/1",
+              "media_key": "13_2102139326783975424",
+              "start": 279,
+              "url": "https://t.co/ap5Lt1cuQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102140156878962756",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102139326783975424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "As Health Director for Wayne County, we put vending machines with free Narcan and fentanyl test strips in 100 locations. \n\nWe hoped to make even a small dent in offsetting the opioid epidemic that Mike Rogers made even worse by voting with the pharmaceutical industry his entire career in Congress."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 26916,
+          "like_count": 2268,
+          "quote_count": 17,
+          "reply_count": 265,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "As Health Director for Wayne County, we put vending machines with free Narcan and fentanyl test strips in 100 locations. \n\nWe hoped to make even a small dent in offsetting the opioid epidemic that Mike Rogers made even worse by voting with the pharmaceutical industry his entire https://t.co/ap5Lt1cuQr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist🇵🇸🇺🇦/VOCALOID🎶/药物药理/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2102381908227235919",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 662,
+          "like_count": 2195,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 1221
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-26T17:41:34.000Z",
+        "description": "Public servant running for U.S. Senate because it shouldn't be THIS hard to get by. Michigan born and raised. Girl Dad. Doctor.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "abdulforsenate.com",
+                "end": 23,
+                "expanded_url": "http://abdulforsenate.com/",
+                "start": 0,
+                "url": "https://t.co/lHTDHZmFm1"
+              }
+            ]
+          }
+        },
+        "id": "35516339",
+        "is_identity_verified": false,
+        "location": "Ann Arbor, Michigan",
+        "most_recent_tweet_id": "2102206704863609304",
+        "name": "Dr. Abdul El-Sayed",
+        "pinned_tweet_id": "2085012380161851571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35516339/1786388246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912793182800121856/bj1c8UR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303094,
+          "following_count": 5884,
+          "like_count": 10381,
+          "listed_count": 1577,
+          "media_count": 1571,
+          "tweet_count": 3436
+        },
+        "url": "https://t.co/lHTDHZmFm1",
+        "username": "AbdulElSayed",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

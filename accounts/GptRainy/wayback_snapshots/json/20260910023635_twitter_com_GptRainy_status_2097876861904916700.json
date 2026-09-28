@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2097876861904916700",
+    "created_at": "2026-09-10T02:36:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097876861904916700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937443117738917889",
+          "start": 3,
+          "username": "Reisensentoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097876861904916700",
+    "lang": "ca",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097875879384998165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reisensentoki: Benedictiones Azazel et Armaros.\nNunc animam tuam fidelissime vocabunt.\nCuius manus venena sparserunt, anima eius Beelze…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097876861904916700",
+        "created_at": "2026-09-10T02:36:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097876861904916700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937443117738917889",
+              "start": 3,
+              "username": "Reisensentoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097876861904916700",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097875879384998165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reisensentoki: Benedictiones Azazel et Armaros.\nNunc animam tuam fidelissime vocabunt.\nCuius manus venena sparserunt, anima eius Beelze…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937443117738917889",
+        "conversation_id": "2097875879384998165",
+        "created_at": "2026-09-10T02:32:40.000Z",
+        "display_text_range": [
+          0,
+          210
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097875879384998165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 234,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2097698655448998057",
+              "start": 211,
+              "url": "https://t.co/7v0zTqJ2SR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097875879384998165",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097698655448998057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Benedictiones Azazel et Armaros.\nNunc animam tuam fidelissime vocabunt.\nCuius manus venena sparserunt, anima eius Beelzebub devorabitur.\nPost carnis occasum, serpentis antiqui veneno sine fine cruciabitur.Amen！ https://t.co/7v0zTqJ2SR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097876861904916700",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 630,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-24T09:31:00.000Z",
+        "description": "",
+        "id": "1937443117738917889",
+        "is_identity_verified": false,
+        "location": "ラバウエ航空隊",
+        "most_recent_tweet_id": "2097875879384998165",
+        "name": "南溟鹫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937443117738917889/1788600385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953985256677429248/EgC8g0xM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 104,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Reisensentoki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

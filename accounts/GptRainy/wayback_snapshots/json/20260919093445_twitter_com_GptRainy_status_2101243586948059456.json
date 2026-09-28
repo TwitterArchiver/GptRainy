@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2101243586948059456",
+    "created_at": "2026-09-19T09:34:45.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101243586948059456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1430973520452800515",
+          "start": 3,
+          "username": "XmeowwoemX_017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101243586948059456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101243464163975585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XmeowwoemX_017: 精神状态一般的跨儿一定要考虑进第二个选项.....疼痛、潜在的并发症以及何种护理是否会对你的脆弱的精神构成新的负担。反正我现在感个冒都要被弄得神经衰弱快要疯掉....."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2101243586948059456",
+        "created_at": "2026-09-19T09:34:45.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101243586948059456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1430973520452800515",
+              "start": 3,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101243586948059456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101243464163975585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XmeowwoemX_017: 精神状态一般的跨儿一定要考虑进第二个选项.....疼痛、潜在的并发症以及何种护理是否会对你的脆弱的精神构成新的负担。反正我现在感个冒都要被弄得神经衰弱快要疯掉....."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430973520452800515",
+        "conversation_id": "2101243464163975585",
+        "created_at": "2026-09-19T09:34:15.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101243464163975585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnnieChorly/st…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/AnnieChorly/status/2100852021331194066",
+              "start": 85,
+              "url": "https://t.co/P6AA1qT3PO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101243464163975585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100852021331194066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精神状态一般的跨儿一定要考虑进第二个选项.....疼痛、潜在的并发症以及何种护理是否会对你的脆弱的精神构成新的负担。反正我现在感个冒都要被弄得神经衰弱快要疯掉..... https://t.co/P6AA1qT3PO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/药物药理/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2101243586948059456",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 656,
+          "like_count": 2125,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️(not quite binary) transfem | 22yo | HRT since: Feb 2025 (CPA) / Jun 2025 (E2) \n很孤单请和我抱抱",
+        "id": "1430973520452800515",
+        "is_identity_verified": false,
+        "location": "Auckland, NZ / Beijing ",
+        "most_recent_tweet_id": "2101243464163975585",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "2058049418885296538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430973520452800515/1685132943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 425,
+          "like_count": 44111,
+          "listed_count": 7,
+          "media_count": 766,
+          "tweet_count": 5949
+        },
+        "url": "",
+        "username": "XmeowwoemX_017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

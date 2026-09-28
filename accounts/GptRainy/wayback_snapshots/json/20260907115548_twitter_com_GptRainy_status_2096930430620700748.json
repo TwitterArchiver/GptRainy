@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2096930430620700748",
+    "created_at": "2026-09-07T11:55:48.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096930430620700748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/GptRainy/status/2096892577157124366",
+          "start": 49,
+          "url": "https://t.co/PlLIcNIB6X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096930430620700748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096892577157124366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "知道为什么这个酒店的门默认是不锁的了🤔\n要锁必须把钥匙带出去，这样就不会出现把钥匙锁到里面的情况 https://t.co/PlLIcNIB6X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096892549017600001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmoqdxbgAE4XjA.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096892563332747264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmorTGbUAA-FAl.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2096930430620700748",
+        "created_at": "2026-09-07T11:55:48.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096930430620700748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/GptRainy/status/2096892577157124366",
+              "start": 49,
+              "url": "https://t.co/PlLIcNIB6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096930430620700748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096892577157124366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知道为什么这个酒店的门默认是不锁的了🤔\n要锁必须把钥匙带出去，这样就不会出现把钥匙锁到里面的情况 https://t.co/PlLIcNIB6X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096892549017600001",
+            "3_2096892563332747264"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096892577157124366",
+        "created_at": "2026-09-07T09:25:23.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096892577157124366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgcGHrIwPe",
+              "end": 35,
+              "expanded_url": "https://x.com/GptRainy/status/2096892577157124366/photo/1",
+              "media_key": "3_2096892549017600001",
+              "start": 12,
+              "url": "https://t.co/mgcGHrIwPe"
+            },
+            {
+              "display_url": "pic.x.com/mgcGHrIwPe",
+              "end": 35,
+              "expanded_url": "https://x.com/GptRainy/status/2096892577157124366/photo/1",
+              "media_key": "3_2096892563332747264",
+              "start": 12,
+              "url": "https://t.co/mgcGHrIwPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096892577157124366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096892549017600001"
+          },
+          {
+            "media_key": "3_2096892563332747264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好，到达光州了☺️ https://t.co/mgcGHrIwPe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2096930430620700748",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 645,
+          "like_count": 1764,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

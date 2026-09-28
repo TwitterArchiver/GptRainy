@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098685806038978657",
+    "created_at": "2026-09-12T08:11:02.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098685806038978657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/montaillacman/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/montaillacman/status/2098425139306078336",
+          "start": 30,
+          "url": "https://t.co/g6ufmsPXe8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098685806038978657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098425139306078336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最进步的英国佬反智能眼镜的方式是嘲笑使用者为nonce。。 https://t.co/g6ufmsPXe8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1379,
+        "media_key": "3_2098425131001696256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8aiekb0AA-9ag.jpg",
+        "width": 934
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2098425130850439178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8aieAX0AomEeG.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098685806038978657",
+        "created_at": "2026-09-12T08:11:02.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098685806038978657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/montaillacman/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/montaillacman/status/2098425139306078336",
+              "start": 30,
+              "url": "https://t.co/g6ufmsPXe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098685806038978657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098425139306078336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最进步的英国佬反智能眼镜的方式是嘲笑使用者为nonce。。 https://t.co/g6ufmsPXe8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098425131001696256",
+            "3_2098425130850439178"
+          ]
+        },
+        "author_id": "969260208777244672",
+        "conversation_id": "2098425139306078336",
+        "created_at": "2026-09-11T14:55:14.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098425139306078336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vqrmxmOyI",
+              "end": 32,
+              "expanded_url": "https://x.com/montaillacman/status/2098425139306078336/photo/1",
+              "media_key": "3_2098425131001696256",
+              "start": 9,
+              "url": "https://t.co/2vqrmxmOyI"
+            },
+            {
+              "display_url": "pic.x.com/2vqrmxmOyI",
+              "end": 32,
+              "expanded_url": "https://x.com/montaillacman/status/2098425139306078336/photo/1",
+              "media_key": "3_2098425130850439178",
+              "start": 9,
+              "url": "https://t.co/2vqrmxmOyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098425139306078336",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098425131001696256"
+          },
+          {
+            "media_key": "3_2098425130850439178"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1923,
+          "impression_count": 1218656,
+          "like_count": 98279,
+          "quote_count": 81,
+          "reply_count": 34,
+          "retweet_count": 6043
+        },
+        "reply_settings": "everyone",
+        "text": "Love it! https://t.co/2vqrmxmOyI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098685806038978657",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 666,
+          "like_count": 1961,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-01T17:16:56.000Z",
+        "description": "Be kind to each other. Life is short, make it sweet.",
+        "id": "969260208777244672",
+        "is_identity_verified": false,
+        "location": "In the vineyards of SW France",
+        "most_recent_tweet_id": "2098522313167651234",
+        "name": "Phil Williams",
+        "pinned_tweet_id": "1306677440274731009",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969260208777244672/1726121258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834111602292826112/rJd3-8sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 903,
+          "like_count": 44062,
+          "listed_count": 2,
+          "media_count": 3040,
+          "tweet_count": 36306
+        },
+        "url": "",
+        "username": "montaillacman",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

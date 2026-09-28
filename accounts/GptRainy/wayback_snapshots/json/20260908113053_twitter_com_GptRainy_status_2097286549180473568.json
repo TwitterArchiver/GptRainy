@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2097286549180473568",
+    "created_at": "2026-09-08T11:30:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097286549180473568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1919611729761239040",
+          "start": 3,
+          "username": "girlpitnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097286549180473568",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096831066262626692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlpitnow: i’m willing to take whatever bullets necessary in this war against transphobes because as a cis woman no matter how mean th…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097286549180473568",
+        "created_at": "2026-09-08T11:30:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097286549180473568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1919611729761239040",
+              "start": 3,
+              "username": "girlpitnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097286549180473568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096831066262626692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlpitnow: i’m willing to take whatever bullets necessary in this war against transphobes because as a cis woman no matter how mean th…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919611729761239040",
+        "conversation_id": "2096831066262626692",
+        "created_at": "2026-09-07T05:20:58.000Z",
+        "display_text_range": [
+          0,
+          249
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096831066262626692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096831066262626692",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 57335,
+          "like_count": 1380,
+          "quote_count": 39,
+          "reply_count": 50,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "i’m willing to take whatever bullets necessary in this war against transphobes because as a cis woman no matter how mean they are to me online i will never be physically affected - while trans women fear for their safety every day\nso square up bitch"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097286549180473568",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 647,
+          "like_count": 1785,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-06T04:35:01.000Z",
+        "description": "last time i blacked out: 6/7/2026 #百合万岁 lesbian that enjoys yuri and beer ++ a captain 🏴‍☠️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "百合万岁"
+              }
+            ]
+          }
+        },
+        "id": "1919611729761239040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097215879318479278",
+        "name": "evil chinese woman",
+        "pinned_tweet_id": "1946686732751024421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919611729761239040/1762719948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957019209269178368/v8rgIjhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 329,
+          "like_count": 26987,
+          "listed_count": 6,
+          "media_count": 690,
+          "tweet_count": 6957
+        },
+        "url": "",
+        "username": "girlpitnow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

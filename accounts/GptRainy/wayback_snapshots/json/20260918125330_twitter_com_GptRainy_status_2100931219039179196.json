@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2100931219039179196",
+    "created_at": "2026-09-18T12:53:30.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100931219039179196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EquityCats/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/EquityCats/status/2100402210693660677",
+          "start": 7,
+          "url": "https://t.co/MTUa8Uwrls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100931219039179196",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100402210693660677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "catgpt https://t.co/MTUa8Uwrls"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 267,
+        "media_key": "3_2100402084642246656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYgkUyXUAAiEwg.png",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2100931219039179196",
+        "created_at": "2026-09-18T12:53:30.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100931219039179196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EquityCats/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/EquityCats/status/2100402210693660677",
+              "start": 7,
+              "url": "https://t.co/MTUa8Uwrls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100931219039179196",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100402210693660677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "catgpt https://t.co/MTUa8Uwrls"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100402084642246656"
+          ]
+        },
+        "author_id": "1370373820369018890",
+        "conversation_id": "2100402210693660677",
+        "created_at": "2026-09-17T01:51:25.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100402210693660677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mc8HFiuM9J",
+              "end": 48,
+              "expanded_url": "https://x.com/EquityCats/status/2100402210693660677/photo/1",
+              "media_key": "3_2100402084642246656",
+              "start": 25,
+              "url": "https://t.co/Mc8HFiuM9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100402210693660677",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100402084642246656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1000,
+          "impression_count": 309066,
+          "like_count": 15811,
+          "quote_count": 23,
+          "reply_count": 88,
+          "retweet_count": 460
+        },
+        "reply_settings": "everyone",
+        "text": "wtf is Codex doing man 😹 https://t.co/Mc8HFiuM9J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2100931219039179196",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 658,
+          "like_count": 2114,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-12T13:59:21.000Z",
+        "description": "Realist | Math and Programming | Stochastic Process Enthusiast | Shitco Investigator | 🇩🇰 🇨🇦 🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equitycats.substack.com",
+                "end": 23,
+                "expanded_url": "https://equitycats.substack.com",
+                "start": 0,
+                "url": "https://t.co/sj8iYh5NAW"
+              }
+            ]
+          }
+        },
+        "id": "1370373820369018890",
+        "is_identity_verified": false,
+        "location": "NYC",
+        "most_recent_tweet_id": "2100402210693660677",
+        "name": "Equity Cats",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370373820369018890/1703366906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990901945050034177/XRv1ql7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 836,
+          "like_count": 56552,
+          "listed_count": 10,
+          "media_count": 662,
+          "tweet_count": 6936
+        },
+        "url": "https://t.co/sj8iYh5NAW",
+        "username": "EquityCats",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103116442870984704",
+        "3_2103116448298373120"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Ohio",
+          "id": "1010253454822895616",
+          "name": "Ohio"
+        }
+      }
+    ],
+    "conversation_id": "2103116453763575822",
+    "created_at": "2026-09-24T13:36:51.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103116453763575822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Yayyy, you're here! Come explore Ohio's places, people, and culture with Ohio-chan. ♡",
+          "display_url": "oh-ohio.vercel.app",
+          "end": 48,
+          "expanded_url": "https://oh-ohio.vercel.app",
+          "start": 25,
+          "status": 200,
+          "title": "Oh, Ohio",
+          "unwound_url": "https://oh-ohio.vercel.app",
+          "url": "https://t.co/b9Cn6LrXhA"
+        },
+        {
+          "display_url": "pic.x.com/aIGEYZf5zG",
+          "end": 72,
+          "expanded_url": "https://x.com/GptRainy/status/2103116453763575822/photo/1",
+          "media_key": "3_2103116442870984704",
+          "start": 49,
+          "url": "https://t.co/aIGEYZf5zG"
+        },
+        {
+          "display_url": "pic.x.com/aIGEYZf5zG",
+          "end": 72,
+          "expanded_url": "https://x.com/GptRainy/status/2103116453763575822/photo/1",
+          "media_key": "3_2103116448298373120",
+          "start": 49,
+          "url": "https://t.co/aIGEYZf5zG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103116453763575822",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103116442870984704"
+      },
+      {
+        "media_key": "3_2103116448298373120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用于测试gpt-6-sol的ohio的主题网站\n\nhttps://t.co/b9Cn6LrXhA https://t.co/aIGEYZf5zG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3932,
+        "media_key": "3_2103116442870984704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_FQxKbsAATWa4.jpg",
+        "width": 1531
+      },
+      {
+        "height": 3584,
+        "media_key": "3_2103116448298373120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_FRFYbEAAF_DR.jpg",
+        "width": 1879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103116442870984704",
+            "3_2103116448298373120"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ohio",
+              "id": "1010253454822895616",
+              "name": "Ohio"
+            }
+          }
+        ],
+        "conversation_id": "2103116453763575822",
+        "created_at": "2026-09-24T13:36:51.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103116453763575822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Yayyy, you're here! Come explore Ohio's places, people, and culture with Ohio-chan. ♡",
+              "display_url": "oh-ohio.vercel.app",
+              "end": 48,
+              "expanded_url": "https://oh-ohio.vercel.app",
+              "start": 25,
+              "status": 200,
+              "title": "Oh, Ohio",
+              "unwound_url": "https://oh-ohio.vercel.app",
+              "url": "https://t.co/b9Cn6LrXhA"
+            },
+            {
+              "display_url": "pic.x.com/aIGEYZf5zG",
+              "end": 72,
+              "expanded_url": "https://x.com/GptRainy/status/2103116453763575822/photo/1",
+              "media_key": "3_2103116442870984704",
+              "start": 49,
+              "url": "https://t.co/aIGEYZf5zG"
+            },
+            {
+              "display_url": "pic.x.com/aIGEYZf5zG",
+              "end": 72,
+              "expanded_url": "https://x.com/GptRainy/status/2103116453763575822/photo/1",
+              "media_key": "3_2103116448298373120",
+              "start": 49,
+              "url": "https://t.co/aIGEYZf5zG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103116453763575822",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103116442870984704"
+          },
+          {
+            "media_key": "3_2103116448298373120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用于测试gpt-6-sol的ohio的主题网站\n\nhttps://t.co/b9Cn6LrXhA https://t.co/aIGEYZf5zG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "热爱旅游🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist🇵🇸🇺🇦/VOCALOID🎶/精神活性物质/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2103116453763575822",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 689,
+          "like_count": 2207,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

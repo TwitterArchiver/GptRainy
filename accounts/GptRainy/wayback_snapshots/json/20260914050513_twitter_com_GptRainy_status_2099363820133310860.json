@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2099363820133310860",
+    "created_at": "2026-09-14T05:05:13.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T06:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099363820133310860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryanvogel/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ryanvogel/status/2099141395894227152",
+          "start": 9,
+          "url": "https://t.co/kqVThDqBHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099363820133310860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099141395894227152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呀宝宝这个萌的 https://t.co/kqVThDqBHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2099141133561651201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGlvT9aYAEvFAy.jpg",
+        "width": 2212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2099363820133310860",
+        "created_at": "2026-09-14T05:05:13.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T06:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099363820133310860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryanvogel/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ryanvogel/status/2099141395894227152",
+              "start": 9,
+              "url": "https://t.co/kqVThDqBHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099363820133310860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099141395894227152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀宝宝这个萌的 https://t.co/kqVThDqBHz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099141133561651201"
+          ]
+        },
+        "author_id": "1590716769433427968",
+        "conversation_id": "2099141395894227152",
+        "created_at": "2026-09-13T14:21:23.000Z",
+        "display_text_range": [
+          0,
+          205
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099141395894227152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ol81FmhP19",
+              "end": 229,
+              "expanded_url": "https://x.com/ryanvogel/status/2099141395894227152/photo/1",
+              "media_key": "3_2099141133561651201",
+              "start": 206,
+              "url": "https://t.co/Ol81FmhP19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099141395894227152",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099141133561651201"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1212,
+          "impression_count": 300312,
+          "like_count": 7575,
+          "quote_count": 92,
+          "reply_count": 197,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "astra was setting up OBS, and it saw I didn't respond so it looked through camera to see if i was looking (which i wasn't) \n\nit made my mac beep which made me lookup and it flashed the question on screen 💀 https://t.co/Ol81FmhP19"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2099363820133310860",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 661,
+          "like_count": 2045,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2086904083462426624/x7sGmBWz_bigger.jpg",
+          "description": "Anomaly",
+          "url": "https://twitter.com/anomalyco",
+          "user_id": [
+            "18323344"
+          ]
+        },
+        "created_at": "2022-11-10T14:43:48.000Z",
+        "description": "ceo of @rebasetv\n\nfounding developer @opencode @anomalyco",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "rebasetv"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "opencode"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "anomalyco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryan.ceo",
+                "end": 23,
+                "expanded_url": "http://ryan.ceo",
+                "start": 0,
+                "url": "https://t.co/srNTZ0yTbW"
+              }
+            ]
+          }
+        },
+        "id": "1590716769433427968",
+        "is_identity_verified": true,
+        "location": "Florida",
+        "most_recent_tweet_id": "2099331576769163475",
+        "name": "vogel",
+        "pinned_tweet_id": "2099320541903544741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590716769433427968/1784067715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096969684159770624/pZG4RQhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17059,
+          "following_count": 789,
+          "like_count": 27087,
+          "listed_count": 137,
+          "media_count": 3211,
+          "tweet_count": 19224
+        },
+        "url": "https://t.co/srNTZ0yTbW",
+        "username": "ryanvogel",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

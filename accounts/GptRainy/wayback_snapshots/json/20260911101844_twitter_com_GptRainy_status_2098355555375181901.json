@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098355555375181901",
+    "created_at": "2026-09-11T10:18:44.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T11:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098355555375181901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918593759121690625",
+          "start": 3,
+          "username": "hu_qin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098355555375181901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098129232673247425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu_qin_: 我今天没有力气再写一个中文版的寒涟漪事迹汇总了，不过之前我有在一个群聊里总结过一些，如下。我没有专门再行整理，可能比较杂乱。寒可以继续说这些都是造谣，不过我相信大家也都自会有判断。欢迎补充。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098355555375181901",
+        "created_at": "2026-09-11T10:18:44.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098355555375181901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918593759121690625",
+              "start": 3,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098355555375181901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098129232673247425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu_qin_: 我今天没有力气再写一个中文版的寒涟漪事迹汇总了，不过之前我有在一个群聊里总结过一些，如下。我没有专门再行整理，可能比较杂乱。寒可以继续说这些都是造谣，不过我相信大家也都自会有判断。欢迎补充。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "conversation_id": "2098129232673247425",
+        "created_at": "2026-09-10T19:19:25.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098129232673247425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2098110451808653770",
+              "start": 96,
+              "url": "https://t.co/w9lX4RCCRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098129232673247425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我今天没有力气再写一个中文版的寒涟漪事迹汇总了，不过之前我有在一个群聊里总结过一些，如下。我没有专门再行整理，可能比较杂乱。寒可以继续说这些都是造谣，不过我相信大家也都自会有判断。欢迎补充。\n\n>寒涟漪会性侵来寻求家暴庇护的小药娘，专挑有污点或精神差的人，包括导致有人报案未果并且被网暴导致自杀的，这件事甚至成为寒身边人的一个梗流传。作为牢牢把权力握在手中的庇护所“运营者”，每天给人压力让人跟她做爱，性骚扰同事和住户。\n\n>所有这些都是系统性的，寒身边所有人都知道，但是无数人去维护她。有人在深圳的话我不知道有没有听过申敏研，那个人就是从寒这里学的，然后想要到贵阳搞一个自闭症庇护所做同样的事情。\n\n>所有这些事情她都毫无反思，认为自己什么都没有做错也拒绝承认权力差异，“那照你这么说我跟谁做爱都不行了吗”，也拒绝承认、拒绝思考自己可能曾经给任何人造成过伤害（这些都是我跟寒和她身边最亲近的谋士一起跟当面对峙过的内容）。\n\n>对寒来说，运营庇护所除了获取性资源就只是一个关于名誉的游戏而已。这一点非常可怕，所有的捐助或公共资源都垄断在寒手里，这一地位又不断给寒带来新的性资源，而且不论有多少寒的受害者站出来指控她都不会被相信。还曾经有学者明确知道寒性侵的事情，却表示认为“因为要研究中国跨性别不得不跟寒合作”。\n\n>寒涟漪一直在表演自己付出了多少，但实际上寒从来拒绝公私分账、一切权力都牢牢握在自己手里。有人给寒捐了十万，转手寒把这些钱拿给她的“亲密关系”做生意并且全部亏光。实际寒有好几处“庇护所”里面住的都是她的亲密关系，包括完全不愁吃穿的人。\n\n>在寒的庇护所里面，你有没有跟寒涟漪做过爱，这就是阶级的划分。你有你就可以排挤别人，你就有地位，你就可以有事情at寒涟漪帮你解决。\n\n>不知道你有没有看到过寒涟漪在武汉地铁以及其他地方街头露阴的图片，那些全都是真的，寒身边的无数人不断劝她不要这么做，但她就是要坚持，她说不要为了任何世俗的眼光而让自己不舒服。关于这件事情我也跟寒对峙过，我告诉她有许多人有性创伤包括受到过露阴癖的骚扰，这些对他们都是伤害很大的。寒不认为这是她的问题，就像她不认为她在庇护所里面向流离失所逃离家暴除此之外只能睡大街的跨女问“要不要跟我做爱”会对对方造成任何伤害。\n\n>现在整个圈子的氛围都非常差，很多人都知道寒做的事情并且变得非常犬儒，有不少寒的效仿者表示“为什么不能跟救助的对象做爱，寒涟漪比我过分多了”；反过来遭到侵害的人也不敢说出自己的经历。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2838,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098110451808653770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今天没有力气再写一个中文版的寒涟漪事迹汇总了，不过之前我有在一个群聊里总结过一些，如下。我没有专门再行整理，可能比较杂乱。寒可以继续说这些都是造谣，不过我相信大家也都自会有判断。欢迎补充。 https://t.co/w9lX4RCCRW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098355555375181901",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 638,
+          "like_count": 1906,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, trans, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "is_identity_verified": false,
+        "location": "China／Scotland／transfem🏳️‍⚧",
+        "most_recent_tweet_id": "2098353626062234098",
+        "name": "胡琴",
+        "pinned_tweet_id": "2081362569181134887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918593759121690625/1568448031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 1857,
+          "like_count": 23005,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 5815
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

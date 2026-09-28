@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098587994903154688",
+        "3_2098588009713344512"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098588025223840012",
+    "created_at": "2026-09-12T01:42:29.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T02:38:28.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098587013222129960",
+      "2098587780691657004",
+      "2098588025223840012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NDygwqHLNO",
+          "end": 55,
+          "expanded_url": "https://x.com/GptRainy/status/2098588025223840012/photo/1",
+          "media_key": "3_2098587994903154688",
+          "start": 32,
+          "url": "https://t.co/NDygwqHLNO"
+        },
+        {
+          "display_url": "pic.x.com/NDygwqHLNO",
+          "end": 55,
+          "expanded_url": "https://x.com/GptRainy/status/2098588025223840012/photo/1",
+          "media_key": "3_2098588009713344512",
+          "start": 32,
+          "url": "https://t.co/NDygwqHLNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098588025223840012",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098587994903154688"
+      },
+      {
+        "media_key": "3_2098588009713344512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蒼蒼瑞石聳秋空\n十日尋常在眼中\n喜慶樓前更回首\n雲煙纔罅見靈宮 https://t.co/NDygwqHLNO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2098586982167556096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-tvdJbMAABjtT.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098586996549767168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-twSuaUAAMQIc.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098587750555676674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-ucLnbcAImosP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098587765193805824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-udCJbkAAVvgc.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098587994903154688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-uqZ4aEAArMoS.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098588009713344512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-urRDboAApMZX.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098586982167556096",
+            "3_2098586996549767168"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098587013222129960",
+        "created_at": "2026-09-12T01:38:28.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:38:28.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098587013222129960",
+          "2098587780691657004",
+          "2098588025223840012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Io9xBGYN35",
+              "end": 49,
+              "expanded_url": "https://x.com/GptRainy/status/2098587013222129960/photo/1",
+              "media_key": "3_2098586982167556096",
+              "start": 26,
+              "url": "https://t.co/Io9xBGYN35"
+            },
+            {
+              "display_url": "pic.x.com/Io9xBGYN35",
+              "end": 49,
+              "expanded_url": "https://x.com/GptRainy/status/2098587013222129960/photo/1",
+              "media_key": "3_2098586996549767168",
+              "start": 26,
+              "url": "https://t.co/Io9xBGYN35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098587013222129960",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098586982167556096"
+          },
+          {
+            "media_key": "3_2098586996549767168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【光州·无等山】\n\n蒼蒼瑞石聳秋空\n十日尋常在眼中 https://t.co/Io9xBGYN35"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098587750555676674",
+            "3_2098587765193805824"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098587780691657004",
+        "created_at": "2026-09-12T01:41:31.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:38:28.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098587013222129960",
+          "2098587780691657004",
+          "2098588025223840012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsfjqVP4EE",
+              "end": 63,
+              "expanded_url": "https://x.com/GptRainy/status/2098587780691657004/photo/1",
+              "media_key": "3_2098587750555676674",
+              "start": 40,
+              "url": "https://t.co/jsfjqVP4EE"
+            },
+            {
+              "display_url": "pic.x.com/jsfjqVP4EE",
+              "end": 63,
+              "expanded_url": "https://x.com/GptRainy/status/2098587780691657004/photo/1",
+              "media_key": "3_2098587765193805824",
+              "start": 40,
+              "url": "https://t.co/jsfjqVP4EE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098587780691657004",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098587750555676674"
+          },
+          {
+            "media_key": "3_2098587765193805824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【光州·无等山】\n\n金宗直《光州無等山》二首\n\n蒼蒼瑞石聳秋空\n十日尋常在眼中 https://t.co/jsfjqVP4EE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098587994903154688",
+            "3_2098588009713344512"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098588025223840012",
+        "created_at": "2026-09-12T01:42:29.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:38:28.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098587013222129960",
+          "2098587780691657004",
+          "2098588025223840012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDygwqHLNO",
+              "end": 55,
+              "expanded_url": "https://x.com/GptRainy/status/2098588025223840012/photo/1",
+              "media_key": "3_2098587994903154688",
+              "start": 32,
+              "url": "https://t.co/NDygwqHLNO"
+            },
+            {
+              "display_url": "pic.x.com/NDygwqHLNO",
+              "end": 55,
+              "expanded_url": "https://x.com/GptRainy/status/2098588025223840012/photo/1",
+              "media_key": "3_2098588009713344512",
+              "start": 32,
+              "url": "https://t.co/NDygwqHLNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098588025223840012",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098587994903154688"
+          },
+          {
+            "media_key": "3_2098588009713344512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蒼蒼瑞石聳秋空\n十日尋常在眼中\n喜慶樓前更回首\n雲煙纔罅見靈宮 https://t.co/NDygwqHLNO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098588025223840012",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 644,
+          "like_count": 1932,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

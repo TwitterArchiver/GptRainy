@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2103701239842418984",
+    "created_at": "2026-09-26T07:19:25.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T08:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103746247437791388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677119292817694720",
+          "start": 0,
+          "username": "moeimiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103746247437791388",
+    "in_reply_to_user_id": "1677119292817694720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103701239842418984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeimiku 因为大家不会一起重置"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2103701239842418984",
+        "created_at": "2026-09-26T07:19:25.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103746247437791388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677119292817694720",
+              "start": 0,
+              "username": "moeimiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103746247437791388",
+        "in_reply_to_user_id": "1677119292817694720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103701239842418984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeimiku 因为大家不会一起重置"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677119292817694720",
+        "conversation_id": "2103701239842418984",
+        "created_at": "2026-09-26T04:20:35.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103701239842418984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103701239842418984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个疑惑。\n\nTibe说算力不够用了，所以关闭20x的套餐。\n\n但是没发一次重置卡，不是相当于20x的都要重新蹬一遍吗？ 服务器怎么扛得住的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "Base济南/AI·LLM/Agent Harness/🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/热爱旅游/养猫/She·Her/ASD/2007·19yo/communist🇵🇸🇺🇦/VOCALOID🎶/oder/社会学/语言学/公共交通/城市规划/我很无聊快来找我玩😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2103746247437791388",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 717,
+          "like_count": 2240,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T00:56:31.000Z",
+        "description": "🍎iOS开发专家,伪全栈 💻一人公司 📱App：影像魔术师 | 倾诉-纯净树洞 👏专注大模型与AIGC应用 🪄提供基于StableDiffusion的各种能力的API（包括一键大胸），有意联系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sora.moemiku.com",
+                "end": 23,
+                "expanded_url": "https://sora.moemiku.com",
+                "start": 0,
+                "url": "https://t.co/AosYsAnzsJ"
+              }
+            ]
+          }
+        },
+        "id": "1677119292817694720",
+        "is_identity_verified": true,
+        "location": "1m",
+        "most_recent_tweet_id": "2103701239842418984",
+        "name": "梦想夏乡",
+        "pinned_tweet_id": "1770441704983994644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677119292817694720/1710687268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729869256471547904/xev4TfLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6358,
+          "following_count": 450,
+          "like_count": 3328,
+          "listed_count": 65,
+          "media_count": 628,
+          "tweet_count": 3824
+        },
+        "url": "https://t.co/AosYsAnzsJ",
+        "username": "moeimiku",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

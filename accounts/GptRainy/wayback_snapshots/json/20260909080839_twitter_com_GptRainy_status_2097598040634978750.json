@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2097598040634978750",
+    "created_at": "2026-09-09T08:08:39.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T09:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097598040634978750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1734991477434990593",
+          "start": 3,
+          "username": "tifagirlx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097598040634978750",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097296855033868687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tifagirlx: If a couple is not ready to have :\n\n- a gay kid 🏳️‍🌈\n- a trans kid 🏳️‍⚧️\n- a disabled kid 🌸\n- a non-religious kid ✝️\n- or a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097598040634978750",
+        "created_at": "2026-09-09T08:08:39.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097598040634978750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1734991477434990593",
+              "start": 3,
+              "username": "tifagirlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097598040634978750",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097296855033868687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tifagirlx: If a couple is not ready to have :\n\n- a gay kid 🏳️‍🌈\n- a trans kid 🏳️‍⚧️\n- a disabled kid 🌸\n- a non-religious kid ✝️\n- or a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734991477434990593",
+        "conversation_id": "2097296855033868687",
+        "created_at": "2026-09-08T12:11:50.000Z",
+        "display_text_range": [
+          0,
+          195
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097296855033868687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097296855033868687",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7834,
+          "like_count": 589,
+          "quote_count": 3,
+          "reply_count": 54,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "If a couple is not ready to have :\n\n- a gay kid 🏳️‍🌈\n- a trans kid 🏳️‍⚧️\n- a disabled kid 🌸\n- a non-religious kid ✝️\n- or a kid who’s different in general 🍀\n\nThen they should NOT become parents✌🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097598040634978750",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 654,
+          "like_count": 1824,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-13T17:40:00.000Z",
+        "description": "19 💕 trans 🧸\ni got a secret ⤵️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/tifacutie",
+                "end": 23,
+                "expanded_url": "https://link.me/tifacutie",
+                "start": 0,
+                "url": "https://t.co/r8drtITJGZ"
+              }
+            ]
+          }
+        },
+        "id": "1734991477434990593",
+        "is_identity_verified": false,
+        "location": "3$ 0f・:〃➜",
+        "most_recent_tweet_id": "2097416098484220408",
+        "name": "tifa 🏳️‍⚧️",
+        "pinned_tweet_id": "1890122071025545389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734991477434990593/1725931784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890829732364587008/40S_y4me_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67416,
+          "following_count": 84,
+          "like_count": 548,
+          "listed_count": 241,
+          "media_count": 1037,
+          "tweet_count": 2900
+        },
+        "url": "https://t.co/r8drtITJGZ",
+        "username": "tifagirlx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

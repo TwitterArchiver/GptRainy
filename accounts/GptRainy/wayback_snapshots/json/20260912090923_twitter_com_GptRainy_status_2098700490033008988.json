@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098700490033008988",
+    "created_at": "2026-09-12T09:09:23.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T10:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098700490033008988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/umANSIOS0/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/umANSIOS0/status/2098530026488565817",
+          "start": 6,
+          "url": "https://t.co/yGdw2752eR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098700490033008988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098530026488565817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对的对的 https://t.co/yGdw2752eR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2098530019207421952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR957xlaIAAC3o-.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098700490033008988",
+        "created_at": "2026-09-12T09:09:23.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098700490033008988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/umANSIOS0/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/umANSIOS0/status/2098530026488565817",
+              "start": 6,
+              "url": "https://t.co/yGdw2752eR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098700490033008988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098530026488565817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对的对的 https://t.co/yGdw2752eR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098530019207421952"
+          ]
+        },
+        "author_id": "410818785",
+        "conversation_id": "2098530026488565817",
+        "created_at": "2026-09-11T21:52:01.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T22:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098530026488565817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gegOThw4cJ",
+              "end": 60,
+              "expanded_url": "https://x.com/umANSIOS0/status/2098530026488565817/photo/1",
+              "media_key": "3_2098530019207421952",
+              "start": 37,
+              "url": "https://t.co/gegOThw4cJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098530026488565817",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2098530019207421952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1754,
+          "impression_count": 968934,
+          "like_count": 83234,
+          "quote_count": 346,
+          "reply_count": 263,
+          "retweet_count": 11361
+        },
+        "reply_settings": "everyone",
+        "text": "finamente uma criança sem celular 🙏🏻 https://t.co/gegOThw4cJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098700490033008988",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 680,
+          "like_count": 2002,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-12T16:21:55.000Z",
+        "description": "de marte para a terra 👽\n\n@MIBR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "MIBR"
+              }
+            ]
+          }
+        },
+        "id": "410818785",
+        "is_identity_verified": true,
+        "location": "São Paulo, Brasil",
+        "most_recent_tweet_id": "2098582399890165786",
+        "name": "Renan Callegari 🇧🇷",
+        "pinned_tweet_id": "1844032477406675216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/410818785/1688198166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074028659543887872/E4KyFpKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77660,
+          "following_count": 38076,
+          "like_count": 204071,
+          "listed_count": 12,
+          "media_count": 3072,
+          "tweet_count": 60205
+        },
+        "url": "",
+        "username": "umANSIOS0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

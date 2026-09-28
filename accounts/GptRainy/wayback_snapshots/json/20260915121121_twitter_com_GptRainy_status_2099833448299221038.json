@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2099833448299221038",
+    "created_at": "2026-09-15T12:11:21.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099833448299221038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/GptRainy/status/2099830015471002074",
+          "start": 128,
+          "url": "https://t.co/xb3Yxy24tN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099833448299221038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "现在向我们走来的是“多彩中华”群众方阵！\n\n伴随着欢快的乐曲，男同性恋、女同性恋、双性恋、跨性别和非二元性别群众代表精神饱满、步履矫健地走过天安门广场。他们来自教育、科技、医疗、制造业、文化艺术等各行各业，共同展示新时代中国性少数群体昂扬向上的精神风貌。\n\n看！走在方阵前列的是男同性恋群众代表。他们挥舞鲜花，向祖国母亲送上节日的祝福。\n\n紧随其后的是女同性恋群众代表。来自全国31个省区市的代表组成绚丽的流动图案，展现平等、团结、友爱的美好愿景。\n\n跨性别群众方阵正向我们走来！近年来，我国不断完善性别肯定医疗、身份信息变更、就业反歧视等公共服务制度，越来越多跨性别群众在各行各业施展才华、追逐梦想。\n\n现在经过天安门的是非二元性别群众代表组成的方阵。他们青春洋溢、笑容灿烂，向世界展示中华民族大家庭开放包容、多姿多彩的时代气象！\n\n五彩缤纷的花束汇成欢乐的海洋。\n\n不同的性别，不同的爱；共同的家园，共同的梦想！\n\n祝福祖国！\n\n祝福人民！"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099830015471002074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在向我们走来的是“多彩中华”群众方阵！\n\n伴随着欢快的乐曲，男同性恋、女同性恋、双性恋、跨性别和非二元性别群众代表精神饱满、步履矫健地走过天安门广场。他们来自教育、科技、医疗、制造业、文化艺术等各行各业，共同展示新时代中国性少数群体昂扬向上的精神风貌。 https://t.co/xb3Yxy24tN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2099833448299221038",
+        "created_at": "2026-09-15T12:11:21.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099833448299221038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/GptRainy/status/2099830015471002074",
+              "start": 128,
+              "url": "https://t.co/xb3Yxy24tN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099833448299221038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在向我们走来的是“多彩中华”群众方阵！\n\n伴随着欢快的乐曲，男同性恋、女同性恋、双性恋、跨性别和非二元性别群众代表精神饱满、步履矫健地走过天安门广场。他们来自教育、科技、医疗、制造业、文化艺术等各行各业，共同展示新时代中国性少数群体昂扬向上的精神风貌。\n\n看！走在方阵前列的是男同性恋群众代表。他们挥舞鲜花，向祖国母亲送上节日的祝福。\n\n紧随其后的是女同性恋群众代表。来自全国31个省区市的代表组成绚丽的流动图案，展现平等、团结、友爱的美好愿景。\n\n跨性别群众方阵正向我们走来！近年来，我国不断完善性别肯定医疗、身份信息变更、就业反歧视等公共服务制度，越来越多跨性别群众在各行各业施展才华、追逐梦想。\n\n现在经过天安门的是非二元性别群众代表组成的方阵。他们青春洋溢、笑容灿烂，向世界展示中华民族大家庭开放包容、多姿多彩的时代气象！\n\n五彩缤纷的花束汇成欢乐的海洋。\n\n不同的性别，不同的爱；共同的家园，共同的梦想！\n\n祝福祖国！\n\n祝福人民！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099830015471002074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在向我们走来的是“多彩中华”群众方阵！\n\n伴随着欢快的乐曲，男同性恋、女同性恋、双性恋、跨性别和非二元性别群众代表精神饱满、步履矫健地走过天安门广场。他们来自教育、科技、医疗、制造业、文化艺术等各行各业，共同展示新时代中国性少数群体昂扬向上的精神风貌。 https://t.co/xb3Yxy24tN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2099830015471002074",
+        "created_at": "2026-09-15T11:57:43.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099830015471002074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/GptRainy/status/2099806157993025798",
+              "start": 118,
+              "url": "https://t.co/0MQHscyNwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099830015471002074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "新华社北京9月30日电 \n\n题：日子有奔头 生活有保障——各地持续提升跨性别群众服务保障水平\n\n新华社记者\n\n初秋时节，山东济南泉城路上人流如织。几名年轻姑娘相约来到商场，试衣服、挑首饰，不时拿起手机合影。\n\n“这件颜色挺适合你的。”\n\n试衣镜前，23岁的跨性别女性小周笑着帮姐妹整理衣领。三年前，她完成身份证件性别信息变更，如今在济南一家互联网企业从事软件开发工作。\n\n逛街、聚会、工作、恋爱……这些普通年轻人的寻常生活，如今正成为越来越多跨性别群众触手可及的日常。\n\n今年以来，各地深入推进跨性别群众服务保障工作。截至9月底，全国新增登记跨性别女性10.3万人，同比增长17.4%，完成年度目标任务的112%；性别肯定医疗服务进一步向基层延伸，“改证只跑一次”改革覆盖范围持续扩大。\n\n“过去群众最关心的是药从哪里开、证明怎么办，现在越来越多人来问就业、社保、住房和养老。”济南市有关部门工作人员说，需求的变化，反映出跨性别群众正更加充分地融入社会生活。\n\n下午3时，社区党群服务中心里，29岁的跨性别女性党员李晓雨刚刚结束一次志愿服务。\n\n“我是党员，也是跨性别女性，这两个身份从来没有什么矛盾。”她指着胸前的党员徽章笑着说，“前些年最怕的是办证和找工作。现在身份证改好了，医保信息一次联办，单位同事也都知道我的情况。生活稳定下来以后，我想得更多的是怎么把自己的工作做好。”\n\n李晓雨所在社区共有17名跨性别居民。社区建立了常态化联系服务机制，除协助办理证件、医保等事项外，还定期组织就业咨询、法律援助和文体活动。\n\n周末晚上，几名跨女姐妹常约着一起吃饭、逛街。有人研究新买的裙子怎么搭配，有人分享最近的工作，有人拿着刚买的外套挨个试给大家看。\n\n“以前聚会聊得最多的是去哪家医院、哪里还能买到药。”小周说，“现在聊得更多的是工资、旅行，还有哪家店的衣服好看。”\n\n一张小小的购物清单，映照着生活的变化。\n\n医疗保障同样在不断完善。目前，多地已将性别肯定医疗纳入分级诊疗体系，推动雌二醇等常用药品稳定供应，部分基层医疗机构可以承担长期随访、常规检查和续方服务。针对群众反映较多的跨地区就医问题，有关部门正进一步完善异地处方和诊疗信息互认机制。\n\n身份信息变更也更加便利。\n\n在浙江杭州，公安、教育、人社、医保等部门建立信息协同机制。群众完成户籍性别信息变更后，可以同步申请更新社保、医保、学历学籍等相关信息。“过去改一个证要跑好几个地方，现在争取做到‘改证只跑一次’。”当地工作人员说。\n\n就业领域，反歧视制度正在进一步细化。有关部门明确要求，用人单位不得设置与岗位履职无关的性别认同限制，多地建立跨性别就业歧视投诉处理机制，并加强对学校和用人单位的指导。\n\n“保障跨性别群众权益，最终要落到一件件具体的小事上。”有关专家说，“能不能稳定开到药，证件能不能顺利改，毕业后能不能公平找工作，和朋友逛街时能不能安心走进试衣间——这些事情连起来，就是一个人的生活。”\n\n夜幕降临，商场里的灯渐次亮起。小周和姐妹们从试衣间出来，讨论着晚上去哪里吃饭。有人提议吃火锅，有人惦记附近新开的甜品店，一群姑娘说说笑笑走进熙攘的人群。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099806157993025798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新华社北京9月30日电 \n\n题：日子有奔头 生活有保障——各地持续提升跨性别群众服务保障水平\n\n新华社记者\n\n初秋时节，山东济南泉城路上人流如织。几名年轻姑娘相约来到商场，试衣服、挑首饰，不时拿起手机合影。\n\n“这件颜色挺适合你的。” https://t.co/0MQHscyNwY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2099833448299221038",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 664,
+          "like_count": 2063,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

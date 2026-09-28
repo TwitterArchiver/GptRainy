@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059597726413664262"
+      ],
+      "media_source_tweet_id": [
+        "2059597729467085215"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098410739488694771",
+    "created_at": "2026-09-11T13:58:01.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098410739488694771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918593759121690625",
+          "start": 3,
+          "username": "hu_qin_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6bwMF2edpE",
+          "end": 49,
+          "expanded_url": "https://x.com/hu_qin_/status/2059597729467085215/photo/1",
+          "media_key": "3_2059597726413664262",
+          "start": 26,
+          "url": "https://t.co/6bwMF2edpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098410739488694771",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2059597726413664262"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059597729467085215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu_qin_: 怎么会有人这么恶心，吐了 https://t.co/6bwMF2edpE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1953,
+        "media_key": "3_2059597726413664262",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUpOE8WsAYxwZh.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059597726413664262"
+          ],
+          "media_source_tweet_id": [
+            "2059597729467085215"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098410739488694771",
+        "created_at": "2026-09-11T13:58:01.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098410739488694771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918593759121690625",
+              "start": 3,
+              "username": "hu_qin_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bwMF2edpE",
+              "end": 49,
+              "expanded_url": "https://x.com/hu_qin_/status/2059597729467085215/photo/1",
+              "media_key": "3_2059597726413664262",
+              "start": 26,
+              "url": "https://t.co/6bwMF2edpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098410739488694771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2059597726413664262"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059597729467085215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu_qin_: 怎么会有人这么恶心，吐了 https://t.co/6bwMF2edpE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059597726413664262"
+          ]
+        },
+        "author_id": "918593759121690625",
+        "conversation_id": "2059597729467085215",
+        "created_at": "2026-05-27T11:28:58.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059597729467085215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bwMF2edpE",
+              "end": 36,
+              "expanded_url": "https://x.com/hu_qin_/status/2059597729467085215/photo/1",
+              "media_key": "3_2059597726413664262",
+              "start": 13,
+              "url": "https://t.co/6bwMF2edpE"
+            },
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2058770128368460273",
+              "start": 37,
+              "url": "https://t.co/h573mUDDDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059597729467085215",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2059597726413664262"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4022,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058770128368460273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么会有人这么恶心，吐了 https://t.co/6bwMF2edpE https://t.co/h573mUDDDm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098410739488694771",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 639,
+          "like_count": 1919,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, trans, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "is_identity_verified": false,
+        "location": "China／Scotland／transfem🏳️‍⚧",
+        "most_recent_tweet_id": "2098353626062234098",
+        "name": "胡琴",
+        "pinned_tweet_id": "2081362569181134887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918593759121690625/1568448031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 1857,
+          "like_count": 23006,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 5815
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

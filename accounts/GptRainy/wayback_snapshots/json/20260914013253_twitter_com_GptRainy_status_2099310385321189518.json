@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2099137612216762411",
+    "created_at": "2026-09-14T01:32:53.000Z",
+    "display_text_range": [
+      13,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T02:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099310385321189518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695155152183787520",
+          "start": 0,
+          "username": "maxjendrall"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+          "display_url": "huggingface.co/raincandy-u/Ti…",
+          "end": 36,
+          "expanded_url": "https://huggingface.co/raincandy-u/TinyStories-656K",
+          "images": [
+            {
+              "height": 648,
+              "url": "https://pbs.twimg.com/news_img/2074111195527966720/asMjMvES?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074111195527966720/asMjMvES?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "raincandy-u/TinyStories-656K · Hugging Face",
+          "unwound_url": "https://huggingface.co/raincandy-u/TinyStories-656K",
+          "url": "https://t.co/TT4YrJ42ob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099310385321189518",
+    "in_reply_to_user_id": "1695155152183787520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099137612216762411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maxjendrall https://t.co/TT4YrJ42ob\n\nThis is an LLM I built that can be put into a floppy disk☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2099137534324580352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGidzwbIAAEfZe.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2099137612216762411",
+        "created_at": "2026-09-14T01:32:53.000Z",
+        "display_text_range": [
+          13,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T02:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099310385321189518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695155152183787520",
+              "start": 0,
+              "username": "maxjendrall"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "display_url": "huggingface.co/raincandy-u/Ti…",
+              "end": 36,
+              "expanded_url": "https://huggingface.co/raincandy-u/TinyStories-656K",
+              "images": [
+                {
+                  "height": 648,
+                  "url": "https://pbs.twimg.com/news_img/2074111195527966720/asMjMvES?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074111195527966720/asMjMvES?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "raincandy-u/TinyStories-656K · Hugging Face",
+              "unwound_url": "https://huggingface.co/raincandy-u/TinyStories-656K",
+              "url": "https://t.co/TT4YrJ42ob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099310385321189518",
+        "in_reply_to_user_id": "1695155152183787520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099137612216762411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maxjendrall https://t.co/TT4YrJ42ob\n\nThis is an LLM I built that can be put into a floppy disk☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099137534324580352"
+          ]
+        },
+        "author_id": "1695155152183787520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2099137612216762411",
+        "created_at": "2026-09-13T14:06:21.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099137612216762411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWyGucno7k",
+              "end": 90,
+              "expanded_url": "https://x.com/maxjendrall/status/2099137612216762411/photo/1",
+              "media_key": "3_2099137534324580352",
+              "start": 67,
+              "url": "https://t.co/sWyGucno7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099137612216762411",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099137534324580352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1314,
+          "impression_count": 207899,
+          "like_count": 6211,
+          "quote_count": 21,
+          "reply_count": 35,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "Guy on reddit casually building a lightweight LLM in mf scratch??? https://t.co/sWyGucno7k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2099310385321189518",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 666,
+          "like_count": 2039,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-25T19:24:32.000Z",
+        "description": "Human written takes on AI & living in this weird time.\n\nBuilding @rowruns as founder & clanker manager.\nCerebras, Cognition and OpenAI Codex Ambassador",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "rowruns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "max.berlin",
+                "end": 23,
+                "expanded_url": "https://max.berlin",
+                "start": 0,
+                "url": "https://t.co/8dp9FwDHAu"
+              }
+            ]
+          }
+        },
+        "id": "1695155152183787520",
+        "is_identity_verified": false,
+        "location": "eu-west, berlin",
+        "most_recent_tweet_id": "2099259274132127746",
+        "name": "max.berlin",
+        "pinned_tweet_id": "2079874049455309023",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695155152183787520/1764270018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011491901640491010/aTtqN1cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 4250,
+          "like_count": 84950,
+          "listed_count": 29,
+          "media_count": 459,
+          "tweet_count": 4548
+        },
+        "url": "https://t.co/8dp9FwDHAu",
+        "username": "maxjendrall",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

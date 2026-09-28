@@ -1,0 +1,639 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Florida",
+          "id": "855436277054750722",
+          "name": "Florida"
+        }
+      }
+    ],
+    "conversation_id": "2099583254101967003",
+    "created_at": "2026-09-14T19:37:10.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T20:35:35.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099582856020500739",
+      "2099583254101967003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AngieNixon/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/AngieNixon/status/2099136161968992418",
+          "start": 6,
+          "url": "https://t.co/j3KNrqDAnC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099583254101967003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099136161968992418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈酱🥺🥺 https://t.co/j3KNrqDAnC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 79483,
+        "height": 1920,
+        "media_key": "7_2099136053374283778",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2099136053374283778/pu/img/lvevQgAe92ECMHQl.jpg",
+        "public_metrics": {
+          "view_count": 5688
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2099136053374283778/pu/vid/avc1/320x568/b1i_9Ulmn1iwJQMj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2099136053374283778/pu/vid/avc1/480x852/k1LC3zbeDh_loHmS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2099136053374283778/pu/vid/avc1/720x1280/cP8vdojxooXfhsso.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2099136053374283778/pu/pl/eLfnRm5-73EvLWqq.m3u8?tag=12&v=ebc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2099582856020500739",
+        "created_at": "2026-09-14T19:35:35.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T20:35:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099582856020500739",
+          "2099583254101967003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngieNixon/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/AngieNixon/status/2099136161968992418",
+              "start": 3,
+              "url": "https://t.co/j3KNrqDAnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099582856020500739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099136161968992418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/j3KNrqDAnC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2099583254101967003",
+        "created_at": "2026-09-14T19:37:10.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T20:35:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099582856020500739",
+          "2099583254101967003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngieNixon/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/AngieNixon/status/2099136161968992418",
+              "start": 6,
+              "url": "https://t.co/j3KNrqDAnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099583254101967003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099136161968992418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈酱🥺🥺 https://t.co/j3KNrqDAnC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2099136053374283778"
+          ]
+        },
+        "author_id": "54608439",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2099136161968992418",
+        "created_at": "2026-09-13T14:00:35.000Z",
+        "display_text_range": [
+          0,
+          256
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099136161968992418"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 216,
+              "start": 212,
+              "tag": "AOC"
+            },
+            {
+              "end": 225,
+              "start": 217,
+              "tag": "Florida"
+            },
+            {
+              "end": 235,
+              "start": 226,
+              "tag": "Politics"
+            },
+            {
+              "end": 246,
+              "start": 236,
+              "tag": "Democrats"
+            },
+            {
+              "end": 256,
+              "start": 247,
+              "tag": "Angie4FL"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 4,
+              "id": "138203134",
+              "start": 0,
+              "username": "AOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUCDZdnpmN",
+              "end": 280,
+              "expanded_url": "https://x.com/AngieNixon/status/2099136161968992418/video/1",
+              "media_key": "7_2099136053374283778",
+              "start": 257,
+              "url": "https://t.co/oUCDZdnpmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099136161968992418",
+        "in_reply_to_user_id": "138203134",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2099136053374283778"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 14856,
+          "like_count": 1308,
+          "quote_count": 9,
+          "reply_count": 78,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "@AOC said I’m that girl. Now THAT made me smile. 🩷\nBut she’s right about something bigger: we don’t have to ask for less just because we live in Florida. I believe we can fight for people with our whole chest. \n\n#AOC #Florida #Politics #Democrats #Angie4FL https://t.co/oUCDZdnpmN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2099583254101967003",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 664,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-07T17:04:57.000Z",
+        "description": "Mom. Organizer. Florida State Rep. ☀️ Running for US Senate because Floridians deserve better. 🗳️ Primary Election: August 18.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angienixon.com",
+                "end": 23,
+                "expanded_url": "https://angienixon.com",
+                "start": 0,
+                "url": "https://t.co/GNmEV0ecbI"
+              }
+            ]
+          }
+        },
+        "id": "54608439",
+        "is_identity_verified": true,
+        "location": "Jacksonville, FL",
+        "most_recent_tweet_id": "2099558915356651827",
+        "name": "State Rep. Angie Nixon",
+        "pinned_tweet_id": "2014322778984378816",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54608439/1782952101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060701729088585728/HeHWnPaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61981,
+          "following_count": 1061,
+          "like_count": 2173,
+          "listed_count": 372,
+          "media_count": 2157,
+          "tweet_count": 13782
+        },
+        "url": "https://t.co/GNmEV0ecbI",
+        "username": "AngieNixon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1613673899371159555/X20dMMBa_bigger.jpg",
+          "description": "House Democrats",
+          "url": "https://twitter.com/HouseDemocrats",
+          "user_id": [
+            "43963249"
+          ]
+        },
+        "created_at": "2010-04-28T22:38:40.000Z",
+        "description": "US Congresswoman, NY-14. In a modern, moral, and wealthy society, no American should be too poor to live. People-Funded, takes no lobbyist💰. Personal account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ocasiocortez.com",
+                "end": 23,
+                "expanded_url": "http://www.ocasiocortez.com",
+                "start": 0,
+                "url": "https://t.co/2v0ZEutGyq"
+              }
+            ]
+          }
+        },
+        "id": "138203134",
+        "is_identity_verified": false,
+        "location": "Bronx + Queens, NYC",
+        "most_recent_tweet_id": "2086587651566493909",
+        "name": "Alexandria Ocasio-Cortez",
+        "pinned_tweet_id": "1799095276382085488",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12684114,
+          "following_count": 4373,
+          "like_count": 40472,
+          "listed_count": 26279,
+          "media_count": 1037,
+          "tweet_count": 16286
+        },
+        "url": "https://t.co/2v0ZEutGyq",
+        "username": "AOC",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2102952636542750752",
+    "created_at": "2026-09-24T02:45:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102952636542750752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1138461026",
+          "start": 3,
+          "username": "prem_thakker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102952636542750752",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 291
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102833309449392363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prem_thakker: New Gallup poll has US approval of socialism at highest level ever.\n\nWomen, people of color, Democrats, and people aged 1…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2102831983202078720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS7CjCUXEAAiw9l.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2102952636542750752",
+        "created_at": "2026-09-24T02:45:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102952636542750752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1138461026",
+              "start": 3,
+              "username": "prem_thakker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102952636542750752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 291
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102833309449392363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prem_thakker: New Gallup poll has US approval of socialism at highest level ever.\n\nWomen, people of color, Democrats, and people aged 1…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102831983202078720"
+          ]
+        },
+        "author_id": "1138461026",
+        "conversation_id": "2102833309449392363",
+        "created_at": "2026-09-23T18:51:44.000Z",
+        "display_text_range": [
+          0,
+          283
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T19:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102833309449392363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aLnsft0cb",
+              "end": 307,
+              "expanded_url": "https://x.com/prem_thakker/status/2102833309449392363/photo/1",
+              "media_key": "3_2102831983202078720",
+              "start": 284,
+              "url": "https://t.co/8aLnsft0cb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102833309449392363",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102831983202078720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 47726,
+          "like_count": 1259,
+          "quote_count": 48,
+          "reply_count": 32,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "New Gallup poll has US approval of socialism at highest level ever.\n\nWomen, people of color, Democrats, and people aged 18-34 all view socialism more positively than capitalism.\n\nAmong people aged 35-54 and those who make less than $99K, socialism &amp; capitalism are neck and neck. https://t.co/8aLnsft0cb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist🇵🇸🇺🇦/VOCALOID🎶/药物药理/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2102952636542750752",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 661,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-01T02:04:30.000Z",
+        "description": "reporter @zeteo_news | any tips or info you'd like to share? text me on signal: premthakker.35 | or prem@zeteonews.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "zeteo_news"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/premthakker",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/premthakker",
+                "start": 0,
+                "url": "https://t.co/KaJK6djvJg"
+              }
+            ]
+          }
+        },
+        "id": "1138461026",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102929362677060023",
+        "name": "Prem Thakker",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138461026/1659140150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658695739646660609/wkoQMzqa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96573,
+          "following_count": 1833,
+          "like_count": 10597,
+          "listed_count": 681,
+          "media_count": 2286,
+          "tweet_count": 10893
+        },
+        "url": "https://t.co/KaJK6djvJg",
+        "username": "prem_thakker",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

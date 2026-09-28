@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2103106679223050374",
+    "created_at": "2026-09-27T11:22:41.000Z",
+    "display_text_range": [
+      10,
+      227
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104169854727246183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "100818387",
+          "start": 0,
+          "username": "mishig25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104169854727246183",
+    "in_reply_to_user_id": "100818387",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103106679223050374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mishig25 tiny request from an HF girlie who spends way too much time training tiny models and browsing the Hub: can we PLEASE get an official 🤗 plush 😭 I’ve loved this little guy for years and I need him sitting next to my GPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9788,
+        "height": 1244,
+        "media_key": "13_2103106292612988928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103106292612988928/img/KN0EkRa6HGAY2uyq.jpg",
+        "public_metrics": {
+          "view_count": 894
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103106292612988928/vid/avc1/400x270/LBOlGrawKdIsupJo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103106292612988928/vid/avc1/534x360/GHeom20awtVotdf8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103106292612988928/vid/avc1/1068x720/gS1D1ZlqB-l3NKPS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103106292612988928/pl/OTJZzly3cVqoAL6I.m3u8?tag=14"
+          }
+        ],
+        "width": 1846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2103106679223050374",
+        "created_at": "2026-09-27T11:22:41.000Z",
+        "display_text_range": [
+          10,
+          227
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104169854727246183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "100818387",
+              "start": 0,
+              "username": "mishig25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104169854727246183",
+        "in_reply_to_user_id": "100818387",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103106679223050374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mishig25 tiny request from an HF girlie who spends way too much time training tiny models and browsing the Hub: can we PLEASE get an official 🤗 plush 😭 I’ve loved this little guy for years and I need him sitting next to my GPU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103106292612988928"
+          ]
+        },
+        "author_id": "100818387",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          }
+        ],
+        "conversation_id": "2103106679223050374",
+        "created_at": "2026-09-24T12:58:00.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103106679223050374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNDa2L6IYk",
+              "end": 127,
+              "expanded_url": "https://x.com/mishig25/status/2103106679223050374/video/1",
+              "media_key": "13_2103106292612988928",
+              "start": 104,
+              "url": "https://t.co/sNDa2L6IYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103106679223050374",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2103106292612988928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3841,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "huggignface of robotics is huggingface\nwe've just added lerobot episodes player on all lerobot datasets https://t.co/sNDa2L6IYk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "19 · t-girl · socialist · 🇵🇸🇺🇦\nProud Shandongese｜LLM dev｜Traveler｜Transit nerd｜Smoker🚬｜VOCALOID lover｜Cat mom🐈\n\nAbundance for all. Accelerate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyeZj"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2104169854727246183",
+        "name": "小雨🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 747,
+          "like_count": 2281,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/LS2oOiyeZj",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-31T18:20:24.000Z",
+        "description": "artificial intelligence @huggingface",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "huggingface"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mishig25.github.io",
+                "end": 23,
+                "expanded_url": "https://mishig25.github.io/",
+                "start": 0,
+                "url": "https://t.co/tNEUXKzefO"
+              }
+            ]
+          }
+        },
+        "id": "100818387",
+        "is_identity_verified": false,
+        "location": "Paris, France",
+        "most_recent_tweet_id": "2103938550584512996",
+        "name": "Mishig ᠮᠢᠰᠾᠢᠭ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/100818387/1764680624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094507225079234560/TwKcCRBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6566,
+          "following_count": 1080,
+          "like_count": 6571,
+          "listed_count": 146,
+          "media_count": 685,
+          "tweet_count": 4561
+        },
+        "url": "https://t.co/tNEUXKzefO",
+        "username": "mishig25",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

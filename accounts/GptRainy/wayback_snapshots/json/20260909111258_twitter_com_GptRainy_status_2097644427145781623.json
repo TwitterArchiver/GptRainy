@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097610962744537088"
+      ],
+      "media_source_tweet_id": [
+        "2097610968125804555"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Breaking News",
+          "id": "1047084549396549632",
+          "name": "Ongoing news stories"
+        }
+      }
+    ],
+    "conversation_id": "2097644427145781623",
+    "created_at": "2026-09-09T11:12:58.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097644427145781623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1315712515",
+          "start": 3,
+          "username": "queerfes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMNDb6RSDm",
+          "end": 116,
+          "expanded_url": "https://x.com/queerfes/status/2097610968125804555/photo/1",
+          "media_key": "3_2097610962744537088",
+          "start": 93,
+          "url": "https://t.co/GMNDb6RSDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097644427145781623",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2097610962744537088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 567
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097610968125804555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @queerfes: [속보] \n혐오세력이 신청했던 ‘대구퀴어문화축제 집회금지 가처분’ 신청, 또 기각돼…… 18회 집행위, ”기쁜 소식은 모두에게 알려야 한다“ https://t.co/GMNDb6RSDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "3_2097610962744537088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRw2DpdacAAkX_J.jpg",
+        "width": 420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097610962744537088"
+          ],
+          "media_source_tweet_id": [
+            "2097610968125804555"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2097644427145781623",
+        "created_at": "2026-09-09T11:12:58.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097644427145781623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1315712515",
+              "start": 3,
+              "username": "queerfes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMNDb6RSDm",
+              "end": 116,
+              "expanded_url": "https://x.com/queerfes/status/2097610968125804555/photo/1",
+              "media_key": "3_2097610962744537088",
+              "start": 93,
+              "url": "https://t.co/GMNDb6RSDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097644427145781623",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2097610962744537088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 567
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097610968125804555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @queerfes: [속보] \n혐오세력이 신청했던 ‘대구퀴어문화축제 집회금지 가처분’ 신청, 또 기각돼…… 18회 집행위, ”기쁜 소식은 모두에게 알려야 한다“ https://t.co/GMNDb6RSDm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097610962744537088"
+          ]
+        },
+        "author_id": "1315712515",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2097610968125804555",
+        "created_at": "2026-09-09T09:00:01.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097610968125804555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMNDb6RSDm",
+              "end": 102,
+              "expanded_url": "https://x.com/queerfes/status/2097610968125804555/photo/1",
+              "media_key": "3_2097610962744537088",
+              "start": 79,
+              "url": "https://t.co/GMNDb6RSDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097610968125804555",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2097610962744537088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 12955,
+          "like_count": 577,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 567
+        },
+        "reply_settings": "everyone",
+        "text": "[속보] \n혐오세력이 신청했던 ‘대구퀴어문화축제 집회금지 가처분’ 신청, 또 기각돼…… 18회 집행위, ”기쁜 소식은 모두에게 알려야 한다“ https://t.co/GMNDb6RSDm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097644427145781623",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 655,
+          "like_count": 1835,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-30T03:45:21.000Z",
+        "description": "",
+        "id": "1315712515",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097611637524234563",
+        "name": "대구퀴어문화축제",
+        "pinned_tweet_id": "2096449782785167682",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315712515/1780290337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053399720333291520/mmypxsMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 1581,
+          "like_count": 388,
+          "listed_count": 23,
+          "media_count": 222,
+          "tweet_count": 508
+        },
+        "url": "",
+        "username": "queerfes",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

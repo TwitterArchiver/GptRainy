@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098614481614213120",
+        "3_2098614494499151872",
+        "3_2098614505567821824",
+        "3_2098614520264769536"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098614532847669307",
+    "created_at": "2026-09-12T03:27:49.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T04:24:43.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098613750156890471",
+      "2098614532847669307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hbgxyph4qy",
+          "end": 65,
+          "expanded_url": "https://x.com/GptRainy/status/2098614532847669307/photo/1",
+          "media_key": "3_2098614481614213120",
+          "start": 42,
+          "url": "https://t.co/hbgxyph4qy"
+        },
+        {
+          "display_url": "pic.x.com/hbgxyph4qy",
+          "end": 65,
+          "expanded_url": "https://x.com/GptRainy/status/2098614532847669307/photo/1",
+          "media_key": "3_2098614494499151872",
+          "start": 42,
+          "url": "https://t.co/hbgxyph4qy"
+        },
+        {
+          "display_url": "pic.x.com/hbgxyph4qy",
+          "end": 65,
+          "expanded_url": "https://x.com/GptRainy/status/2098614532847669307/photo/1",
+          "media_key": "3_2098614505567821824",
+          "start": 42,
+          "url": "https://t.co/hbgxyph4qy"
+        },
+        {
+          "display_url": "pic.x.com/hbgxyph4qy",
+          "end": 65,
+          "expanded_url": "https://x.com/GptRainy/status/2098614532847669307/photo/1",
+          "media_key": "3_2098614520264769536",
+          "start": 42,
+          "url": "https://t.co/hbgxyph4qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098614532847669307",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098614481614213120"
+      },
+      {
+        "media_key": "3_2098614494499151872"
+      },
+      {
+        "media_key": "3_2098614505567821824"
+      },
+      {
+        "media_key": "3_2098614520264769536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【光州·ACC国立亚洲文化殿堂】\n\n下山之后来看展。居然是免费诶☺️有双年展台湾馆 https://t.co/hbgxyph4qy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2098613662084972544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_GAblbQAA9SDp.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098613691432517633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_GCI6bQAE_VY7.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098613720566087680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_GD1caQAAbPZZ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098613738295492608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_GE3fbgAAMvSk.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098614481614213120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_GwIkbEAAngLb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098614494499151872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_Gw4kboAAC8_d.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098614505567821824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_GxhzaIAAo-Li.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098614520264769536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_GyYjbwAAcv4o.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098613662084972544",
+            "3_2098613691432517633",
+            "3_2098613720566087680",
+            "3_2098613738295492608"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098613750156890471",
+        "created_at": "2026-09-12T03:24:43.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:24:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098613750156890471",
+          "2098614532847669307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhjTtlT7CP",
+              "end": 50,
+              "expanded_url": "https://x.com/GptRainy/status/2098613750156890471/photo/1",
+              "media_key": "3_2098613662084972544",
+              "start": 27,
+              "url": "https://t.co/hhjTtlT7CP"
+            },
+            {
+              "display_url": "pic.x.com/hhjTtlT7CP",
+              "end": 50,
+              "expanded_url": "https://x.com/GptRainy/status/2098613750156890471/photo/1",
+              "media_key": "3_2098613691432517633",
+              "start": 27,
+              "url": "https://t.co/hhjTtlT7CP"
+            },
+            {
+              "display_url": "pic.x.com/hhjTtlT7CP",
+              "end": 50,
+              "expanded_url": "https://x.com/GptRainy/status/2098613750156890471/photo/1",
+              "media_key": "3_2098613720566087680",
+              "start": 27,
+              "url": "https://t.co/hhjTtlT7CP"
+            },
+            {
+              "display_url": "pic.x.com/hhjTtlT7CP",
+              "end": 50,
+              "expanded_url": "https://x.com/GptRainy/status/2098613750156890471/photo/1",
+              "media_key": "3_2098613738295492608",
+              "start": 27,
+              "url": "https://t.co/hhjTtlT7CP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098613750156890471",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098613662084972544"
+          },
+          {
+            "media_key": "3_2098613691432517633"
+          },
+          {
+            "media_key": "3_2098613720566087680"
+          },
+          {
+            "media_key": "3_2098613738295492608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【光州·ACC国立亚洲文化殿堂】\n\n居然是免费诶☺️ https://t.co/hhjTtlT7CP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098614481614213120",
+            "3_2098614494499151872",
+            "3_2098614505567821824",
+            "3_2098614520264769536"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098614532847669307",
+        "created_at": "2026-09-12T03:27:49.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:24:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098613750156890471",
+          "2098614532847669307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbgxyph4qy",
+              "end": 65,
+              "expanded_url": "https://x.com/GptRainy/status/2098614532847669307/photo/1",
+              "media_key": "3_2098614481614213120",
+              "start": 42,
+              "url": "https://t.co/hbgxyph4qy"
+            },
+            {
+              "display_url": "pic.x.com/hbgxyph4qy",
+              "end": 65,
+              "expanded_url": "https://x.com/GptRainy/status/2098614532847669307/photo/1",
+              "media_key": "3_2098614494499151872",
+              "start": 42,
+              "url": "https://t.co/hbgxyph4qy"
+            },
+            {
+              "display_url": "pic.x.com/hbgxyph4qy",
+              "end": 65,
+              "expanded_url": "https://x.com/GptRainy/status/2098614532847669307/photo/1",
+              "media_key": "3_2098614505567821824",
+              "start": 42,
+              "url": "https://t.co/hbgxyph4qy"
+            },
+            {
+              "display_url": "pic.x.com/hbgxyph4qy",
+              "end": 65,
+              "expanded_url": "https://x.com/GptRainy/status/2098614532847669307/photo/1",
+              "media_key": "3_2098614520264769536",
+              "start": 42,
+              "url": "https://t.co/hbgxyph4qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098614532847669307",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098614481614213120"
+          },
+          {
+            "media_key": "3_2098614494499151872"
+          },
+          {
+            "media_key": "3_2098614505567821824"
+          },
+          {
+            "media_key": "3_2098614520264769536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【光州·ACC国立亚洲文化殿堂】\n\n下山之后来看展。居然是免费诶☺️有双年展台湾馆 https://t.co/hbgxyph4qy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098614532847669307",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 645,
+          "like_count": 1937,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

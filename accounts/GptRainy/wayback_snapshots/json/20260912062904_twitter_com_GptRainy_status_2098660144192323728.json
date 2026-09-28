@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098370352128938054",
+    "created_at": "2026-09-12T06:29:04.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098660144192323728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844972243773947904",
+          "start": 0,
+          "username": "ri_si16512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098660144192323728",
+    "in_reply_to_user_id": "1844972243773947904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098653758242918784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_si16512 就是这样拍的啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098370352128938054",
+        "created_at": "2026-09-12T06:29:04.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098660144192323728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844972243773947904",
+              "start": 0,
+              "username": "ri_si16512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098660144192323728",
+        "in_reply_to_user_id": "1844972243773947904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098653758242918784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_si16512 就是这样拍的啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844972243773947904",
+        "conversation_id": "2098370352128938054",
+        "created_at": "2026-09-12T06:03:41.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098653758242918784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098653758242918784",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098370352128938054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 真美🥰\n小宝你亮度对比度忘记调了（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098660144192323728",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 648,
+          "like_count": 1941,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T05:24:04.000Z",
+        "description": "「成分很杂」嬉笑怒骂皆文章，供谁拈花一笑。況天地萬物、一瞬🉑曾否？可嘆是：上有莲托觀音倒坐、下至世间眾生躑躅。/荊湖北路鄂岳節度使/我大東亜各種曲芸及ビ言語稽古勉強中/手帐/日常牢骚/楚蛮夷也不服周🔥🦊🐾一只/🇬🇧🇯🇵交谈🉑\n🧊@blueicesama \n💘@Sweetpu86471930",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "blueicesama"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "Sweetpu86471930"
+              }
+            ]
+          }
+        },
+        "id": "1844972243773947904",
+        "is_identity_verified": false,
+        "location": "西南官話、贛語與江淮官話の無名な境界地",
+        "most_recent_tweet_id": "2098659827581133068",
+        "name": "☸️解绮🦊Toki_iroi X低浮上🔜连夜学韩语绣太极旗✍️🇰🇷",
+        "pinned_tweet_id": "2040428978817916986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844972243773947904/1749373944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936352939221868544/1-RUgRag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 7289,
+          "like_count": 33244,
+          "listed_count": 5,
+          "media_count": 1333,
+          "tweet_count": 22786
+        },
+        "url": "",
+        "username": "ri_si16512",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

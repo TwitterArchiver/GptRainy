@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2102823191848857658",
+    "created_at": "2026-09-27T11:18:34.000Z",
+    "display_text_range": [
+      28,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104168817077412096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1503919651377627139",
+          "start": 0,
+          "username": "codestantine"
+        },
+        {
+          "end": 27,
+          "id": "2074212767373115392",
+          "start": 14,
+          "username": "basiscompany"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104168817077412096",
+    "in_reply_to_user_id": "1503919651377627139",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102823191848857658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codestantine @basiscompany please please make a Seedy plush 🥺🌱 I need the little guy on my desk so bad"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2102823191848857658",
+        "created_at": "2026-09-27T11:18:34.000Z",
+        "display_text_range": [
+          28,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104168817077412096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1503919651377627139",
+              "start": 0,
+              "username": "codestantine"
+            },
+            {
+              "end": 27,
+              "id": "2074212767373115392",
+              "start": 14,
+              "username": "basiscompany"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104168817077412096",
+        "in_reply_to_user_id": "1503919651377627139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102823191848857658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codestantine @basiscompany please please make a Seedy plush 🥺🌱 I need the little guy on my desk so bad"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503919651377627139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2102823191848857658",
+        "created_at": "2026-09-23T18:11:32.000Z",
+        "display_text_range": [
+          0,
+          188
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T19:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102823191848857658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 187,
+              "id": "2074212767373115392",
+              "start": 174,
+              "username": "basiscompany"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/crestonbrooks/…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/crestonbrooks/status/2102817825039749341",
+              "start": 189,
+              "url": "https://t.co/qmoNBcjmmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102823191848857658",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102817825039749341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "So happy to see this open source release from people who truly care about low resource languages. \n\nEven more happy to see Georgian and Mingrelian included. Great stuff from @basiscompany! https://t.co/qmoNBcjmmT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "19 · t-girl · socialist · 🇵🇸🇺🇦\nProud Shandongese｜LLM dev｜Traveler｜Transit nerd｜Smoker🚬｜VOCALOID lover｜Cat mom🐈\n\nAbundance for all. Accelerate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyeZj"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2104168817077412096",
+        "name": "小雨🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 747,
+          "like_count": 2278,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 1265
+        },
+        "url": "https://t.co/LS2oOiyeZj",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-16T02:22:52.000Z",
+        "description": "Developer Experience @openai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "openai"
+              }
+            ]
+          }
+        },
+        "id": "1503919651377627139",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103943629186465923",
+        "name": "konstantine",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1503919651377627139/1784671859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070930576912138242/-ii7_mZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 199,
+          "like_count": 3769,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "codestantine",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T19:25:13.000Z",
+        "description": "The human foundation behind frontier AI.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "withbasis.co",
+                "end": 23,
+                "expanded_url": "http://withbasis.co",
+                "start": 0,
+                "url": "https://t.co/Roan2EUq9L"
+              }
+            ]
+          }
+        },
+        "id": "2074212767373115392",
+        "is_identity_verified": false,
+        "location": "San Francisco",
+        "most_recent_tweet_id": "2102818329870344250",
+        "name": "Basis",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074212767373115392/1788934273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097560804455501824/AdnVIvO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/Roan2EUq9L",
+        "username": "basiscompany",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

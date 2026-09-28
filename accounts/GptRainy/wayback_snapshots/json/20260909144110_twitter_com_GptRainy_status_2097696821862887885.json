@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2097696821862887885",
+    "created_at": "2026-09-09T14:41:10.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097696821862887885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_QianQian_8964…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/_QianQian_8964_/status/2097680918307840182",
+          "start": 2,
+          "url": "https://t.co/efC81G9mcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097696821862887885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097680918307840182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "扩 https://t.co/efC81G9mcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097680912469389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRx1rQfa8AAnb_v.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097696821862887885",
+        "created_at": "2026-09-09T14:41:10.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097696821862887885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_QianQian_8964…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/_QianQian_8964_/status/2097680918307840182",
+              "start": 2,
+              "url": "https://t.co/efC81G9mcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097696821862887885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097680918307840182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扩 https://t.co/efC81G9mcV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097680912469389312"
+          ]
+        },
+        "author_id": "2063228399586541568",
+        "conversation_id": "2097680918307840182",
+        "created_at": "2026-09-09T13:37:58.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097680918307840182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMgv5G3lmt",
+              "end": 84,
+              "expanded_url": "https://x.com/_QianQian_8964_/status/2097680918307840182/photo/1",
+              "media_key": "3_2097680912469389312",
+              "start": 61,
+              "url": "https://t.co/uMgv5G3lmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097680918307840182",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097680912469389312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我被人騙了九千。我是啥b。。現在在警局準備落口供了。我一點錢都沒有了。我需要錢。。我想要錢。。。幫操蛋轉帖好不好qwq。 https://t.co/uMgv5G3lmt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097696821862887885",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 637,
+          "like_count": 1856,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097680918307840182",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2089426601880813891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063228399586541568/1787364710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088817754745053184/CrWfdunH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 136,
+          "like_count": 2466,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1301
+        },
+        "url": "",
+        "username": "_QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

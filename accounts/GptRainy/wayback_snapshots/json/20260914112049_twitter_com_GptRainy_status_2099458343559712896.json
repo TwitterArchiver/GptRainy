@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099458328900591616"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2099458343559712896",
+    "created_at": "2026-09-14T11:20:49.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T12:11:20.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099455956140822736",
+      "2099458343559712896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AIh7qvbQ7G",
+          "end": 67,
+          "expanded_url": "https://x.com/GptRainy/status/2099458343559712896/photo/1",
+          "media_key": "3_2099458328900591616",
+          "start": 44,
+          "url": "https://t.co/AIh7qvbQ7G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099458343559712896",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099458328900591616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大邱东城路的正义党制定《反歧视法》倡议横幅\n前几天刷韩推看到大邱queer游行的消息了 https://t.co/AIh7qvbQ7G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2099455939481067520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLEDbZaYAApX65.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099458328900591616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLGOgra4AAyTty.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099455939481067520"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2099455956140822736",
+        "created_at": "2026-09-14T11:11:20.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:11:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099455956140822736",
+          "2099458343559712896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vFhjOVKoC",
+              "end": 64,
+              "expanded_url": "https://x.com/GptRainy/status/2099455956140822736/photo/1",
+              "media_key": "3_2099455939481067520",
+              "start": 41,
+              "url": "https://t.co/9vFhjOVKoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099455956140822736",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099455939481067520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大邱东城路的正义党制定《反歧视法》倡议横幅\n前几天耍韩推看到大邱queer游行了 https://t.co/9vFhjOVKoC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099458328900591616"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2099458343559712896",
+        "created_at": "2026-09-14T11:20:49.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:11:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099455956140822736",
+          "2099458343559712896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIh7qvbQ7G",
+              "end": 67,
+              "expanded_url": "https://x.com/GptRainy/status/2099458343559712896/photo/1",
+              "media_key": "3_2099458328900591616",
+              "start": 44,
+              "url": "https://t.co/AIh7qvbQ7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099458343559712896",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099458328900591616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大邱东城路的正义党制定《反歧视法》倡议横幅\n前几天刷韩推看到大邱queer游行的消息了 https://t.co/AIh7qvbQ7G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2099458343559712896",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 660,
+          "like_count": 2040,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

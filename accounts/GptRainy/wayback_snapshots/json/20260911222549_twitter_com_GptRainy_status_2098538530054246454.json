@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2098022534092640501",
+    "created_at": "2026-09-11T22:25:49.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T23:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098538530054246454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082082072848465920",
+          "start": 0,
+          "username": "Mariao4c3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098538530054246454",
+    "in_reply_to_user_id": "2082082072848465920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098022534092640501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mariao4c3 贸易断了就老实了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1823,
+        "media_key": "3_2098022528472190976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2sX7RaEAARzVH.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098022534092640501",
+        "created_at": "2026-09-11T22:25:49.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T23:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098538530054246454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082082072848465920",
+              "start": 0,
+              "username": "Mariao4c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098538530054246454",
+        "in_reply_to_user_id": "2082082072848465920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098022534092640501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mariao4c3 贸易断了就老实了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098022528472190976"
+          ]
+        },
+        "author_id": "2082082072848465920",
+        "conversation_id": "2098022534092640501",
+        "created_at": "2026-09-10T12:15:26.000Z",
+        "display_text_range": [
+          0,
+          250
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098022534092640501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVtVdeBqiz",
+              "end": 274,
+              "expanded_url": "https://x.com/Mariao4c3/status/2098022534092640501/photo/1",
+              "media_key": "3_2098022528472190976",
+              "start": 251,
+              "url": "https://t.co/pVtVdeBqiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098022534092640501",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2098022528472190976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9763,
+          "like_count": 32,
+          "quote_count": 7,
+          "reply_count": 43,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Для меня Россия — и отец, и мать Китая. Китаю следует быть под властью России. А если не будете слушаться, придётся вас наказать. Китай должен быть благодарен России за то, что именно благодаря нам он смог развиться. Так что будьте благодарны России. https://t.co/pVtVdeBqiz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098538530054246454",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 642,
+          "like_count": 1924,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T12:34:42.000Z",
+        "description": "Моя страна, великая Россия! 🇷🇺 \nРодом из Южно-Сахалинска, Дальний Восток 🇷🇺\nПрезидент Путин — настоящий герой🥰 Слава России! 🇷🇺",
+        "id": "2082082072848465920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098486638934655222",
+        "name": "Maria Galchenko(Мария Гальченко)",
+        "pinned_tweet_id": "2090891543351857433",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082082072848465920/1785244467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082084077335957504/6QblH8AY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 23,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "Mariao4c3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097999925141516288"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "conversation_id": "2097999928958361925",
+    "created_at": "2026-09-10T10:45:36.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097999928958361925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzUTdnWqwK",
+          "end": 30,
+          "expanded_url": "https://x.com/GptRainy/status/2097999928958361925/photo/1",
+          "media_key": "3_2097999925141516288",
+          "start": 7,
+          "url": "https://t.co/wzUTdnWqwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097999928958361925",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097999925141516288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呀这个萌的 https://t.co/wzUTdnWqwK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 422,
+        "media_key": "3_2097999925141516288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2X0PTbMAAgimm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097999925141516288"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097999928958361925",
+        "created_at": "2026-09-10T10:45:36.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097999928958361925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzUTdnWqwK",
+              "end": 30,
+              "expanded_url": "https://x.com/GptRainy/status/2097999928958361925/photo/1",
+              "media_key": "3_2097999925141516288",
+              "start": 7,
+              "url": "https://t.co/wzUTdnWqwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097999928958361925",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097999925141516288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀这个萌的 https://t.co/wzUTdnWqwK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097999928958361925",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 630,
+          "like_count": 1873,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1046
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

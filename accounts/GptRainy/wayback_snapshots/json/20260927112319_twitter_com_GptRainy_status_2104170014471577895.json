@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2102290422576071034",
+    "created_at": "2026-09-27T11:23:19.000Z",
+    "display_text_range": [
+      44,
+      251
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104170014471577895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1132965807896563714",
+          "start": 0,
+          "username": "pcuenq"
+        },
+        {
+          "end": 18,
+          "id": "2027759240321110018",
+          "start": 8,
+          "username": "jundotkim"
+        },
+        {
+          "end": 30,
+          "id": "245262377",
+          "start": 19,
+          "username": "awnihannun"
+        },
+        {
+          "end": 43,
+          "id": "874169451356278784",
+          "start": 31,
+          "username": "angeloskath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104170014471577895",
+    "in_reply_to_user_id": "1132965807896563714",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102290422576071034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pcuenq @jundotkim @awnihannun @angeloskath okay but when are we making 🤗 REAL 😭 I’m an LLM dev, I practically live on the Hub, and this little face has been part of my ML life for years. pleaseeee give us an official plush, I want him guarding my GPU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2102290422576071034",
+        "created_at": "2026-09-27T11:23:19.000Z",
+        "display_text_range": [
+          44,
+          251
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104170014471577895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1132965807896563714",
+              "start": 0,
+              "username": "pcuenq"
+            },
+            {
+              "end": 18,
+              "id": "2027759240321110018",
+              "start": 8,
+              "username": "jundotkim"
+            },
+            {
+              "end": 30,
+              "id": "245262377",
+              "start": 19,
+              "username": "awnihannun"
+            },
+            {
+              "end": 43,
+              "id": "874169451356278784",
+              "start": 31,
+              "username": "angeloskath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104170014471577895",
+        "in_reply_to_user_id": "1132965807896563714",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102290422576071034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pcuenq @jundotkim @awnihannun @angeloskath okay but when are we making 🤗 REAL 😭 I’m an LLM dev, I practically live on the Hub, and this little face has been part of my ML life for years. pleaseeee give us an official plush, I want him guarding my GPU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132965807896563714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2102290422576071034",
+        "created_at": "2026-09-22T06:54:30.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102290422576071034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "2027759240321110018",
+              "start": 23,
+              "username": "jundotkim"
+            },
+            {
+              "end": 130,
+              "id": "245262377",
+              "start": 119,
+              "username": "awnihannun"
+            },
+            {
+              "end": 147,
+              "id": "874169451356278784",
+              "start": 135,
+              "username": "angeloskath"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "display_url": "huggingface.co/blog/omlx",
+              "end": 278,
+              "expanded_url": "https://huggingface.co/blog/omlx",
+              "images": [
+                {
+                  "height": 1112,
+                  "url": "https://pbs.twimg.com/news_img/2102290423700242433/C2dqQE7J?format=jpg&name=orig",
+                  "width": 2000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102290423700242433/C2dqQE7J?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 255,
+              "status": 200,
+              "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+              "unwound_url": "https://huggingface.co/blog/omlx",
+              "url": "https://t.co/5qQhDBw5UZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102290422576071034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 30946,
+          "like_count": 190,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Super happy to welcome @jundotkim, oMLX creator, to Hugging Face! 🥳\n\nWe are invested in Local AI and support MLX since @awnihannun and @angeloskath released it in Christmas 2023.\n\noMLX gets stability and speed. It remains a community project led by Jun.\n\nhttps://t.co/5qQhDBw5UZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shandong Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.0,
+                  36.0
+                ],
+                "type": "Point"
+              },
+              "region": "Shandong Sheng"
+            }
+          ]
+        },
+        "description": "19 · t-girl · socialist · 🇵🇸🇺🇦\nProud Shandongese｜LLM dev｜Traveler｜Transit nerd｜Smoker🚬｜VOCALOID lover｜Cat mom🐈\n\nAbundance for all. Accelerate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyeZj"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2104170014471577895",
+        "name": "小雨🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 747,
+          "like_count": 2281,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/LS2oOiyeZj",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-27T11:04:32.000Z",
+        "description": "ML Engineer at 🤗 Hugging Face | Co-founder at LateNiteSoft (Camera+). I love AI and photography.",
+        "id": "1132965807896563714",
+        "is_identity_verified": false,
+        "location": "Spain",
+        "most_recent_tweet_id": "2103771822126972957",
+        "name": "Pedro Cuenca",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1418143502412783620/ZG1tczmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7745,
+          "following_count": 1074,
+          "like_count": 16813,
+          "listed_count": 215,
+          "media_count": 147,
+          "tweet_count": 4267
+        },
+        "url": "",
+        "username": "pcuenq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T14:54:21.000Z",
+        "description": "Open-Source ML Engineer at 🤗 Hugging Face | Creator of oMLX | I build the tools I wish existed for my Mac, then open-source them. junkim.dot@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/jundot",
+                "end": 23,
+                "expanded_url": "https://github.com/jundot",
+                "start": 0,
+                "url": "https://t.co/BKyzbyAmeF"
+              }
+            ]
+          }
+        },
+        "id": "2027759240321110018",
+        "is_identity_verified": false,
+        "location": "Seoul",
+        "most_recent_tweet_id": "2103223289179230321",
+        "name": "Jun Kim",
+        "pinned_tweet_id": "2102290056186884442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027759240321110018/1779811788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032514879056392199/4rSHKv9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 190,
+          "like_count": 486,
+          "listed_count": 56,
+          "media_count": 42,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/BKyzbyAmeF",
+        "username": "jundotkim",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-31T08:05:27.000Z",
+        "description": "ow knee",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awnihannun.com",
+                "end": 23,
+                "expanded_url": "https://awnihannun.com/",
+                "start": 0,
+                "url": "https://t.co/BnD3F0oqO4"
+              }
+            ]
+          }
+        },
+        "id": "245262377",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102393832587632712",
+        "name": "Awni Hannun",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44998,
+          "following_count": 358,
+          "like_count": 12154,
+          "listed_count": 864,
+          "media_count": 879,
+          "tweet_count": 5067
+        },
+        "url": "https://t.co/BnD3F0oqO4",
+        "username": "awnihannun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-12T07:40:13.000Z",
+        "description": "Machine Learning Research @Apple. Previously PhD student at @idiap_ch and @EPFL. Interested in all things machine learnable",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 26,
+                "username": "Apple"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "idiap_ch"
+              },
+              {
+                "end": 79,
+                "start": 74,
+                "username": "EPFL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angeloskath.github.io",
+                "end": 23,
+                "expanded_url": "https://angeloskath.github.io/",
+                "start": 0,
+                "url": "https://t.co/WxIewrYHDs"
+              }
+            ]
+          }
+        },
+        "id": "874169451356278784",
+        "is_identity_verified": false,
+        "location": "Mountain View, CA",
+        "most_recent_tweet_id": "2065207217276719231",
+        "name": "Angelos Katharopoulos",
+        "pinned_tweet_id": "1732304844403429477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874169451356278784/1609596787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/996725519562477569/HrzA6SuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5010,
+          "following_count": 276,
+          "like_count": 1372,
+          "listed_count": 92,
+          "media_count": 24,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/WxIewrYHDs",
+        "username": "angeloskath",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

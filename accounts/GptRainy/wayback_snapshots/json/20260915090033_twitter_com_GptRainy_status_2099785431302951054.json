@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "conversation_id": "2099785431302951054",
+    "created_at": "2026-09-15T09:00:33.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T10:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099785431302951054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ValeriaEulabei…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2081405571690106954",
+          "start": 24,
+          "url": "https://t.co/OgO3umFGxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099785431302951054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081405571690106954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026年了还能看到这种tu quoque谬误 https://t.co/OgO3umFGxh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2099785431302951054",
+        "created_at": "2026-09-15T09:00:33.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099785431302951054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ValeriaEulabei…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2081405571690106954",
+              "start": 24,
+              "url": "https://t.co/OgO3umFGxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099785431302951054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081405571690106954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026年了还能看到这种tu quoque谬误 https://t.co/OgO3umFGxh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "conversation_id": "2081387868698902690",
+        "created_at": "2026-07-26T15:45:33.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081405571690106954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822014639389003776",
+              "start": 0,
+              "username": "staffyFang0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081405571690106954",
+        "in_reply_to_user_id": "1822014639389003776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081387868698902690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@staffyFang0518 安人跨子被仇恨袭击后会报警吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2099785431302951054",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 665,
+          "like_count": 2055,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/valeriaeulabeia",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/valeriaeulabeia",
+                "start": 0,
+                "url": "https://t.co/LhNv0w0D0f"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "is_identity_verified": false,
+        "location": "Queensland, Australia",
+        "most_recent_tweet_id": "2099784639745331598",
+        "name": "🏴‍☠️Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2099714439259824481",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313383273079345152/1776957256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082274819450732544/2k3gw41X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7169,
+          "following_count": 4335,
+          "like_count": 180432,
+          "listed_count": 21,
+          "media_count": 3019,
+          "tweet_count": 29806
+        },
+        "url": "https://t.co/LhNv0w0D0f",
+        "username": "ValeriaEulabeia",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-09T20:58:50.000Z",
+        "description": "=Staffy \n「마침내 올 해방세상 주춧돌이 될」\n인류학 | 한국학\nAnarchy🚩🏴 |🏳️‍🌈🏳️‍⚧️AroAce-Agender |it/its｜Autism Bipolar ADHD\n대구와 경북, 기억과 장소, 퀴어, 노동, 디아스포라를 연구합니다\n北京長大的朝鮮族，正在學粵語。",
+        "id": "1822014639389003776",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2099214441510514797",
+        "name": "Staaaaaaaffffffffy0518🏳️‍⚧️🏳️‍🌈🍉🎗️",
+        "pinned_tweet_id": "1995491435672653999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822014639389003776/1783835069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084204406900473856/19OxJlLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 350,
+          "like_count": 7874,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3785
+        },
+        "url": "",
+        "username": "staffyFang0518",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

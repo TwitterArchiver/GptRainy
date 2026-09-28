@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099820713553403904"
+      ]
+    },
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099820769215959423",
+    "created_at": "2026-09-15T11:20:58.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099820769215959423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "In solitude, where we are least alone. 这里是小雨的个人博客，记录技术、思考与生活点滴。",
+          "display_url": "angelkawaii.xyz",
+          "end": 23,
+          "expanded_url": "https://angelkawaii.xyz/",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2096517370013777920/Kpd7Ebio?format=jpg&name=orig",
+              "width": 1920
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096517370013777920/Kpd7Ebio?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "❤ 小雨的博客 ❤",
+          "unwound_url": "https://angelkawaii.xyz/",
+          "url": "https://t.co/IfMJWbVtxf"
+        },
+        {
+          "display_url": "pic.x.com/8C9buLLgcp",
+          "end": 69,
+          "expanded_url": "https://x.com/GptRainy/status/2099820769215959423/photo/1",
+          "media_key": "3_2099820713553403904",
+          "start": 46,
+          "url": "https://t.co/8C9buLLgcp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099820769215959423",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099820713553403904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/IfMJWbVtxf\n我的博客更新主题啦~\n感谢astra的帮助 https://t.co/8C9buLLgcp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2099820713553403904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQP0EtboAAf4Uh.jpg",
+        "width": 2134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099820713553403904"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099820769215959423",
+        "created_at": "2026-09-15T11:20:58.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099820769215959423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "In solitude, where we are least alone. 这里是小雨的个人博客，记录技术、思考与生活点滴。",
+              "display_url": "angelkawaii.xyz",
+              "end": 23,
+              "expanded_url": "https://angelkawaii.xyz/",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2096517370013777920/Kpd7Ebio?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096517370013777920/Kpd7Ebio?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "❤ 小雨的博客 ❤",
+              "unwound_url": "https://angelkawaii.xyz/",
+              "url": "https://t.co/IfMJWbVtxf"
+            },
+            {
+              "display_url": "pic.x.com/8C9buLLgcp",
+              "end": 69,
+              "expanded_url": "https://x.com/GptRainy/status/2099820769215959423/photo/1",
+              "media_key": "3_2099820713553403904",
+              "start": 46,
+              "url": "https://t.co/8C9buLLgcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099820769215959423",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099820713553403904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IfMJWbVtxf\n我的博客更新主题啦~\n感谢astra的帮助 https://t.co/8C9buLLgcp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2099820769215959423",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 664,
+          "like_count": 2056,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

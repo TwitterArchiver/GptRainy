@@ -1,0 +1,670 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054196065172344832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "United States Congress",
+          "id": "961705302700654593",
+          "name": "United States Congress"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "United States Congress",
+          "id": "961705302700654593",
+          "name": "United States Congress"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "United States Senate",
+          "id": "877326946253684737",
+          "name": "United States Senate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "United States Congress",
+          "id": "961705302700654593",
+          "name": "United States Congress"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "United States Senate",
+          "id": "877326946253684737",
+          "name": "United States Senate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2101190909962637537",
+    "created_at": "2026-09-19T06:05:25.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101190909962637537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "35516339",
+          "start": 3,
+          "username": "AbdulElSayed"
+        },
+        {
+          "end": 40,
+          "id": "19608297",
+          "start": 36,
+          "username": "HRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101190909962637537",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100936129146966280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AbdulElSayed: I’m proud to have @HRC standing with us in this race. LGBTQ+ Michiganders deserve leaders who will have their backs when…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Senate",
+              "id": "877326946253684737",
+              "name": "United States Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Senate",
+              "id": "877326946253684737",
+              "name": "United States Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2101190909962637537",
+        "created_at": "2026-09-19T06:05:25.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101190909962637537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "35516339",
+              "start": 3,
+              "username": "AbdulElSayed"
+            },
+            {
+              "end": 40,
+              "id": "19608297",
+              "start": 36,
+              "username": "HRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101190909962637537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100936129146966280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AbdulElSayed: I’m proud to have @HRC standing with us in this race. LGBTQ+ Michiganders deserve leaders who will have their backs when…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "35516339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Senate",
+              "id": "877326946253684737",
+              "name": "United States Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Senate",
+              "id": "877326946253684737",
+              "name": "United States Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2100936129146966280",
+        "created_at": "2026-09-18T13:13:01.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100936129146966280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "19608297",
+              "start": 18,
+              "username": "HRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HRC/status/210…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/HRC/status/2100605514916765761",
+              "start": 277,
+              "url": "https://t.co/dJlgYmrmQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100936129146966280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 22,
+                "id": "19608297",
+                "start": 18,
+                "username": "HRC"
+              }
+            ]
+          },
+          "text": "I’m proud to have @HRC standing with us in this race. LGBTQ+ Michiganders deserve leaders who will have their backs when it matters most, not just when it’s politically convenient. That’s the commitment I’ve carried throughout my career in Detroit and Wayne County, and in the United States Senate, I’ll fight to ensure every Michigander can live without discrimination and never has to wonder whether their rights will still be there tomorrow."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 36073,
+          "like_count": 1488,
+          "quote_count": 29,
+          "reply_count": 589,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100605514916765761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’m proud to have @HRC standing with us in this race. LGBTQ+ Michiganders deserve leaders who will have their backs when it matters most, not just when it’s politically convenient. That’s the commitment I’ve carried throughout my career in Detroit and Wayne County, and in the https://t.co/dJlgYmrmQg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2101190909962637537",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2100218522408501453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 657,
+          "like_count": 2119,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-26T17:41:34.000Z",
+        "description": "Public servant running for U.S. Senate because it shouldn't be THIS hard to get by. Michigan born and raised. Girl Dad. Doctor.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "abdulforsenate.com",
+                "end": 23,
+                "expanded_url": "http://abdulforsenate.com/",
+                "start": 0,
+                "url": "https://t.co/lHTDHZmFm1"
+              }
+            ]
+          }
+        },
+        "id": "35516339",
+        "is_identity_verified": false,
+        "location": "Ann Arbor, Michigan",
+        "most_recent_tweet_id": "2101113715076600098",
+        "name": "Dr. Abdul El-Sayed",
+        "pinned_tweet_id": "2085012380161851571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35516339/1786388246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912793182800121856/bj1c8UR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301817,
+          "following_count": 5886,
+          "like_count": 10381,
+          "listed_count": 1572,
+          "media_count": 1560,
+          "tweet_count": 3415
+        },
+        "url": "https://t.co/lHTDHZmFm1",
+        "username": "AbdulElSayed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-01-27T18:55:38.000Z",
+        "description": "We're America’s largest LGBTQ+ civil rights organization. Follow us here and on Bluesky for updates: https://t.co/fvMmk5naNM. Media requests: press@hrc.org",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hrc.org",
+                "end": 124,
+                "expanded_url": "http://bsky.app/profile/hrc.org",
+                "start": 101,
+                "url": "https://t.co/fvMmk5naNM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrc.org",
+                "end": 23,
+                "expanded_url": "http://hrc.org",
+                "start": 0,
+                "url": "https://t.co/4cqYaC8zmX"
+              }
+            ]
+          }
+        },
+        "id": "19608297",
+        "is_identity_verified": false,
+        "location": "Washington, DC",
+        "most_recent_tweet_id": "2100668399588163795",
+        "name": "Human Rights Campaign Rapid Response",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19608297/1776772853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466506068876537860/EJoATxo2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720121,
+          "following_count": 120111,
+          "like_count": 21453,
+          "listed_count": 7129,
+          "media_count": 16775,
+          "tweet_count": 64243
+        },
+        "url": "https://t.co/4cqYaC8zmX",
+        "username": "HRC",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
